@@ -1,0 +1,44 @@
+
+state={
+	id=375
+	name="北德克萨斯"
+	manpower = 5824712
+	
+	
+	state_category = large_city
+	
+	resources={
+		oil=320 # was: 580
+		aluminium=50 # was: 96
+	}
+
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 4
+			arms_factory = 1
+			air_base = 2
+			10337 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = USA
+		victory_points = {
+			10337 20
+		}
+		victory_points = {
+			3960 16
+		
+		victory_points = {
+			5022 8 
+		}
+	}
+
+	provinces={
+		805 1500 1915 2055 2082 3875 3960 3972 4577 5001 5022 5085 6968 7628 7836 7981 9773 9829 9908 9920 10337 10504 10778 10861 12301 12341 12410 12486 12848 12875 12893 
+	}
+
+	local_supplies=9.0 
+}

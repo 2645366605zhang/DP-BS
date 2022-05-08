@@ -2,7 +2,7 @@ state={
 	id=888
 	name="旧金山"
 	provinces={
-		3677 3678 9637 9671
+		3677 3678 3840 9637 9671
 	}
 	history={
 		buildings = {
