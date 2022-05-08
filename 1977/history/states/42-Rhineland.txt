@@ -1,7 +1,7 @@
 
 state={
 	id=42
-	name="波恩"
+	name="莱茵兰-普法尔茨"
 	manpower = 3027739
 	resources={
 		steel=59 # was: 100

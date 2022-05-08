@@ -1,0 +1,6 @@
+mod_decisions_debug = {
+	icon = generic_research
+	visible = {
+		is_debug = yes
+	}
+}

@@ -1,0 +1,103 @@
+mod_decisions_debug = {
+
+	germanize_test = {
+
+		icon = generic_research
+
+		available = {
+			always = yes
+		}
+
+		visible = {
+			always = yes
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			#Effect
+			set_province_name = {
+				id = 3488
+				name = "欧本-马尔梅迪"
+			}
+			set_province_name = {
+				id = 11516
+				name = "南齐锡"
+			}
+			set_province_name = {
+				id = 9503
+				name = "施特拉斯堡"
+			}
+			set_province_name = {
+				id = 6529
+				name = "寇尔马"
+			}
+			set_province_name = {
+				id = 678
+				name = "穆尔豪森"
+			}
+			set_province_name = {
+				id = 549
+				name = "哈格瑙"
+			}
+			set_province_name = {
+				id = 9559
+				name = "梅茨"
+			}
+			28 = {
+				set_state_name = "埃尔萨斯-洛特林根"
+			}
+			878 = {
+				set_state_name = "南齐锡"
+			}
+			879 = {
+				set_state_name = "欧本马尔梅迪"
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+	
+	reset_test = {
+
+		icon = generic_research
+
+		available = {
+			always = yes
+		}
+
+		visible = {
+			always = yes
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			#Effect
+			reset_province_name = 3488
+			reset_province_name = 11516
+			reset_province_name = 9503
+			reset_province_name = 6529
+			reset_province_name = 678
+			reset_province_name = 549
+			reset_province_name = 9559
+			28 = {
+				reset_state_name = yes
+			}
+			878 = {
+				reset_state_name = yes
+			}
+			879 = {
+				reset_state_name = yes
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+}
