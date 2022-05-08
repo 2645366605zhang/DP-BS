@@ -1,0 +1,22 @@
+state={
+	id=891
+	name="加利福尼亚沿海地区"
+	provinces={
+		610 677 768 781 986 3588 3644 3784 4518 6482 6665 6681 6694 6699 6745 6757 6772 6861 6876 6881 9697 9713 9730 9911 11658 11859 11876
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+		}
+		victory_points = {
+			9713 4
+		}
+		owner = USA
+		add_core_of = USA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}
