@@ -1,0 +1,28 @@
+state={
+	id=893
+	name="西雅图"
+	provinces={
+		4296 4398 7315 7386 10157 10242 10271
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 3
+			air_base = 2
+			7315 = {
+				naval_base = 6
+				coastal_bunker = 2
+			}
+		}
+		victory_points = {
+			7315 16
+		}
+		owner = USA
+		add_core_of = USA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

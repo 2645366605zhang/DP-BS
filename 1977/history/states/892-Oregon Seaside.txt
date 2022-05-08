@@ -1,0 +1,23 @@
+state={
+	id=892
+	name="俄勒冈沿海地区"
+	provinces={
+		505 528 3471 4380 10151 10183 11495 11733 12211 12281
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			dockyard = 1
+			12211 = {
+				naval_base = 1
+			}
+		}
+		owner = USA
+		add_core_of = USA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}
