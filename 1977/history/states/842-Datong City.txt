@@ -1,0 +1,20 @@
+state={
+	id=842
+	name="大同"
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	provinces={
+		7158 10507 12403 12432 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

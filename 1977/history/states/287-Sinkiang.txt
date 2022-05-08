@@ -1,0 +1,23 @@
+state={
+	id=287
+	name="塔克拉玛干沙漠"
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 1
+
+		}
+	}
+
+
+	provinces={
+		5016 7790 8042 8086 10885 12864 
+	}
+	manpower=408000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=4.0 
+}

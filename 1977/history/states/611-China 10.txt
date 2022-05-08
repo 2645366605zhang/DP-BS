@@ -1,0 +1,27 @@
+
+state={
+	id=611
+	name="锡林郭勒盟"
+	manpower = 1470000
+	
+	state_category = rural
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		add_core_of = MON
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		victory_points = {
+			11752 4
+		}
+	}
+
+	provinces={
+		4495 4612 6988 7545 7674 10499 11752 
+	}
+
+	local_supplies=0.0 
+}

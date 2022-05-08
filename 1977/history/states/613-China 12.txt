@@ -1,0 +1,31 @@
+
+state={
+	id=613
+	name="南京"
+	manpower = 17305100
+	
+	state_category = large_city
+	
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 6
+			dockyard = 1
+		}
+		victory_points = {
+			11913 24
+		}
+		victory_points = {
+			10076 6
+		}
+	}
+
+	provinces={
+		996 1089 4091 7120 10034 10076 11913 11928 11982 12052 13142 
+	}
+
+	local_supplies=0.0 
+}

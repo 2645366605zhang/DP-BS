@@ -1,0 +1,23 @@
+﻿capital = 75
+
+set_research_slots = 2
+
+set_convoys = 60
+
+recruit_character = CPA_gustav_husak
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1976.8.4"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 0
+	fascism = 20
+	communism = 80
+	neutrality = 0
+}
+
+
+

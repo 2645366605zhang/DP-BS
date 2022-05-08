@@ -1,0 +1,26 @@
+
+state = {
+	id = 563
+	name = "STATE_563" # Chita
+	manpower = 1044310
+	state_category = rural
+	resources = {
+		steel=9 # was: 12
+		chromium=8 # was: 10
+	}
+
+	history = {
+		owner = USR
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+		}
+		add_core_of = USR
+	}
+
+	provinces = {
+		1826 4675 4705 4832 7751 7860 10565 10574 10643 10681 12507 12556 12641 
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,27 @@
+state={
+	id=86
+	name="STATE_86"
+	manpower = 2106500
+	
+	
+	state_category = city
+	history={
+		owner = VPR
+		victory_points = {
+			6558 10
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+			air_base = 3
+		}
+		add_core_of = VPR
+	}
+
+	provinces={
+		17 388 3381 3532 6558 11232
+	}
+
+	local_supplies=0.0 
+}

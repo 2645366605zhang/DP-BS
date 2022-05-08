@@ -1,0 +1,23 @@
+﻿capital = 107
+
+set_research_slots = 2
+
+set_convoys = 60
+
+recruit_character = FRY_josip_broz_tito
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1976.8.4"
+	election_frequency = 12
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	communism = 75
+	neutrality = 25
+}
+
+
+

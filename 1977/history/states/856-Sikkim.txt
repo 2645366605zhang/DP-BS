@@ -1,0 +1,16 @@
+state={
+	id=856
+	name="锡金"
+	history = {
+		owner = NEP
+		add_core_of = SRC
+		add_core_of = NEP
+	}
+	provinces={
+		4435 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

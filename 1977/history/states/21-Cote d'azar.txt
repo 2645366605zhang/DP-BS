@@ -1,0 +1,41 @@
+
+state={
+	id=21
+	name="STATE_21" # Provence
+	manpower = 2060400
+	resources={
+		aluminium=60 # was: 120
+	}
+
+	state_category = city
+
+	history={
+		owner = FRR
+		victory_points = {
+			911 4
+		}
+		victory_points = {
+			11834 20
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 6
+			air_base = 6
+			911 = {
+				naval_base = 8
+			}
+			11834 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = OCC
+		add_core_of = FRR
+	}
+
+	provinces={
+		911 956 958 3928 11834 11849 11875 
+	}
+
+	local_supplies=0.0 
+}

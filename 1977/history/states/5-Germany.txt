@@ -1,0 +1,32 @@
+
+state={
+	id=5
+	name="STATE_5"
+	manpower = 1238108
+	state_category = city
+
+	history={
+		victory_points = {
+			3295 8
+		}
+		victory_points = {
+			6375 5
+		}
+		victory_points = {
+			11386 2
+		}
+		owner = BTF
+		controller = BTF
+		
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = BTF
+	}
+
+	provinces={
+		266 3295 3351 3380 6347 6375 6402 9327 9346 9372 9398 11245 11386 
+	}
+
+	local_supplies=18.0 
+}

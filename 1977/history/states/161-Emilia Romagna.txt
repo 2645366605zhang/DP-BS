@@ -1,0 +1,45 @@
+
+state={
+	id=161
+	name="STATE_161"
+	manpower = 3202401
+	
+	state_category = metropolis
+	
+	resources={
+		aluminium=16
+	}
+
+	history={
+		owner = ITR
+		victory_points = {
+			6606 5
+		}
+		victory_points = {
+			6788 12 
+		}
+		victory_points = {
+			6973 8
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			dockyard = 4
+			arms_factory = 1
+			air_base = 4
+			6788 = {
+				naval_base = 10
+			}
+			6973 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = ITR
+	}
+
+	provinces={
+		782 3773 3976 6606 6788 6790 6793 6973 6985 9582 9752 11734
+	}
+
+	local_supplies=0.0 
+}

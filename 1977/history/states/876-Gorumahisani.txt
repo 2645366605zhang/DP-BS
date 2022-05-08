@@ -1,0 +1,18 @@
+state={
+	id=876
+	name="古鲁玛希萨尼"
+	provinces={
+		4513 7497 10471 12375
+	}
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = RAJ
+		add_core_of = RAJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+}

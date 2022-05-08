@@ -1,0 +1,22 @@
+state={
+	id=882
+	name="比耶利纳"
+	provinces={
+		606
+	}
+	history={
+		victory_points = {
+			606 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		owner = FRY
+		add_core_of = FRY
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

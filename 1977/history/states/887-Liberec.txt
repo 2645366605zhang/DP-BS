@@ -1,0 +1,22 @@
+state={
+	id=887
+	name="利贝雷茨"
+	provinces={
+		445 469 494 3462 9414 11401 11414
+	}
+	history={
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			11401 4
+		}
+		owner = CPA
+		add_core_of = CPA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

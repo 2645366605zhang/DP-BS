@@ -1,0 +1,18 @@
+state={
+	id=849
+	name="多瑙-萨瓦"
+	history = {
+		owner = FRY
+		add_core_of = FRY
+		buildings = {
+			infrastructure = 3
+		}
+	}
+	provinces={
+		11577 11580
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

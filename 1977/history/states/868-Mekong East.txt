@@ -1,0 +1,19 @@
+state={
+	id=868
+	name="湄公河东岸"
+	provinces={
+		1620 4330 4596 7645 10204 10453 12167
+	}
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = VIN
+		add_core_of = CAM
+		add_core_of = VIN
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=pastoral
+}

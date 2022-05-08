@@ -1,0 +1,24 @@
+state={
+	id=865
+	name="釜山"
+	provinces={
+		12060 
+	}
+	history={
+		buildings = {
+			12060 = {
+				naval_base = 2
+				coastal_bunker = 2
+			}
+		}
+		victory_points = {
+			12060 8
+		}
+		owner = FRK
+		add_core_of = FRK
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

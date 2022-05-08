@@ -1,0 +1,27 @@
+
+state={
+	id=806
+	name="上萨瓦"
+
+	history={
+		owner = FRR
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = FRR
+		victory_points = {
+			778 1 
+		}
+	}
+
+	provinces={
+		778 9603 11573
+	}
+	manpower=280723
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

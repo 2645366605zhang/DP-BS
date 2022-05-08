@@ -1,0 +1,43 @@
+
+state={
+	id=14
+	name="STATE_14"
+	manpower = 2396600
+	
+	state_category = city
+
+	history={
+		owner = FRR
+		victory_points = {
+			3552 20
+		}
+		victory_points = {
+			6536 5
+		}
+		victory_points = {
+			9495 1
+		}
+		buildings = {
+			infrastructure = 4
+			dockyard = 6
+			air_base = 2
+			3552 = {
+				naval_base = 8
+			}
+			6536 = {
+				naval_base = 5
+			}
+			9510 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = FRR
+		add_core_of = BRI
+	}
+
+	provinces={
+		542 3552 3758 6536 6548 6572 9495 9510 9525 11508 
+	}
+
+	local_supplies=0.0 
+}

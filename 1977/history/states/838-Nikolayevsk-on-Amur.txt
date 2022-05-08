@@ -1,0 +1,15 @@
+state={
+	id=838
+	name="阿穆尔河畔尼古拉耶夫斯克(庙街)"
+	history = {
+		owner = USR
+		add_core_of = USR
+	}
+	provinces={
+		1724 1772 1842 3664 4290 4701 4779 4829 4844 7616 7748 7871 9659 10571 10577 10590 12559 12569 12638 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

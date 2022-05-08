@@ -1,0 +1,24 @@
+state={
+	id=866
+	name="蔚山"
+	provinces={
+		4056 4086
+	}
+	history={
+		buildings = {
+			4056 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			4056 2 
+		}
+		owner = FRK
+		add_core_of = FRK
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

@@ -1,0 +1,15 @@
+characters = {
+	ASR_franz_muhri = {
+		name = "弗兰茨·穆里"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_franz_muhri_large"
+			}
+		}
+		country_leader = {
+			ideology = i_stalinism
+			traits = {  }
+			expire = "2001.9.7.1"
+		}
+	}
+}

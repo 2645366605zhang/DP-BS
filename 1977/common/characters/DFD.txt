@@ -1,0 +1,16 @@
+characters = {
+	DFD_erich_honecker = {
+		name = "埃里希·昂纳克"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_erich_honecker_large"
+				small = "GFX_portrait_erich_honecker_small"
+			}
+		}
+		country_leader = {
+			ideology = i_stalinism
+			traits = {  }
+			expire = "1994.5.29.1"
+		}
+	}
+}

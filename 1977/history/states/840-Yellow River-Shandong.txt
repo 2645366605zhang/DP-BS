@@ -1,0 +1,19 @@
+state={
+	id=840
+	name="黄河流域-山东"
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		1084 7160 7189 9987 11933 11962 12093 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

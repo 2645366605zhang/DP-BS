@@ -1,0 +1,19 @@
+﻿capital = 2
+
+set_research_slots = 2
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1971.12.29"
+	election_frequency = 84
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 85
+	fascism = 0
+	communism = 5
+	neutrality = 10
+}

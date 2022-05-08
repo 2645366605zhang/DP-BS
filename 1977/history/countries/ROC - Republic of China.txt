@@ -1,0 +1,22 @@
+﻿capital = 524
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1977.8.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 0
+	fascism = 15
+	communism = 20
+	neutrality = 65
+}

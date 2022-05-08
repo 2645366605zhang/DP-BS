@@ -1,0 +1,26 @@
+
+state={
+	id=610
+	name="承德"
+	manpower = 1975377
+	
+	state_category = large_town
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			3900 = {
+				naval_base = 4
+			}
+		}
+
+	}
+
+	provinces={
+		814 934 972 3814 3828 3830 3881 3900 3934 4514 6837 6852 6898 6937 7575 7633 9873 9905 9927 10331 10426 11801 11855 11886 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,29 @@
+﻿capital = 3
+
+set_research_slots = 3
+
+#set_technology = {
+#
+#}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1975.10.18"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 65
+	fascism = 10
+	communism = 25
+	neutrality = 0
+}
+
+1939.1.1 = {
+	#next election october 39
+	set_popularities = {
+		democratic = 95
+		fascism = 2
+		communism = 3
+	}
+}

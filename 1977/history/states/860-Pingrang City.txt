@@ -1,0 +1,25 @@
+state={
+	id=860
+	name="平壤"
+	provinces={
+		4052 
+	}
+	history={
+		victory_points = {
+			4052 20
+		}
+		buildings = {
+			4052 = {
+				naval_base = 2
+				coastal_bunker = 2
+				bunker = 4
+			}
+		}
+		owner = PRJ
+		add_core_of = PRJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_city
+}

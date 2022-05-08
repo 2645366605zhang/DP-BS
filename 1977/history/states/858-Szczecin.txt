@@ -1,0 +1,18 @@
+state={
+	id=858
+	name="斯德丁"
+	provinces={
+		6282 
+	}
+	history={
+		victory_points = {
+			6282 5 
+		}
+		owner = DFD
+		add_core_of = DFD
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

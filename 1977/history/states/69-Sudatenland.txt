@@ -1,0 +1,41 @@
+state=
+{
+	id=69
+	name="STATE_69"
+	manpower = 2830000
+	
+	state_category = town
+	
+	resources={
+		steel=4 # was: 8
+	}
+	
+	history={
+		victory_points = {
+			3585 6
+		}
+		victory_points = {
+			11432 2
+		}
+		owner = CPA
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			anti_air_building = 3
+			424 = {
+				bunker = 8
+			}
+			6470 = {
+				bunker = 8
+			}
+			9555 = {
+				bunker = 8
+			}
+		}
+		add_core_of = CPA
+	}
+	provinces = {
+		424 3418 3585 6470 9555 11432
+	}
+	local_supplies=0.0 
+}

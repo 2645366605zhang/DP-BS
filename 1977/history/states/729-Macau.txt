@@ -1,0 +1,28 @@
+state={
+	id=729
+	name="澳门市"
+	manpower = 157805
+	
+	state_category = city
+	
+	history={
+		owner = SRC
+		add_core_of = SRC
+		victory_points = {
+			4189 18
+		}
+		buildings = {
+			infrastructure = 2
+			4189 = {
+				naval_base = 5
+				coastal_bunker = 2
+			}
+		}
+	}
+	
+	provinces={
+		4189 
+	}
+
+	local_supplies=0.0 
+}

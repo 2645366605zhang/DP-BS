@@ -1,0 +1,16 @@
+state={
+	id=855
+	name="江心坡"
+	history = {
+		owner = BRM
+		add_core_of = SRC
+		add_core_of = BUR
+	}
+	provinces={
+		1197 1934 4318 4996 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

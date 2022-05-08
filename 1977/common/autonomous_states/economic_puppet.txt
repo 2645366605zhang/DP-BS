@@ -1,0 +1,72 @@
+autonomy_state = {
+	id = economic_puppet
+	
+	is_puppet = yes
+	
+	min_freedom_level = 0.95
+	
+	manpower_influence = 0.05
+	
+	rule = {
+		desc = "这是一个经济傀儡描述的占位符"
+		
+		can_not_declare_war = yes
+		can_decline_call_to_war = no
+		can_be_spymaster = no
+		contributes_operatives = no
+		can_create_collaboration_government = no
+		can_be_called_to_war = no
+		can_boost_other_ideologies = no
+		can_create_factions = no
+		units_deployed_to_overlord = no
+	}
+	
+	modifier = {
+		can_master_build_for_us = 1
+		extra_trade_to_overlord_factor = 0.5
+		overlord_trade_cost_factor = -0.6
+		justify_war_goal_time = 1.0
+		research_sharing_per_country_bonus_factor = -0.9
+		autonomy_gain_trade_factor = -0.8
+		autonomy_gain_ll_to_overlord_factor = -0.4
+		cic_to_overlord_factor = 0.25
+	}
+	
+	ai_subject_wants_higher = {
+		factor = 1.0
+	}
+	
+	ai_overlord_wants_lower = {
+		factor = 1.0
+	}
+
+	ai_overlord_wants_garrison = {
+		always = no
+	}
+
+	allowed = {
+		always = yes
+	}
+
+	#ROOT is puppet - FROM is potential OVERLORD
+#	use_for_peace_conference_weight = {
+#		base = 0
+#		modifier = {
+#			add = 10
+#			FROM = {
+#				OR = {
+#					has_wargoal_against = { target = ROOT type = puppet_wargoal_focus }
+#					has_rule = can_puppet
+#				}
+#			}
+#		}
+#	}
+
+	can_take_level = {
+		#trigger here
+	}
+
+	can_lose_level = {
+		#trigger here
+	}
+}

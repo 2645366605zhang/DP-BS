@@ -1,0 +1,15 @@
+characters = {
+	USR_supreme_soviet = {
+		name = "最高苏维埃"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_usr_supreme_soviet_large"
+			}
+		}
+		country_leader = {
+			ideology = i_khrushchevism
+			traits = { democratic_centralism }
+			expire = "1991.12.26.1"
+		}
+	}
+}

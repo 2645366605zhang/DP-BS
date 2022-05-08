@@ -1,0 +1,23 @@
+
+state={
+	id=525
+	name="STATE_525"
+
+	history={
+		owner = FRK
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = FRK
+		add_core_of = PRJ
+
+	}
+
+	provinces={
+		1054 1081 1100 1148 4103 4126 7021 7121 7175 7204 7221 9936 10036 10085 10110 10115 11912 11948 11958 11977 11992 12011 12085 12089 
+	}
+	manpower=14284105
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

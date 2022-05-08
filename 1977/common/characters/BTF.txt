@@ -1,0 +1,15 @@
+characters = {
+	BTF_petras_griskevicius = {
+		name = "佩特拉斯·皮亚特罗维奇·格里什克维丘斯"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_petras_griskevicius_large"
+			}
+		}
+		country_leader = {
+			ideology = i_leninism
+			traits = {  }
+			expire = "1987.11.14.1"
+		}
+	}
+}

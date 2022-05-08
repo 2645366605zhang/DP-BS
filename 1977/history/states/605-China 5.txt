@@ -1,0 +1,27 @@
+state={
+	id=605
+	name="四川"
+	resources = {
+		steel = 12
+	}
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 4
+			arms_factory = 4
+			industrial_complex = 2
+			air_base = 2
+		}
+	}
+
+	provinces={
+		1893 2030 2091 5048 7256 10144 11865 12274 
+	}
+	manpower=52963300
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,18 @@
+state={
+	id=874
+	name="孔雀河沿岸"
+	provinces={
+		1377 1541 1983 4299 7064 7334 8082 8114 9951 9973 10751 12777 12786
+	}
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = RAJ
+		add_core_of = RAJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.200
+	local_supplies=0.000
+	state_category=rural
+}

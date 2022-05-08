@@ -1,0 +1,19 @@
+state={
+	id=872
+	name="喜马偕尔"
+	provinces={
+		1129 2076 3989 5157 7106 12708
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+		owner = RAJ
+		add_core_of = RAJ
+	}
+	manpower=0
+	buildings_max_level_factor=0.600
+	local_supplies=0.000
+	state_category=town
+}

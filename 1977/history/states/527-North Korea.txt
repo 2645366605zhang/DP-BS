@@ -1,0 +1,28 @@
+
+state={
+	id=527
+	name="黄海-江原"
+	resources={
+		steel=18.000
+		tungsten=28.000
+	}
+
+	history={
+		owner = PRJ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = PRJ
+		add_core_of = FRK
+	}
+
+	provinces={
+		848 1003 4004 4107 7070 7155 7171 9981 10065 10083 11770 11915 12040 
+	}
+	manpower=6774200
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

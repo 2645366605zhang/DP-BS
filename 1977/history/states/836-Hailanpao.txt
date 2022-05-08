@@ -1,0 +1,18 @@
+state={
+	id=836
+	name="孟家屯"
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		victory_points = {
+			7763 3 
+		}
+	}
+	provinces={
+		7763 12657 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

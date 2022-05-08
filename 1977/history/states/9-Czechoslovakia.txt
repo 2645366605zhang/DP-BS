@@ -1,0 +1,38 @@
+state={
+	id=9
+	name="STATE_9"
+	manpower = 4492600
+	resources={
+		steel=16
+	}
+	
+	state_category = metropolis
+	
+	history={
+		owner = CPA
+		victory_points = { 11542 30 }
+		victory_points = { 6418 8 }
+		victory_points = { 9569 8 }
+		victory_points = { 9541 4 }
+		buildings = {
+			infrastructure = 4
+			arms_factory = 6
+			industrial_complex = 1
+			anti_air_building = 5
+			air_base = 8
+			5283 = {
+				bunker = 8
+			}
+			7857 = {
+				bunker = 8
+			}
+		}
+		add_core_of = CPA
+	}
+
+	provinces={
+		543 583 5283 6418 6440 6592 7857 9421 9429 9541 9569 11542 11556 
+	}
+
+	local_supplies=0.0 
+}

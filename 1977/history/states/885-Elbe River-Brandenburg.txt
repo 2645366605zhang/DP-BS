@@ -1,0 +1,24 @@
+state={
+	id=885
+	name="易北河流域-勃兰登堡"
+	provinces={
+		3522 6487 9560 11359
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+			rocket_site = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			3522 8
+		}
+		owner = DFD
+		add_core_of = DFD
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

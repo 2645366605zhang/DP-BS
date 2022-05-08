@@ -1,0 +1,18 @@
+
+state={
+	id = 657
+	name = "南赤塔" # South Chita
+	manpower = 308380
+
+	state_category = pastoral
+
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		add_core_of = MON
+	}
+	provinces={
+		1672 4677 4719 7725 7786 10559 10683 12622
+	}
+	local_supplies = 0.0 
+}

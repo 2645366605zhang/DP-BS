@@ -1,0 +1,37 @@
+characters = {
+	PRJ_kim_il_sung = {
+		name = "金日成"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_prj_kim_il_sung_large"
+			}
+		}
+		country_leader = {
+			ideology = i_stalinism
+			traits = {  }
+			expire = "1994.7.8.1"
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = PRJ_kim_il_sung
+			allowed = {
+				tag = PRJ
+			}
+			available = {
+				always = yes
+			}
+			traits = {
+				communist_revolutionary
+			}
+			do_effect = {
+				NOT = {
+					has_government = democratic
+				}
+			}
+			ai_will_do = {
+				factor = 5.000
+			}
+			cost = 114.514
+		}
+	}
+}

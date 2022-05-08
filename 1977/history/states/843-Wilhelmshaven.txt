@@ -1,0 +1,24 @@
+state={
+	id=843
+	name="威廉港"
+	history = {
+		owner = DFD
+		add_core_of = DFD
+		add_core_of = BNB
+		victory_points = {
+			241 6
+		}
+		buildings = {
+			241 = {
+				naval_base = 8
+			}
+		}
+	}
+	provinces={
+		241
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

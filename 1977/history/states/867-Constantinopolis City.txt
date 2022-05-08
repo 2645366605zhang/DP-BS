@@ -1,0 +1,32 @@
+state={
+	id=867
+	name="博斯普鲁斯海峡西岸"
+	provinces={
+		9833
+	}
+	resources = {
+		chromium = 32
+		steel = 8
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+			9833 = {
+				naval_base = 4
+				bunker = 10
+				coastal_bunker = 6
+			}
+		}
+		victory_points = {
+			9833 24
+		}
+		owner = USR
+		add_core_of = BWP
+		add_core_of = TUR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

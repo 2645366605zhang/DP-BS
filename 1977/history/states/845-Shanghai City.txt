@@ -1,0 +1,25 @@
+state={
+	id=845
+	name="上海"
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		victory_points = {
+			7014 20
+		}
+		buildings = {
+			7014 = {
+				naval_base = 5
+				coastal_bunker = 4
+				bunker = 4
+			}
+		}
+	}
+	provinces={
+		7014 12076
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

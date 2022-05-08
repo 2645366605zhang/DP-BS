@@ -1,0 +1,24 @@
+﻿capital = 42
+
+set_research_slots = 3	
+
+set_convoys = 60
+
+recruit_character = BNB_helmut_heinrich_waldemar_schmidt
+recruit_character = BNB_walter_scheel
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1974.5.6"
+	election_frequency = 96
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 70
+	fascism = 20
+	communism = 0
+	neutrality = 10
+}
+
+
+

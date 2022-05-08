@@ -1,0 +1,32 @@
+state=
+{
+	id=530
+	name="伊予之二名岛" # Shikoku
+	manpower = 3310000
+	state_category = city
+	history=
+	{
+		owner = AMA
+		add_core_of = JAP
+		add_core_of = AMA
+		buildings = {
+			infrastructure = 4
+			air_base = 4
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 2
+			7197 = {
+				bunker = 4
+			}
+		}
+		
+		victory_points = {
+			7197 10
+		}
+	}
+	provinces={
+		4094 4179 7046 7197 9965 11997 12028
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,20 @@
+state={
+	id=841
+	name="黄河流域-河南"
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 1
+		}
+	}
+	provinces={
+		1139 4114 4144 4606 7074 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

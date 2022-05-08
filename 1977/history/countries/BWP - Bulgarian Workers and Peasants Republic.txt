@@ -1,0 +1,21 @@
+﻿capital = 48
+
+set_research_slots = 2
+
+set_convoys = 60
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1976.3.30"
+	election_frequency = 18
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 40
+	fascism = 0
+	communism = 60
+	neutrality = 0
+}
+
+
+

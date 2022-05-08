@@ -1,0 +1,31 @@
+
+state={
+	id=64
+	name="STATE_64"
+	manpower = 7265029
+	buildings_max_level_factor = 1.200
+
+	state_category = megalopolis
+
+
+	history={
+		owner = DFD
+		victory_points = {
+			6521 50 
+		}
+		buildings = {
+			infrastructure = 5
+			arms_factory = 5
+			industrial_complex = 4
+			anti_air_building = 4
+			air_base = 8
+		}
+		add_core_of = DFD
+	}
+
+	provinces={
+		375 478 3367 3499 6521 9428 9456 9496 11219 11415 11444 11505 
+	}
+
+	local_supplies=0.0 
+}

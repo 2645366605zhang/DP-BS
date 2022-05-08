@@ -1,0 +1,83 @@
+characters = {
+	BNB_helmut_heinrich_waldemar_schmidt = {
+		name = "赫尔穆特·海因里希·瓦尔德马·施密特"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_helmut_heinrich_waldemar_schmidt_large"
+				small = "GFX_portrait_helmut_heinrich_waldemar_schmidt_small"
+			}
+		}
+		country_leader = {
+			ideology = i_social_democracy
+			traits = {  }
+			expire = "2015.11.10.1"
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = BNB_helmut_heinrich_waldemar_schmidt_chancellor
+			allowed = {
+				tag = BNB
+			}
+			available = {
+				has_government = democratic
+				NOT = {
+					has_country_leader = {
+						name = "赫尔穆特·海因里希·瓦尔德马·施密特"
+						ruling_only = yes
+					}
+				}
+			}
+			traits = {
+				Bundespresident
+			}
+			do_effect = {
+				has_government = democratic
+			}
+			ai_will_do = {
+				factor = 5.000
+			}
+			cost = 50
+		}
+	}
+	
+	BNB_walter_scheel = {
+		name = "瓦尔特·谢尔"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_walter_scheel_large"
+				small = "GFX_portrait_walter_scheel_small"
+			}
+		}
+		country_leader = {
+			ideology = i_liberalism
+			traits = {  }
+			expire = "2016.8.24.1"
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = BNB_walter_scheel_chancellor
+			allowed = {
+				tag = BNB
+			}
+			available = {
+				has_government = democratic
+				NOT = {
+					has_country_leader = {
+						name = "瓦尔特·谢尔"
+						ruling_only = yes
+					}
+				}
+			}
+			traits = {
+				Bundespresident
+			}
+			do_effect = {
+				has_government = democratic
+			}
+			ai_will_do = {
+				factor = 5.000
+			}
+			cost = 50
+		}
+	}
+}

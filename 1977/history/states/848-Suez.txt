@@ -1,0 +1,26 @@
+state={
+	id=848
+	name="苏伊士"
+	history = {
+		owner = GBI
+		add_core_of = EGY
+		victory_points = {
+			4073 5
+		}
+		victory_points = {
+			12049 5
+		}
+		buildings = {
+			12049 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		4073 12049
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

@@ -1,0 +1,24 @@
+state={
+	id=850
+	name="新加坡"
+	history = {
+		owner = GBI
+		add_core_of = GBI
+		buildings = {
+			12299 = {
+				naval_base = 8
+				coastal_bunker = 3
+			}
+		}
+		victory_points = {
+			12299 15
+		}
+	}
+	provinces={
+		12299
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

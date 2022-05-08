@@ -1,0 +1,26 @@
+state={
+	id=884
+	name="马尔凯"
+	provinces={
+		925 967 3910 6926 9838 11790 11861
+	}
+	history={
+		victory_points = {
+			925 6
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			dockyard = 1
+			925 = {
+				naval_base = 2
+			}
+		}
+		owner = ITR
+		add_core_of = ITR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

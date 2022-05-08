@@ -1,0 +1,16 @@
+state={
+	id=853
+	name="中属佤邦"
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		add_claim_by = BRM
+	}
+	provinces={
+		4210 7400 7909 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

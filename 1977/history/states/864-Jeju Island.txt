@@ -1,0 +1,25 @@
+state={
+	id=864
+	name="济州岛"
+	provinces={
+		1177 
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			1177 = {
+				coastal_bunker = 7
+			}
+		}
+		victory_points = {
+			1177 2 
+		}
+		owner = AMA
+		add_core_of = FRK
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=small_island
+}

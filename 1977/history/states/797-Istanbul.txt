@@ -1,0 +1,35 @@
+state={
+	id=797
+	name="博斯普鲁斯海峡东岸"
+	provinces={
+		11829 
+	}
+	manpower = 1042276
+	resources={
+		chromium = 20
+		steel = 12
+	}
+	
+	state_category = town
+
+	history= {
+		owner = GBI
+		buildings = {
+			infrastructure = 3 
+			industrial_complex = 1
+			air_base = 6
+			11829 = {
+				naval_base = 1
+				bunker = 4
+				coastal_bunker = 4
+			}
+		}
+		victory_points = {
+			11829 12
+		}
+		add_core_of = TUR
+		add_core_of = BWP
+	}
+
+	local_supplies=0.0 
+}

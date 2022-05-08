@@ -1,0 +1,32 @@
+
+state={
+	id=65
+	name="STATE_65"
+	manpower = 5592576
+	resources={
+		steel=35
+	}
+
+	state_category = city
+
+
+	history={
+		owner = DFD
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+			rocket_site = 2
+		}
+		victory_points = {
+			514 8
+		}
+		add_core_of = DFD
+	}
+
+	provinces={
+		514 573 3514 6441 9535 
+	}
+
+	local_supplies=0.0 
+}

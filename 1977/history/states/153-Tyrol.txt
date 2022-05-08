@@ -1,0 +1,25 @@
+
+state={
+	id=153
+	name="蒂罗尔山区"
+	manpower = 1655340
+	
+	state_category = town
+
+	history={
+		owner = BNB
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = BNB
+		add_core_of = ASR
+	}
+
+	provinces={
+		668 671 3660 3675 6673 6675 6678 6680 9630 9633 11615 11618 11634 
+	}
+
+	local_supplies=12.0 
+}

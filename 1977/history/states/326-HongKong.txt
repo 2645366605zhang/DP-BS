@@ -1,0 +1,28 @@
+state=
+{
+	id=326
+	name="香港市"
+	manpower = 1143516
+	state_category = large_city
+	history=
+	{
+		owner = SRC
+		add_core_of = SRC
+		victory_points = {
+			10062 24
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 1
+			10062 = {
+				naval_base = 8
+				coastal_bunker = 2
+			}
+		}
+	}
+	provinces={
+		10062
+	}
+
+	local_supplies=0.0 
+}

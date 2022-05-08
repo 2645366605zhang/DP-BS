@@ -1,0 +1,16 @@
+characters = {
+	FRY_josip_broz_tito = {
+		name = "约瑟普·布罗兹·铁托"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_josip_broz_tito_large"
+				small = "GFX_portrait_josip_broz_tito_small"
+			}
+		}
+		country_leader = {
+			ideology = i_authoritarian_socialism
+			traits = {  }
+			expire = "1980.5.4.1"
+		}
+	}
+}

@@ -1,0 +1,23 @@
+﻿capital = 10
+
+set_research_slots = 3	
+
+set_convoys = 60
+
+recruit_character = VPR_edward_gierek
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1974.5.20"
+	election_frequency = 36
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 0
+	fascism = 20
+	communism = 80
+	neutrality = 0
+}
+
+
+

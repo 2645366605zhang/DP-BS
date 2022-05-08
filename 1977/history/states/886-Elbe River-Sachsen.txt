@@ -1,0 +1,27 @@
+state={
+	id=886
+	name="易北河流域-萨克森"
+	provinces={
+		3535 6559 9441 9471 11481 11545
+	}
+	resources={
+		steel=45
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+			arms_factory = 3
+			industrial_complex = 5
+			rocket_site = 1
+		}
+		victory_points = {
+			3535 20
+		}
+		owner = DFD
+		add_core_of = DFD
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+}

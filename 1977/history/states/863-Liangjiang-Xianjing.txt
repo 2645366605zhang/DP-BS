@@ -1,0 +1,15 @@
+state={
+	id=863
+	name="两江-咸镜"
+	provinces={
+		852 898 906 959 3803 3852 3860 3904 3981 6822 6922 6928 9899 11878
+	}
+	history={
+		owner = PRJ
+		add_core_of = PRJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

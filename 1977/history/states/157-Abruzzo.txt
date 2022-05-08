@@ -1,0 +1,24 @@
+
+state={
+	id=157
+	name="STATE_157"
+	manpower = 2979335
+	
+	state_category = town
+
+	history={
+		owner = ITR
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+			dockyard = 1
+		}
+		add_core_of = ITR
+	}
+
+	provinces={
+		963 3923 3966 6831 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,110 @@
+characters = {
+	SRC_hua_guofeng = {
+		name = "华国锋"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_src_hua_guofeng_large"
+				small = "GFX_portrait_src_hua_guofeng_small"
+			}
+		}
+		country_leader = {
+			ideology = i_moderate_socialism
+			traits = {  }
+			expire = "2008.8.20.1"
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = SRC_ye_jianying
+			allowed = {
+				 tag = SRC
+			}
+			available = {
+				always = yes
+			}
+			traits = {
+				communist_revolutionary
+			}
+			do_effect = {
+				NOT = {
+					has_government = democratic
+				}
+			}
+			ai_will_do = {
+				factor = 5.000
+			}
+			cost = 114.514
+		}
+	}
+	SRC_deng_xiaoping = {
+		name = "邓小平"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_src_deng_xiaoping_large"
+				small = "GFX_portrait_src_deng_xiaoping_small"
+			}
+		}
+		country_leader = {
+			ideology = i_keynesianism
+			traits = {  }
+			expire = "1997.2.19.1"
+		}
+	}
+	SRC_lin_biao = {
+		name = "林彪"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_src_lin_biao_large"
+				small = "GFX_portrait_src_lin_biao_small"
+			}
+		}
+		country_leader = {
+			ideology = i_militarism
+			traits = {  }
+			expire = "1997.2.19.1"
+		}
+	}
+	SRC_the_central_committee = {
+		name = "中央委员会"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_src_the_central_committee_large"
+			}
+		}
+		country_leader = {
+			ideology = i_oligarchy
+			traits = {  }
+			expire = "2006.3.30.1"
+		}
+	}
+	SRC_ye_jianying = {
+		name = "叶剑英"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_cuba_jose_barnet"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = SRC_ye_jianying
+			allowed = {
+				 tag = SRC
+			}
+			available = {
+				always = yes
+			}
+			traits = {
+				communist_revolutionary
+			}
+			do_effect = {
+				NOT = {
+					has_government = democratic
+				}
+			}
+			ai_will_do = {
+				factor = 5.000
+			}
+			cost = 150.000
+		}
+		
+	}
+}

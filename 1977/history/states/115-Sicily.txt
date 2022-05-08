@@ -1,0 +1,37 @@
+
+state={
+	id=115
+	name="西西里岛"
+	manpower = 3836571
+	
+	state_category = large_city
+	history={
+		owner = ITR
+		victory_points = {
+			10074 28 
+		}
+		victory_points = {
+			4159 16
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 6
+			dockyard = 4
+			7059 = {
+				naval_base = 4
+			}
+			4159 = {
+				naval_base = 10
+			}
+		}
+		add_core_of = ITR
+	}
+
+	provinces={
+		1009 1156 3857 4014 4159 7059 7147 10074 12047 
+	}
+
+	local_supplies=0.0 
+}

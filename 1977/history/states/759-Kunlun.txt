@@ -1,0 +1,23 @@
+state={
+	id=759
+	name="昆仑山脉"
+	provinces={
+		1698 1943 2074 4947 4973 5736 10315 10911
+	}
+	manpower=70000
+	buildings_max_level_factor=1.000
+	state_category = rural
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			4973 1
+		}
+	}
+
+	local_supplies=0.0 
+}

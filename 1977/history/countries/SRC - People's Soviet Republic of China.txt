@@ -1,0 +1,28 @@
+﻿capital = 608
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+recruit_character = SRC_hua_guofeng
+recruit_character = SRC_ye_jianying
+recruit_character = SRC_deng_xiaoping
+recruit_character = SRC_lin_biao
+recruit_character = SRC_the_central_committee
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1977.8.1"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 25
+	fascism = 10
+	communism = 55
+	neutrality = 10
+}

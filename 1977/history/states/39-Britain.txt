@@ -1,0 +1,30 @@
+
+state={
+	id=39
+	name="特伦蒂诺-上阿迪杰" # South Tyrol
+	manpower = 641650
+	
+	state_category = town
+	
+	resources={
+		aluminium=22
+	}
+
+	history={
+		victory_points = {
+			11598 2
+		}
+		owner = ITR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		add_core_of = ITR
+	}
+
+	provinces={
+		603 656 6631 9598 11598 
+	}
+
+	local_supplies=0.0 
+}

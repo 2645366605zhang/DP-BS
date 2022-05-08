@@ -1,0 +1,23 @@
+﻿capital = 126
+
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_research_slots = 4
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1974.10.10"
+	election_frequency = 60
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 94
+	fascism = 1
+	communism = 5
+	neutrality = 0
+}

@@ -1,0 +1,15 @@
+state={
+	id=862
+	name="慈江-平安"
+	provinces={
+		912 978 3912 6963 9790 9795 9918 11775 11828 11835 11896
+	}
+	history={
+		owner = PRJ
+		add_core_of = PRJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

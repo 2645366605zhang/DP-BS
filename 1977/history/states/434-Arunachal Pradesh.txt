@@ -1,0 +1,26 @@
+
+state={
+	id=434
+	name="STATE_434"
+	manpower = 200000
+	
+	state_category = wasteland
+	resources={
+		# tungsten=49 # was: 54
+	}
+
+	history={
+		owner = AIS
+		add_core_of = AIS
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1116 12322
+	}
+
+	local_supplies=3.0 
+}

@@ -1,0 +1,26 @@
+state={
+	id=883
+	name="拉韦纳"
+	provinces={
+		9924
+	}
+	history={
+		victory_points = {
+			9924 8
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			dockyard = 2
+			9924 = {
+				naval_base = 2
+			}
+		}
+		owner = ITR
+		add_core_of = ITR
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}

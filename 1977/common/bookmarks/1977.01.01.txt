@@ -1,0 +1,109 @@
+bookmarks = {
+	bookmark = {
+		name = "NAME_1977"
+		desc = "DESC_1977"
+		date = 1977.1.1.1
+		picture = "GFX_1977_bookmark"
+		default_country = "USR"
+	
+		USR = {
+			history = USR_1977_DESC
+			ideology = communism
+			ideas={
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_strengthen_government_support
+				FRA_arms_purchases_in_the_us
+				FRA_french_union
+			}
+		}
+		
+		SRC = {
+			history = SRC_1977_DESC
+			ideology = communism
+			ideas={
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_strengthen_government_support
+				FRA_arms_purchases_in_the_us
+				FRA_french_union
+			}
+		}
+		
+		BTF = {
+			history = BTF_1977_DESC
+			ideology = communism
+			ideas={
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_strengthen_government_support
+				FRA_arms_purchases_in_the_us
+				FRA_french_union
+			}
+		}
+		
+		FRY = {
+			history = FRY_1977_DESC
+			ideology = communism
+			ideas={
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_strengthen_government_support
+				FRA_arms_purchases_in_the_us
+				FRA_french_union
+			}
+		}
+		
+		PRJ = {
+			history = PRJ_1977_DESC
+			ideology = communism
+			ideas={
+				FRA_victors_of_wwi
+				FRA_disjointed_government
+				FRA_protected_by_the_maginot_line
+			}
+			focuses = {
+				FRA_strengthen_government_support
+				FRA_arms_purchases_in_the_us
+				FRA_french_union
+			}
+		}
+		
+		"---"={
+			history = "OTHER_1977_DESC"
+		}
+
+		# minors from DLC ####
+		"CAN"={
+			minor = yes
+			history = "CAN_BLITZKRIEG_DESC"
+			ideology = democratic
+			ideas = {
+				CAN_great_depression_1
+				CAN_conscription_crisis
+			}
+			focuses = {
+				CAN_skewer_the_eagle
+				CAN_north_american_alliance
+				CAN_join_comintern
+			}
+		}
+		
+		effect = {
+			randomize_weather = 12345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

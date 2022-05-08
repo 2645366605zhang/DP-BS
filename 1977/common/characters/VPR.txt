@@ -1,0 +1,15 @@
+characters = {
+	VPR_edward_gierek = {
+		name = "爱德华·盖莱克"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_edward_gierek_large"
+			}
+		}
+		country_leader = {
+			ideology = i_stalinism
+			traits = {  }
+			expire = "2001.7.29.1"
+		}
+	}
+}

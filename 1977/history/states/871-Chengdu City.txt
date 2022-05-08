@@ -1,0 +1,23 @@
+state={
+	id=871
+	name="成都市"
+	provinces={
+		1367 4925 8026 10132 12767
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		owner = SRC
+		add_core_of = SRC
+		victory_points = {
+			4925 20
+		}
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

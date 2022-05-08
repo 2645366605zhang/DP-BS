@@ -1,0 +1,24 @@
+state={
+	id=877
+	name="巴黎"
+	provinces={
+		9523 9534 11506
+	}
+	history={
+		victory_points = {
+			11506 40
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 6
+			industrial_complex = 5
+			arms_factory = 1
+		}
+		owner = FRR
+		add_core_of = FRR
+	}
+	manpower=0
+	buildings_max_level_factor=1.200
+	local_supplies=0.000
+	state_category=metropolis
+}

@@ -1,0 +1,23 @@
+state={
+	id=839
+	name="山东半岛"
+	history = {
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 2
+			4205 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		1104 1200 4186 4205 7105 10018 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=town
+}

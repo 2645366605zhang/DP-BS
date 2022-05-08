@@ -1,0 +1,15 @@
+characters = {
+	CPA_gustav_husak = {
+		name = "古斯塔夫·胡萨克"
+		portraits = {
+			civilian = {
+				large = "GFX_portrait_gustav_husak_large"
+			}
+		}
+		country_leader = {
+			ideology = i_moderate_socialism
+			traits = {  }
+			expire = "1987.12.17.1"
+		}
+	}
+}

@@ -1,0 +1,9 @@
+strategic_region={
+	id=231
+	name="库页岛"
+	provinces={
+		855 1322 1742 1755 1820 12446 
+	}
+	weather={
+	}
+}

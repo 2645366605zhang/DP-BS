@@ -1,0 +1,26 @@
+
+state={
+	id=597
+	name="STATE_597"
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		victory_points = {
+			1069 8
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+
+	provinces={
+		1069 1124 1154 1184 4037 4071 4089 4157 4181 7055 7089 9971 10043 10072 10102 12015 12045 12069 12074 
+	}
+	manpower=38373200
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=4.000
+}

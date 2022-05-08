@@ -1,0 +1,24 @@
+state={
+	id=861
+	name="汉城"
+	provinces={
+		7125 
+	}
+	history={
+		victory_points = {
+			7125 10
+		}
+		buildings = {
+			7125 = {
+				coastal_bunker = 6
+				bunker = 8
+			}
+		}
+		owner = PRJ
+		add_core_of = PRJ
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

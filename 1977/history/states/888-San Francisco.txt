@@ -1,0 +1,27 @@
+state={
+	id=888
+	name="旧金山"
+	provinces={
+		3677 3678 9637 9671
+	}
+	history={
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 5
+			dockyard = 2
+			air_base = 8
+			9671 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			9671 35
+		}
+		owner = USA
+		add_core_of = USA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=metropolis
+}

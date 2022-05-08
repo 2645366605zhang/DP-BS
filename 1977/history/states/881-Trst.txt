@@ -1,0 +1,27 @@
+state={
+	id=881
+	name="的里雅斯特"
+	provinces={
+		6626
+	}
+	history={
+		victory_points = {
+			6626 10
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 2
+			6626 = {
+				naval_base = 4
+			}
+		}
+		owner = ITR
+		add_core_of = FRY
+		add_claim_by = ITR
+	}
+	manpower=0
+	buildings_max_level_factor=1.200
+	local_supplies=0.000
+	state_category=large_town
+}

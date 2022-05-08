@@ -1,0 +1,43 @@
+﻿capital = 219
+
+set_research_slots = 5
+
+set_convoys = 60
+
+recruit_character = USR_supreme_soviet
+
+set_politics = {
+	ruling_party = communism
+	last_election = "1977.1.1"
+	election_frequency = 120
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 0
+	fascism = 0
+	communism = 92
+	neutrality = 8
+}
+
+create_faction = 社会主义国际
+add_to_faction = SRC
+add_to_faction = PRJ
+add_to_faction = AMS
+add_to_faction = BTF
+add_to_faction = SRB
+add_to_faction = CMO
+add_to_faction = BWP
+add_to_faction = UHC
+add_to_faction = VPR
+add_to_faction = CPA
+add_to_faction = FRY
+add_to_faction = DFD
+add_to_faction = ASR
+add_to_faction = FPA
+
+#Only for testing purpose
+set_autonomy = {
+	target = SRB
+	autonomy_state = economic_puppet
+}
