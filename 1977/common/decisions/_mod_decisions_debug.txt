@@ -17,9 +17,22 @@ mod_decisions_debug = {
 
 		complete_effect = {
 			#Effect
+			custom_effect_tooltip = 德国化城市名：
 			set_province_name = {
 				id = 3488
 				name = "欧本-马尔梅迪"
+			}
+			set_province_name = {
+				id = 9263
+				name = "哥腾哈芬"
+			}
+			set_province_name = {
+				id = 362
+				name = "但泽"
+			}
+			set_province_name = {
+				id = 279
+				name = "布龙贝格"
 			}
 			set_province_name = {
 				id = 11516
@@ -45,8 +58,46 @@ mod_decisions_debug = {
 				id = 9559
 				name = "梅茨"
 			}
+			set_province_name = {
+				id = 6558
+				name = "波森"
+			}
+			set_province_name = {
+				id = 552
+				name = "利格尼茨"
+			}
+			set_province_name = {
+				id = 9570
+				name = "布雷斯劳"
+			}
+			set_province_name = {
+				id = 3545
+				name = "瓦尔登堡"
+			}
+			set_province_name = {
+				id = 9511
+				name = "奥本"
+			}
+			set_province_name = {
+				id = 11467
+				name = "格莱维茨"
+			}
+			set_province_name = {
+				id = 6464
+				name = "卡托维兹"
+			}
+			custom_effect_tooltip = 德国化省份名：
 			28 = {
 				set_state_name = "埃尔萨斯-洛特林根"
+			}
+			85 = {
+				set_state_name = "但泽"
+			}
+			86 = {
+				set_state_name = "波森"
+			}
+			762 = {
+				set_state_name = "卡托维兹"
 			}
 			878 = {
 				set_state_name = "南齐锡"
@@ -78,6 +129,7 @@ mod_decisions_debug = {
 
 		complete_effect = {
 			#Effect
+			custom_effect_tooltip = 还原城市名：
 			reset_province_name = 3488
 			reset_province_name = 11516
 			reset_province_name = 9503
@@ -85,7 +137,27 @@ mod_decisions_debug = {
 			reset_province_name = 678
 			reset_province_name = 549
 			reset_province_name = 9559
+			reset_province_name = 362
+			reset_province_name = 279
+			reset_province_name = 6558
+			reset_province_name = 552
+			reset_province_name = 9570
+			reset_province_name = 3545
+			reset_province_name = 9511
+			reset_province_name = 11461
+			reset_province_name = 6464
+			reset_province_name = 9263
+			custom_effect_tooltip = 还原省份名：
 			28 = {
+				reset_state_name = yes
+			}
+			85 = {
+				reset_state_name = yes
+			}
+			86 = {
+				reset_state_name = yes
+			}
+			762 = {
 				reset_state_name = yes
 			}
 			878 = {

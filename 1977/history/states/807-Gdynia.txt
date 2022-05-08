@@ -1,7 +1,7 @@
 
 state={
 	id=807
-	name="STATE_807"
+	name="东波美拉尼亚"
 	manpower = 713370
 	
 	state_category = city
