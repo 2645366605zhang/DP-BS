@@ -15,25 +15,18 @@ state={
 		victory_points = { 11435 1 }
 		victory_points = { 3423 3 }
 		victory_points = { 9575 3 }
-		victory_points = { 11531 5 }
 		victory_points = { 11494 8 }
 		buildings = {
-			infrastructure = 4
+			infrastructure = 5
 			industrial_complex = 3
-
+			arms_factory = 2
+			synthetic_refinery = 2
 		}
 		add_core_of = BNB
-
-		1939.1.1 ={
-			buildings = {
-				radar_station = 1
-				synthetic_refinery = 3
-			}
-		}
 	}
 
 	provinces={
-		563 3423 3558 9575 11435 11470 11494 11531 11547 11560
+		563 3423 3558 9575 11435 11470 11494 11547 11560
 	}
 	
 	

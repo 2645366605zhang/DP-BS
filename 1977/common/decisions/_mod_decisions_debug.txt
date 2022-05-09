@@ -51,6 +51,10 @@ mod_decisions_debug = {
 				name = "穆尔豪森"
 			}
 			set_province_name = {
+				id = 11531
+				name = "萨尔布吕肯"
+			}
+			set_province_name = {
 				id = 549
 				name = "哈格瑙"
 			}
@@ -105,6 +109,9 @@ mod_decisions_debug = {
 			879 = {
 				set_state_name = "欧本马尔梅迪"
 			}
+			894 = {
+				set_state_name = "萨尔兰"
+			}
 		}
 
 		ai_will_do = {
@@ -135,6 +142,7 @@ mod_decisions_debug = {
 			reset_province_name = 9503
 			reset_province_name = 6529
 			reset_province_name = 678
+			reset_province_name = 11531
 			reset_province_name = 549
 			reset_province_name = 9559
 			reset_province_name = 362
@@ -164,6 +172,9 @@ mod_decisions_debug = {
 				reset_state_name = yes
 			}
 			879 = {
+				reset_state_name = yes
+			}
+			894 = {
 				reset_state_name = yes
 			}
 		}
