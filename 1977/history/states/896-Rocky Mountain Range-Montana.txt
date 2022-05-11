@@ -1,0 +1,21 @@
+state={
+	id=896
+	name="洛基山区-蒙大拿"
+	provinces={
+		1736 1854 4838 6742 7779 12676
+	}
+	resources={
+		tungsten=16
+	}
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = USA
+		add_core_of = USA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=rural
+}

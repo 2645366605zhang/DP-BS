@@ -1,0 +1,23 @@
+state={
+	id=895
+	name="盐湖城"
+	provinces={
+		1663 4865 10582 10651 13153
+	}
+	history={
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			4865 10
+		}
+		owner = USA
+		add_core_of = USA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=city
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=388
+	name="STATE_388"
+	manpower = 537605
+	state_category = town
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		add_core_of = USA
+		victory_points = {
+			4860 4
+		}
+
+	}
+
+	provinces={
+		1767 1851 1857 4741 4857 4860 4863 7760 7880 7883 10587 10593 10624 10706 11712 12572 12585 
+	}
+
+	local_supplies=0.0 
+}

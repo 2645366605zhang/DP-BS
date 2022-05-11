@@ -1,0 +1,23 @@
+state={
+	id=897
+	name="图森"
+	provinces={
+		3834 7920 10783
+	}
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 3
+		}
+		victory_points = {
+			3834 14
+		}
+		owner = USA
+		add_core_of = USA
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=large_town
+}
