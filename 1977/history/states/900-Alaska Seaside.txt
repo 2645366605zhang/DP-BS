@@ -1,0 +1,28 @@
+
+state={
+	id=900
+	name="阿拉斯加海岸"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 3
+			13203 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			13203 6
+		}
+	}
+
+	provinces={
+		10707 13202 13203
+	}
+
+	local_supplies=0.0 
+}

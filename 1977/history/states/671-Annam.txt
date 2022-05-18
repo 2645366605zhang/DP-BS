@@ -15,10 +15,33 @@ state={
 	history={
 		add_core_of = VIN
 		owner = VIN
-		victory_points = {
-			4075 1 
+		buildings = {
+			infrastructure = 2
+			arms_facory = 1
+			industrial_complex = 1
+			dockyard = 1
+			10016 = {
+				naval_base = 1
+			}
+			11936 = {
+				bunker = 2
+			}
+			10129 = {
+				bunker = 2
+			}
+			10103 = {
+				bunker = 2
+			}
+			4529 = {
+				bunker = 2
+			}
+			12392 = {
+				bunker = 2
+			}
+			12433 = {
+				bunker = 2
+			}
 		}
-
 	}
 
 	provinces={

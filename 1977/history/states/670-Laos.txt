@@ -10,10 +10,14 @@ state={
 		add_core_of = VIN
 		add_core_of = LAO
 		victory_points = {
-			1464 1
+			1464 2
 		}
 		buildings = {
 			infrastructure = 1
+			industrial_complex = 1
+			4568 = {
+				bunker = 2
+			}
 		}
 
 	}

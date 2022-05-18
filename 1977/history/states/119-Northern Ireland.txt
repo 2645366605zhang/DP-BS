@@ -1,27 +1,27 @@
 
 state={
 	id=119
-	name="英占北爱尔兰"
+	name="贝尔法斯特"
 
 	history={
 		owner = GBI
 		victory_points = {
-			3379 5 
+			3379 10
 		}
 		victory_points = {
-			385 1 # Londonderry
+			385 2
 		}
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 			industrial_complex = 2
-			air_base = 1
+			air_base = 2
 			dockyard = 2
 			3379 = {
 				naval_base = 4
 			}
 		}
-		add_core_of = GBI
+		add_claim_by = GBI
 		add_core_of = IRE
 	}
 

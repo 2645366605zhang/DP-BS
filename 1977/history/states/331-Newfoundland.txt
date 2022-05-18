@@ -1,0 +1,33 @@
+
+state={
+	id=331
+	name="蒙特利尔"
+	manpower = 2000000
+	
+	state_category = large_city
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			dockyard = 2
+			12149 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			4345 24
+		}
+		victory_points = {
+			12149 10
+		}
+		add_core_of = CAN
+	}
+
+	provinces={
+		4345 7291 9601 12149
+	}
+
+	local_supplies=0.0 
+}

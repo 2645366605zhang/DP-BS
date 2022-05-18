@@ -2,7 +2,7 @@
 state={
 	id=898
 	name="提亚雷特"
-	manpower = 811486
+	manpower = 0
 	
 	state_category = rural
 

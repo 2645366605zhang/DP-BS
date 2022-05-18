@@ -5,6 +5,12 @@ state={
 		owner = SRC
 		add_core_of = SRC
 		add_claim_by = BRM
+		buildings = {
+			infrastructure = 1
+			7909 = {
+				bunker = 3
+			}
+		}
 	}
 	provinces={
 		4210 7400 7909 

@@ -6,10 +6,42 @@ state=
 	
 	state_category = town
 	
-	history=
-	{
+	history = {
 		owner = SRC
 		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			arms_factory = 1
+			1185 = {
+				naval_base = 1
+				coastal_bunker = 4
+				bunker = 3
+			}
+			4075 = {
+				bunker = 4
+			}
+			12075 = {
+				bunker = 3
+			}
+			10075 = {
+				bunker = 3
+			}
+			12319 = {
+				bunker = 3
+			}
+			1157 = {
+				coastal_bunker = 1
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			1157 2
+		}
+		victory_points = {
+			4075 8
+		}
 	}
 
 	provinces={
