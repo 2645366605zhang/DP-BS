@@ -1,0 +1,28 @@
+
+state={
+	id=903
+	name="马恩岛"
+	manpower = 0
+	
+	state_category = small_island
+
+	history={
+		owner = GBI
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			3311 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			3311 1
+		}
+	}
+
+	provinces={
+		3311
+	}
+
+	local_supplies=0.0 
+}

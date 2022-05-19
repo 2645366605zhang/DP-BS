@@ -1,0 +1,27 @@
+
+state={
+	id=906
+	name="维谢格拉德"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = FRY
+		add_core_of = FRY
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			air_base = 2
+		}
+		victory_points = {
+			982 4
+		}
+	}
+
+	provinces={
+		937 982 3922
+	}
+
+	local_supplies=0.0 
+}

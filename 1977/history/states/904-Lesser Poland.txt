@@ -1,0 +1,27 @@
+
+state={
+	id=904
+	name="小波兰"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = VPR
+		add_core_of = VPR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			air_base = 4
+		}
+		victory_points = {
+			442 8
+		}
+	}
+
+	provinces={
+		417 442 3410 6499 9412 11398 11413
+	}
+
+	local_supplies=0.0 
+}

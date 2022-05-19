@@ -1,0 +1,27 @@
+
+state={
+	id=902
+	name="多尼戈尔-斯莱戈"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = IRE
+		add_core_of = IRE
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			11371 2
+		}
+	}
+
+	provinces={
+		337 11371
+	}
+
+	local_supplies=0.0 
+}

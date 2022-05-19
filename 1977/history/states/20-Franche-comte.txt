@@ -13,7 +13,7 @@ state={
 	history={
 		owner = FRR
 		victory_points = {
-			6613 18
+			6613 24
 		}
 		buildings = {
 			infrastructure = 4

@@ -183,4 +183,27 @@ mod_decisions_debug = {
 			base = 0
 		}
 	}
+	
+	ecumenopolis_test = {
+	
+		icon = generic_research
+
+		available = {
+			always = yes
+		}
+
+		visible = {
+			always = yes
+		}
+
+		fire_only_once = no
+		cost = 0
+		
+		complete_effect = {
+			every_state = {
+				set_state_category = megalopolis
+			}
+		}
+	}
+	
 }

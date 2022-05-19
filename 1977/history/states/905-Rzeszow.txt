@@ -1,0 +1,30 @@
+
+state={
+	id=905
+	name="热舒夫"
+	manpower = 0
+	
+	state_category = large_town
+
+	history={
+		owner = VPR
+		add_core_of = VPR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = {
+			9494 4
+		}
+		victory_points = {
+			6522 8
+		}
+	}
+
+	provinces={
+		466 3434 6522 9494 11507
+	}
+
+	local_supplies=0.0 
+}

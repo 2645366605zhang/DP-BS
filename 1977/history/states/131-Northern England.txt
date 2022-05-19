@@ -18,9 +18,6 @@ state={
 		victory_points = {
 			11332 1 #Cockermouth
 		}
-		victory_points = {
-			3311 1 #Douglas
-		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
@@ -29,15 +26,12 @@ state={
 			351 = {
 				naval_base = 6
 			}
-			3311 = {
-				naval_base = 1
-			}
 		}
 		add_core_of = GBI
 	}
 
 	provinces={
-		219 351 3311 6399 9285 11270 11299 11332 
+		219 351 6399 9285 11270 11299 11332 
 	}
 
 	local_supplies=14.0 

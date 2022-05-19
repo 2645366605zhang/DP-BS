@@ -1,0 +1,28 @@
+
+state={
+	id=901
+	name="伦敦德里"
+	manpower = 0
+	
+	state_category = large_town
+
+	history={
+		owner = GBI
+		add_core_of = IRE
+		add_claim_by = GBI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			dockyard = 1
+		}
+		victory_points = {
+			385 2
+		}
+	}
+
+	provinces={
+		385 3242 11257
+	}
+
+	local_supplies=0.0 
+}

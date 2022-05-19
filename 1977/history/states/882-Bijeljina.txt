@@ -2,7 +2,7 @@ state={
 	id=882
 	name="比耶利纳"
 	provinces={
-		606
+		606 11741
 	}
 	history={
 		victory_points = {
