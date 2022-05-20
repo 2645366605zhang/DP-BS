@@ -2,23 +2,23 @@ state={
 	id=591
 	name="STATE_591"
 	manpower = 4350000
-	state_category = town
+	state_category = large_town
 
 	history={
 		owner = SRC
 		add_core_of = SRC
 		
 		victory_points = {
-			1070 1 
+			1070 8
 		}
 		
 		buildings = {
-			infrastructure = 1
-			air_base = 1
+			infrastructure = 2
+			air_base = 2
+			dockyard = 2
 			1070 = {
-				naval_base = 2
+				naval_base = 4
 			}
-
 		}
 	}
 

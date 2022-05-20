@@ -1,0 +1,8 @@
+state_categories={
+	ecumenopolis = {
+		local_building_slots = 25
+	
+			color = { 255 255 255 }
+
+	}
+}

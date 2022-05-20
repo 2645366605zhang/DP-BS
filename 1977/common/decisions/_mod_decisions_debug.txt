@@ -200,8 +200,36 @@ mod_decisions_debug = {
 		cost = 0
 		
 		complete_effect = {
-			every_state = {
-				set_state_category = megalopolis
+			custom_effect_tooltip = 第一联盟的先驱者们会为我们自豪的。
+			hidden_effect = {
+				every_state = {
+				set_state_category = ecumenopolis
+				}
+			}
+		}
+	}
+	
+	mundi_caput_test = {
+	
+		icon = generic_research
+
+		available = {
+			always = yes
+		}
+
+		visible = {
+			always = yes
+		}
+
+		fire_only_once = no
+		cost = 0
+		
+		complete_effect = {
+			custom_effect_tooltip = 实现阿尔伯特·施佩尔之梦。
+			hidden_effect = {
+				every_state = {
+				set_state_category = mundi_caput
+				}
 			}
 		}
 	}

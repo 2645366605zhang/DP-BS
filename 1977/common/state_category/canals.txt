@@ -1,0 +1,19 @@
+state_categories={
+	
+	canal = {
+	
+		local_building_slots = 7
+	
+		color = { 0 200 0 }
+
+	}
+	
+	big_canal = {
+		
+		local_building_slots = 9
+	
+		color = { 0 200 200 }
+
+	}
+	
+}

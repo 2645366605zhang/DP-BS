@@ -1,6 +1,6 @@
 state={
 	id=854
-	name="佤邦"
+	name="掸邦"
 	history = {
 		owner = BRM
 		add_core_of = BRM
