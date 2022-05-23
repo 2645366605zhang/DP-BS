@@ -1,0 +1,25 @@
+
+state={
+	id=440
+	name="STATE_440"
+	manpower = 13665000
+	
+	state_category = small_town
+
+	history={
+		victory_points = {
+			4979 6
+		}
+		owner = PAK
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = PAK
+	}
+
+	provinces={
+		4979 8022 8106 10139 10173 
+	}
+
+	local_supplies=0.0 
+}

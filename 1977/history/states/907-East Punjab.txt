@@ -1,0 +1,27 @@
+
+state={
+	id=907
+	name="东旁遮普"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+		add_claim_by = PAK
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			10772 4
+		}
+	}
+
+	provinces={
+		8007 9084 10066 10772 10843 10887 12005 12822
+	}
+
+	local_supplies=0.0 
+}

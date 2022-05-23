@@ -346,9 +346,9 @@
  AMA_fascism:0 "筑紫岛军阀"
  AMA_fascism_DEF:0 "筑紫岛军阀"
  AMA_fascism_ADJ:0 "筑紫岛军阀"
- AMA_neutrality:0 "美利坚合众国驻亚洲军事部队"
- AMA_neutrality_DEF:0 "美利坚合众国驻亚洲军事部队"
- AMA_neutrality_ADJ:0 "美利坚合众国驻亚洲军事部队"
+ AMA_neutrality:0 "筑紫-伊予之二名王国"
+ AMA_neutrality_DEF:0 "筑紫-伊予之二名王国"
+ AMA_neutrality_ADJ:0 "筑紫-伊予之二名王国"
  
  FRR:0 "法国"
  FRR_DEF:0 "法国"
@@ -411,9 +411,9 @@
  BRM_SRC_subject_DEF:0 "缅甸自治区"
  BRM_SRC_subject_ADJ:0 "缅甸自治区"
  
- BAN_SRC_subject:0 "孟加拉民族自治区"
- BAN_SRC_subject_DEF:0 "孟加拉民族自治区"
- BAN_SRC_subject_ADJ:0 "孟加拉民族自治区"
+ BAN_SRC_subject:0 "孟加拉多民族自治区"
+ BAN_SRC_subject_DEF:0 "孟加拉多民族自治区"
+ BAN_SRC_subject_ADJ:0 "孟加拉多民族自治区"
  
  AIS_SRC_subject:0 "阿萨姆特别行政区"
  AIS_SRC_subject_DEF:0 "阿萨姆特别行政区"
@@ -422,11 +422,15 @@
  SRC_USR_communism_subject:0 "中华苏维埃社会主义共和国"
  SRC_USR_communism_subject_DEF:0 "中华苏维埃社会主义共和国"
  SRC_USR_communism_subject_ADJ:0 "中华苏维埃社会主义共和国"
+ 
+ AMA_neutrality_subject:0 "$OVERLORDADJ$驻亚洲军事部队"
+ AMA_neutrality_subject_DEF:0 "$OVERLORDADJ$驻亚洲军事部队"
+ AMA_neutrality_subject_ADJ:0 "$OVERLORDADJ$驻亚洲军事部队"
   
 #Subject
  
  SRC_democratic_subject:0 "中华共和国"
  SRC_democratic_subject_DEF:0 "中华共和国"
- SRC_democratic_subject_ADJ:0 "中华共和国的"
+ SRC_democratic_subject_ADJ:0 "中华共和国"
  
  

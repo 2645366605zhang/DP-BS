@@ -1,0 +1,31 @@
+
+state={
+	id=444
+	name="STATE_444" # Baluchistan
+	manpower = 463500
+	
+	state_category = wasteland
+
+	history={
+		victory_points = {
+			8066 4
+		}
+		victory_points = {
+			3456 8
+		}
+		owner = PAK
+		buildings = {
+			infrastructure = 3
+			3456 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = PAK
+	}
+
+	provinces={
+		1179 3456 5043 5075 7049 7917 8013 8066 8098 10108 12761 12774 
+	}
+
+	local_supplies=0.0 
+}

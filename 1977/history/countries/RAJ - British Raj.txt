@@ -1,0 +1,19 @@
+﻿capital = 439
+
+set_stability = 0.6
+set_war_support = 0.1
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1935.11.14"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	democratic = 17
+	fascism = 2
+	communism = 1
+	neutrality = 80
+}
