@@ -1,0 +1,26 @@
+
+state={
+	id=909
+	name="孚日"
+	manpower = 0
+	
+	state_category = small_town
+
+	history={
+		owner = FRR
+		add_core_of = FRR
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+		}
+		victory_points = {
+			11642 2
+		}
+	}
+
+	provinces={
+		698 6698 11488 11642
+	}
+
+	local_supplies=0.0 
+}

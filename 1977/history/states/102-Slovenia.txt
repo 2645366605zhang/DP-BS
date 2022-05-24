@@ -1,24 +1,23 @@
 state=
 {
 	id=102
-	name="STATE_102"
+	name="采列"
 	manpower = 1144300
 	
-	state_category = large_town
+	state_category = town
 	
-	history =
-	{
+	history = {
 		owner = FRY
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
-			9627 3 
+			3654 4
 		}
 		add_core_of = FRY
 	}
 	provinces={
-		596 665 3631 3654 6650 6672 9596 9627 }
-	
+		596 3654 6650 
+	}
 	local_supplies=5.0 
 }

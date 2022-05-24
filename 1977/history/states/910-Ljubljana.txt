@@ -1,0 +1,28 @@
+
+state={
+	id=910
+	name="卢布尔雅那"
+	manpower = 0
+	
+	state_category = large_town
+
+	history={
+		owner = FRY
+		add_core_of = FRY
+		buildings = {
+			infrastructure = 4
+		}
+		victory_points = {
+			11612 4
+		}
+		victory_points = {
+			9627 8
+		}
+	}
+
+	provinces={
+		3631 9596 9627 11612
+	}
+
+	local_supplies=0.0 
+}

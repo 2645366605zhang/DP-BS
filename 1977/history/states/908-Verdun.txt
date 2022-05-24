@@ -1,0 +1,29 @@
+
+state={
+	id=908
+	name="凡尔登"
+	manpower = 0
+	
+	state_category = rural
+
+	history={
+		owner = FRR
+		add_core_of = FRR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			3560 2
+		}
+		victory_points = {
+			5291 2
+		}
+	}
+
+	provinces={
+		3560 5291
+	}
+
+	local_supplies=0.0 
+}

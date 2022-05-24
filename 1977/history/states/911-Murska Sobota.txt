@@ -1,0 +1,22 @@
+
+state={
+	id=911
+	name="穆尔斯卡索博塔"
+	manpower = 0
+	
+	state_category = small_town
+
+	history={
+		owner = FRY
+		add_core_of = FRY
+		buildings = {
+			infrastructure = 4
+		}
+	}
+
+	provinces={
+		665 6672
+	}
+
+	local_supplies=0.0 
+}
