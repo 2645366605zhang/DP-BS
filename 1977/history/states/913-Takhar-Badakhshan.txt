@@ -1,0 +1,24 @@
+
+state={
+	id=913
+	name="塔哈尔-巴达赫尚"
+	manpower = 0
+	
+	state_category = pastoral
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		add_claim_by = USR
+		add_claim_by = SRC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		12314 12653
+	}
+
+	local_supplies=0.0 
+}

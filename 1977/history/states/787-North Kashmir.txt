@@ -10,7 +10,12 @@ state={
 		owner = PAK
 		buildings = {
 			infrastructure = 1
-
+			2084 = {
+				bunker = 1
+			}
+			2041 = {
+				bunker = 1
+			}
 		}
 		add_core_of = PAK
 		add_claim_by = RAJ
@@ -21,6 +26,6 @@ state={
 	}
 	manpower=1415800
 	buildings_max_level_factor=1.000
-	state_category = rural
+	state_category = pastoral
 	local_supplies=0.000
 }

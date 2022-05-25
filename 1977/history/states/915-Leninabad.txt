@@ -1,0 +1,26 @@
+
+state={
+	id=915
+	name="列宁纳巴德"
+	manpower = 0
+	
+	state_category = small_town
+
+	history={
+		owner = USR
+		add_core_of = USR
+		buildings = {
+			infrastructure = 2
+			air_base = 4
+		}
+		victory_points = {
+			10187 4
+		}
+	}
+
+	provinces={
+		1919 10187 12430
+	}
+
+	local_supplies=0.0 
+}

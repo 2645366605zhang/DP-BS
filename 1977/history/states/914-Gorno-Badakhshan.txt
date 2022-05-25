@@ -1,0 +1,23 @@
+
+state={
+	id=914
+	name="山地巴达赫尚"
+	manpower = 0
+	
+	state_category = pastoral
+
+	history={
+		owner = USR
+		add_core_of = USR
+		add_claim_by = SRC
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		7224 8027 10417 12218 12805
+	}
+
+	local_supplies=0.0 
+}

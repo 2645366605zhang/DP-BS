@@ -1,0 +1,22 @@
+
+state={
+	id=917
+	name="南坎大哈"
+	manpower = 0
+	
+	state_category = pastoral
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		2101 4949 5020
+	}
+
+	local_supplies=0.0 
+}

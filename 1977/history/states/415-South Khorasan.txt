@@ -1,0 +1,25 @@
+
+state={
+	id=415
+	name="法拉-古尔" # Herat
+	manpower = 1632860
+	
+	state_category = small_town
+
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = AFG
+		victory_points = {
+			2017 2
+		}
+	}
+
+	provinces={
+		1948 1995 2017 2062 2078 8053 12788 12871 
+	}
+
+	local_supplies=0.0 
+}

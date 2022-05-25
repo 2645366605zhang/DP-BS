@@ -1,0 +1,28 @@
+
+state={
+	id=916
+	name="赫拉特-昆都士"
+	manpower = 0
+	
+	state_category = small_town
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			4893 2
+		}
+		victory_points = {
+			12248 2
+		}
+	}
+
+	provinces={
+		4893 7448 7584 7916 7984 10476 10852 10896 12248 12877
+	}
+
+	local_supplies=0.0 
+}

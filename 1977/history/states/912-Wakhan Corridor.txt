@@ -1,0 +1,23 @@
+
+state={
+	id=912
+	name="瓦罕走廊"
+	manpower = 0
+	
+	state_category = pastoral
+
+	history={
+		owner = AFG
+		add_core_of = AFG
+		add_claim_by = SRC
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		7519
+	}
+
+	local_supplies=0.0 
+}
