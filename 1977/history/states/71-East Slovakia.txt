@@ -3,7 +3,7 @@ state={
 	name="STATE_71"
 	manpower = 1197800
 	
-	state_category = rural
+	state_category = small_town
 	
 	history={
 		victory_points = {
@@ -12,13 +12,16 @@ state={
 		owner = CPA
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 2
+			industrial_complex = 3
+		}
+		victory_points = {
+			6573 2
 		}
 		add_core_of = CPA
 	}
 
 	provinces={
-		555 581 3550 3581 6586 6604 11554 
+		555 581 3550 3565 3581 6573 6586 6604 9537 11554 
 	}
 
 	local_supplies=0.0 

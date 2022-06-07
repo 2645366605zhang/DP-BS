@@ -4,7 +4,7 @@ state=
 	name="STATE_74"
 	manpower = 820000
 	
-	state_category = rural
+	state_category = small_town
 	
 	
 	history=
@@ -15,12 +15,13 @@ state=
 		owner = CPA
 		buildings = {
 			infrastructure = 4
+			industrial_complex = 1
 			arms_factory = 1
 		}
 		add_core_of = CPA
 	}
 	provinces= {
-		421 3414 3583
+		421 3414 3583 9567
  	}
 
 	local_supplies=2.0 

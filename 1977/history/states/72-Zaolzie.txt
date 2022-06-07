@@ -9,13 +9,12 @@ state={
 		owner = CPA
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 1
 		}
 		add_core_of = CPA
 	}
 
 	provinces={
-		9551 9567 
+		9551 
 	}
 
 	local_supplies=1.0 

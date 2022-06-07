@@ -1,24 +1,25 @@
-state=
-{
-	id=147
-	name="STATE_147"
-	manpower = 4630
+state = {
+	id = 147
+	name="南库奥皮奥-米凯利"
+	manpower = 397215
 	
-	state_category = rural
+	state_category = large_town
 	
 	history = {	
-		owner = USR
+		owner = FPA
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
 		}
-		add_core_of = USR
 		victory_points = {
-			197 1
+			11043 3
 		}
+		add_core_of = FPA
 	}
 
 	provinces={
-		197 9158 11085 	
+		37 136 139 141 165 3013 3030 3131 6033 9056 9163 11043 11138 11210 13104 13108 13109 13110 13111 
 	}
 
 	local_supplies=0.0 

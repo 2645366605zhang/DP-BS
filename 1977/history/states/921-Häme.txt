@@ -1,0 +1,26 @@
+
+state = {
+	id=921
+	name="哈梅"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = FPA
+		add_core_of = FPA
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_facotry = 1
+			fuel_silo = 1
+			air_base = 2
+		}
+	}
+
+	provinces = {
+		3025 3119 3137 6047 6138 6163 9160 9167 11066 11172 13100 13102 13103 13106 13107
+	}
+
+	local_supplies=0.0 
+}

@@ -1,28 +1,41 @@
 
 state={
 	id=149
-	name="STATE_149" # Pohjanmaa
+	name="瓦萨"
 	manpower = 811029
 	
-	state_category = town
+	state_category = large_town
 	
 	history={
 		owner = FPA
 		victory_points = {
-			3122 3 
+			3122 8
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
 			industrial_complex = 2
 			3122 = {
 				naval_base = 2
+				coastal_bunker = 3
+			}
+			11126 = {
+				coastal_bunker = 2
+			}
+			11065 = {
+				coastal_bunker = 2
+			}
+			3172 = {
+				coastal_bunker = 2
+			}
+			66 = {
+				coastal_bunker = 2
 			}
 		}
 		add_core_of = FPA
 	}
 
 	provinces={
-		63 66 82 120 132 158 195 3119 3122 3172 6013 6081 6138 6141 6198 6212 9038 9156 9166 9219 11033 11041 11065 11081 11121 11126 11132 11144 13113 
+		63 66 3122 3172 6013 6141 6198 9038 9156 9166 9219 11033 11065 11126 11144 13113 
 	}
 
 	local_supplies=0.0 

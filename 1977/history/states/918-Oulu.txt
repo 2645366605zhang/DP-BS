@@ -1,0 +1,39 @@
+
+state={
+	id=918
+	name="奥卢"
+	manpower = 0
+	
+	state_category = small_town
+
+	history={
+		owner = FPA
+		add_core_of = FPA
+		buildings = {
+			infrastructure = 1
+			dockyard = 1
+			158 = {
+				naval_base = 1
+				coastal_bunker = 2
+			}
+			11121 = {
+				coastal_bunker = 2
+			}
+			195 = {
+				coastal_bunker = 2
+			}
+			11081 = {
+				coastal_bunker = 2
+			}
+		}
+		victory_points = {
+			158 4
+		}
+	}
+
+	provinces={
+		82 120 132 158 195 3026 3073 3115 3149 3153 3156 6045 6081 6134 6179 6212 9106 9233 11024 11041 11079 11081 11121 11132 13118
+	}
+
+	local_supplies=0.0 
+}

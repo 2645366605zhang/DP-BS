@@ -1,0 +1,26 @@
+
+state={
+	id=919
+	name="屈米"
+	manpower = 0
+	
+	state_category = rural
+
+	history={
+		owner = FPA
+		add_core_of = FPA
+		buildings = {
+			infrastructure = 2
+			fuel_silo = 1
+		}
+		victory_points = {
+			158 4
+		}
+	}
+
+	provinces={
+		52 3061 6082 6186 9073 9183 11056 13105
+	}
+
+	local_supplies=0.0 
+}

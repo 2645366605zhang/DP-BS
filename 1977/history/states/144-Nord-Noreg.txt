@@ -1,7 +1,7 @@
 
 state={
 	id=144
-	name="STATE_144"
+	name="北拉普兰"
 	manpower = 355251
 	
 	state_category = rural
