@@ -1,0 +1,35 @@
+
+state = {
+	id=922
+	name="敦刻尔克-里尔"
+	manpower = 1800000
+	
+	state_category = city
+
+	history={
+		owner = FRR
+		add_core_of = FRR
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 3
+			575 = {
+				coastal_bunker = 1
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			575 8
+		}
+		victory_points = {
+			11483 10
+		}
+	}
+
+	provinces = {
+		575 11483
+	}
+
+	local_supplies=0.0 
+}

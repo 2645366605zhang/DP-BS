@@ -1,9 +1,9 @@
 
 state={
 	id=565
-	name="STATE_565" # Bodaybo
+	name="东北伊尔库茨克" # Bodaybo
 	manpower = 195325
-	state_category = rural
+	state_category = small_town
 	resources={
 		steel=10 # was: 32
 		chromium=5 # was: 12
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1666 1761 4762 4795 4868 7759 7854 10583 10654 12538  
+		1792 4737 4795 4835 4868 7759 10583 10654 12506 12538 12575
 	}
 
 	local_supplies=5.0 

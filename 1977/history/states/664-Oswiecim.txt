@@ -1,0 +1,25 @@
+state={
+	id=664
+	name="奥施威辛"
+	manpower = 854300
+	resources={
+		steel=13 # was: 20
+		chromium = 3 # was: 4
+	}
+	
+	state_category = small_town
+	
+	history={
+		owner = VPR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = VPR
+	}
+	
+	provinces={
+		9412 13205
+	}
+
+	local_supplies=3.0 
+}
