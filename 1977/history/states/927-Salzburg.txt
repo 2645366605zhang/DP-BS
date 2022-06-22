@@ -1,0 +1,25 @@
+state={
+	id = 927
+	name="萨尔茨堡"
+	manpower = 0
+	state_category = city
+	
+	history={
+		owner = ASR
+		buildings = {
+			infrastructure = 4
+            industrial_complex = 4
+			air_base = 2
+		}
+		victory_points = {
+			688 12
+		}
+		add_core_of = ASR
+	}
+
+	provinces={
+		688 707 3675 3688 3703 6708 11634
+	}
+
+	local_supplies = 0.0 
+}

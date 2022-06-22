@@ -1,0 +1,28 @@
+
+state={
+	id = 926
+	name="克恩滕"
+	manpower = 0
+	state_category = town
+	
+	history={
+		owner = ASR
+		buildings = {
+			infrastructure = 2
+            industrial_complex = 1
+		}
+        victory_points = {
+			3673 4
+		}
+        victory_points = {
+			11612 4
+		}
+		add_core_of = ASR
+	}
+
+	provinces={
+		668 671 3673 3674 6673 11612
+	}
+
+	local_supplies = 0.0 
+}

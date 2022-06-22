@@ -1,0 +1,23 @@
+﻿capital = 928
+
+set_research_slots = 1
+
+set_convoys = 0
+
+#recruit_character = 
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1976.9.3"
+	election_frequency = 72
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 60
+	fascism = 0
+	communism = 35
+	neutrality = 5
+}
+
+
+

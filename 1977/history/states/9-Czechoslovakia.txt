@@ -1,6 +1,6 @@
 state={
 	id=9
-	name="STATE_9"
+	name="波希米亚"
 	manpower = 4492600
 	resources={
 		steel=16

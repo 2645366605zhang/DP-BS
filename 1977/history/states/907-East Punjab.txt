@@ -7,8 +7,8 @@ state={
 	state_category = town
 
 	history={
-		owner = RAJ
-		add_core_of = RAJ
+		owner = RIN
+		add_core_of = RIN
 		add_claim_by = PAK
 		buildings = {
 			infrastructure = 2

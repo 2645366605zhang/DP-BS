@@ -1,0 +1,26 @@
+state={
+	id = 925
+	name="多瑙河北岸-奥地利"
+	manpower = 0
+	
+	state_category = large_town
+	
+	history={
+		owner = ASR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+		}
+        victory_points = {
+			732 10
+		}
+		add_core_of = ASR
+	}
+
+	provinces={
+		732 3718 6552 6723 6739 9527
+	}
+
+	local_supplies=0.0 
+}

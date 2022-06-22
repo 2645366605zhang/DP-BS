@@ -3,15 +3,14 @@ state={
 	name="STATE_435"
 
 	history={
-		owner = RAJ
+		owner = RIN
+		add_core_of = RIN
 		victory_points = {
-			4516 1 
+			4516 3
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
-
 		}
-
 	}
 
 	provinces={

@@ -7,9 +7,11 @@ state={
 	history={
 		buildings = {
 			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
 		}
-		owner = RAJ
-		add_core_of = RAJ
+		owner = RIN
+		add_core_of = RIN
 	}
 	manpower=0
 	buildings_max_level_factor=1.200

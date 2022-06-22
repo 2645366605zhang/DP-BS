@@ -1,0 +1,28 @@
+
+state={
+	id=321
+	name="STATE_321"
+	manpower = 533952
+
+	state_category = enclave
+
+	history={
+		owner = RIN
+		add_core_of = RIN
+		victory_points = {
+			1273 2
+		}
+		buildings = {
+			infrastructure = 2 #was: 5
+			1273 ={
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		1273 
+	}
+
+	local_supplies=0.0 
+}

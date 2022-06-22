@@ -7,9 +7,10 @@ state={
 	state_category = large_town
 
 	history={
-		owner = RAJ
+		owner = RIN
+		add_core_of = RIN
 		victory_points = {
-			12137 1
+			12137 2
 		}
 		buildings = {
 			infrastructure = 3

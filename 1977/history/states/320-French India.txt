@@ -1,0 +1,26 @@
+
+state={
+	id=320
+	name="本地治理"
+	manpower = 286410
+
+	state_category = enclave
+
+	history={
+		owner = RIN
+		add_core_of = RIN
+		buildings = {
+			infrastructure = 3 #was: 5
+			10149 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			10149 3
+		}
+	}
+
+	provinces={ 10149 }
+
+	local_supplies=0.0 
+}

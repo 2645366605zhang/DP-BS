@@ -1,25 +1,26 @@
 
 state={
 	id=153
-	name="蒂罗尔山区"
+	name="蒂罗尔"
 	manpower = 1655340
 	
-	state_category = town
+	state_category = small_town
 
 	history={
-		owner = BNB
+		owner = TYR
 		buildings = {
-			infrastructure = 3 #was: 5
-			industrial_complex = 1
-			air_base = 3
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			air_base = 4
 		}
-		add_core_of = BNB
+		add_core_of = TYR
 		add_core_of = ASR
 	}
 
 	provinces={
-		668 671 3660 3675 6673 6675 6678 6680 9630 9633 11615 11618 11634 
+		3660 6675 6678 9630 9633 11615 11618 
 	}
 
-	local_supplies=12.0 
+	local_supplies = 12.0 
 }
