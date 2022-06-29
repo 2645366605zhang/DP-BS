@@ -1,10 +1,14 @@
 state=
 {
 	id=615
-	name="河内越族自治区" #Henei
+	name="河内" #Henei
 	manpower = 11601000
 	
 	state_category = town
+	
+	resources = {
+		chromium = 11
+	}
 	
 	history = {
 		owner = SRC
@@ -45,7 +49,7 @@ state=
 	}
 
 	provinces={
-		1073 1157 1185 4075 4119 7015 7093 7518 9948 10075 12008 12048 12065 12075 12319
+		1073 1157 1185 4075 4119 4656 7015 7518 9948 10075 12008 12048 12065 12075 12319
 	}
 	local_supplies=0.0 
 }

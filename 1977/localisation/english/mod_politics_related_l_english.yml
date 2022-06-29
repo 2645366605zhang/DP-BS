@@ -413,6 +413,22 @@
  TYR_neutrality:0 "蒂罗尔军区"
  TYR_neutrality_DEF:0 "蒂罗尔军区"
  TYR_neutrality_ADJ:0 "蒂罗尔军区"
+ 
+ KNL:0 "尼德兰"
+ KNL_DEF:0 "尼德兰"
+ KNL_ADJ:0 "尼德兰"
+ KNL_communism:0 "低地联合公社"
+ KNL_communism_DEF:0 "低地联合公社"
+ KNL_communism_ADJ:0 "低地联合公社"
+ KNL_democratic:0 "尼德兰王国"
+ KNL_democratic_DEF:0 "尼德兰王国"
+ KNL_democratic_ADJ:0 "尼德兰王国"
+ KNL_fascism:0 "低地帝国"
+ KNL_fascism_DEF:0 "低地帝国"
+ KNL_fascism_ADJ:0 "低地帝国"
+ KNL_neutrality:0 "尼德兰王国"
+ KNL_neutrality_DEF:0 "尼德兰王国"
+ KNL_neutrality_ADJ:0 "尼德兰王国"
 
 #Cosmetic
  

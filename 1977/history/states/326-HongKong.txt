@@ -9,10 +9,12 @@ state=
 		owner = SRC
 		add_core_of = SRC
 		victory_points = {
-			10062 24
+			10062 22
 		}
 		buildings = {
-			infrastructure = 4
+			infrastructure = 5
+			industrial_complex = 2
+			dockyard = 2
 			air_base = 1
 			10062 = {
 				naval_base = 8
