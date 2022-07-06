@@ -429,6 +429,22 @@
  KNL_neutrality:0 "尼德兰王国"
  KNL_neutrality_DEF:0 "尼德兰王国"
  KNL_neutrality_ADJ:0 "尼德兰王国"
+ 
+ DSR:0 "外满洲"
+ DSR_DEF:0 "外满洲"
+ DSR_ADJ:0 "外满洲"
+ DSR_communism:0 "满洲社会主义共和国"
+ DSR_communism_DEF:0 "满洲社会主义共和国"
+ DSR_communism_ADJ:0 "满洲社会主义共和国"
+ DSR_democratic:0 "满洲共和国"
+ DSR_democratic_DEF:0 "满洲共和国"
+ DSR_democratic_ADJ:0 "满洲共和国"
+ DSR_fascism:0 "满洲帝国"
+ DSR_fascism_DEF:0 "满洲帝国"
+ DSR_fascism_ADJ:0 "满洲帝国"
+ DSR_neutrality:0 "满洲里军事管辖地"
+ DSR_neutrality_DEF:0 "满洲里军事管辖地"
+ DSR_neutrality_ADJ:0 "满洲里军事管辖地"
 
 #Cosmetic
  
@@ -465,6 +481,10 @@
  AIS_SRC_subject:0 "阿萨姆特别行政区"
  AIS_SRC_subject_DEF:0 "阿萨姆特别行政区"
  AIS_SRC_subject_ADJ:0 "阿萨姆特别行政区"
+ 
+ DSR_SRC_communism_subject:0 "东北特别行政区"
+ DSR_SRC_communism_subject_DEF:0 "东北特别行政区"
+ DSR_SRC_communism_subject_ADJ:0 "东北特别行政区"
  
  SRC_USR_communism_subject:0 "中华苏维埃社会主义共和国"
  SRC_USR_communism_subject_DEF:0 "中华苏维埃社会主义共和国"

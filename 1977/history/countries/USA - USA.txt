@@ -21,5 +21,5 @@ set_popularities = {
 
 set_autonomy = {
 	target = AMA
-	autonomy_state = economic_puppet #Placeholder
+	autonomy_state = autonomy_puppet #军事占领区
 }

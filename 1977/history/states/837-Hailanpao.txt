@@ -2,8 +2,8 @@ state={
 	id=837
 	name="海兰泡"
 	history = {
-		owner = SRC
-		add_core_of = SRC
+		owner = DSR
+		add_core_of = DSR
 	}
 	provinces={
 		675 1802 4246 4725 4805 7672 7801 10655 10722 12192 12261 12263 12654 12678 

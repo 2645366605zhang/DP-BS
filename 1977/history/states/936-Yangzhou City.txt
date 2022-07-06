@@ -1,0 +1,34 @@
+
+state = {
+	id = 936
+	name = "扬州市"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = SRC
+		victory_points = {
+			4001 8
+		}
+		victory_points = {
+			4091 4
+		}
+		victory_points = {
+			7142 4
+		}
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		1089 4001 4091 4148 7142 7181 9953 10095 12067
+	}
+
+	local_supplies = 0.0 
+}

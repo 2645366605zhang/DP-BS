@@ -1,0 +1,27 @@
+
+state = {
+	id = 939
+	name = "唐山市"
+	manpower = 0
+	
+	state_category = large_town
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			dockyard = 1
+		}
+		victory_points = {
+			900 14
+		}
+	}
+
+	provinces = {
+		881 900 1052 3955 6969 9768 11822 12043
+	}
+
+	local_supplies = 0.0 
+}

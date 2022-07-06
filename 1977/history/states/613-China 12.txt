@@ -16,15 +16,21 @@ state={
 			dockyard = 1
 		}
 		victory_points = {
-			11913 24
+			11913 30
 		}
 		victory_points = {
-			10076 6
+			10076 8
+		}
+		victory_points = {
+			10034 6
+		}
+		victory_points = {
+			11982 10
 		}
 	}
 
 	provinces={
-		996 1089 4091 7120 10034 10076 11913 11928 11982 12052 13142 
+		996 4042 7120 10034 10076 11913 11928 11982 12052 13142 
 	}
 
 	local_supplies=0.0 

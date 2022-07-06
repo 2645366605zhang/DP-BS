@@ -799,10 +799,6 @@ BUK = {
 	color = rgb { 204 153 102 }
 	color_ui = rgb { 172 115 57 }
 }
-KHI = {
-	color = rgb { 51 204 255 }
-	color_ui = rgb { 0 134 179 }
-}
 
 #####
 
@@ -940,3 +936,9 @@ KNL = {
 	color = rgb { 255 155 0 }
 	color_ui = rgb { 255 155 0 }
 }
+
+DSR = {
+	color = rgb { 178 5 8 }
+	color_ui = rgb { 178 5 8 }
+}
+

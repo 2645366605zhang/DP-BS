@@ -7,12 +7,28 @@ state={
 		owner = SRC
 		add_core_of = SRC
 		victory_points = {
-			1069 8
+			1069 6
+		}
+		victory_points = {
+			4181 6
+		}
+		victory_points = {
+			4089 4
+		}
+		victory_points = {
+			4071 4
+		}
+		victory_points = {
+			12045 2
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
 			arms_factory = 1
+			dockyard = 1
+			4089 = {
+				naval_base = 1
+			}
 		}
 	}
 
@@ -21,6 +37,6 @@ state={
 	}
 	manpower=38373200
 	buildings_max_level_factor=1.000
-	state_category=large_town
+	state_category = large_town
 	local_supplies=4.000
 }
