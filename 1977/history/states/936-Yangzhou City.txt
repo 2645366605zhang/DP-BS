@@ -17,6 +17,9 @@ state = {
 		victory_points = {
 			7142 4
 		}
+		victory_points = {
+			1089 2
+		}
 		add_core_of = SRC
 		buildings = {
 			infrastructure = 3

@@ -1,12 +1,18 @@
 state={
 	id=859
-	name="厦门"
+	name="厦门市"
 	provinces={
-		7071 
+		7071 7131 11986
 	}
 	history={
 		victory_points = {
+			7131 1
+		}
+		victory_points = {
 			7071 8
+		}
+		victory_points = {
+			11986 10
 		}
 		buildings = {
 			7071 = {

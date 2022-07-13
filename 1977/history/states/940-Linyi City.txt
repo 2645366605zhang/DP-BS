@@ -1,0 +1,39 @@
+
+state = {
+	id = 940
+	name = "临沂市"
+	manpower = 0
+	
+	state_category = large_town
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			4181 6
+		}
+		victory_points = {
+			10072 4
+		}
+		victory_points = {
+			12069 2
+		}
+		victory_points = {
+			12015 2
+		}
+		victory_points = {
+			9971 2
+		}
+	}
+
+	provinces = {
+		1124 1154 4037 4157 4181 7055 9971 10043 10072 12015 12069
+	}
+
+	local_supplies = 0.0 
+}

@@ -1,0 +1,29 @@
+
+state = {
+	id = 943
+	name = "衢州市-丽水市"
+	manpower = 0
+	
+	state_category = small_town
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 1
+			fuel_silo = 1
+		}
+		victory_points = { 
+			1195 2
+		}
+		victory_points = { 
+			7174 2
+		}
+	}
+
+	provinces = {
+		1195 7174 9944 10086 11920 11947
+	}
+
+	local_supplies = 0.0 
+}

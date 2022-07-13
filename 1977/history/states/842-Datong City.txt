@@ -1,13 +1,19 @@
 state={
 	id=842
-	name="大同"
+	name="大同市"
 	history = {
 		owner = SRC
 		add_core_of = SRC
 		buildings = {
-			infrastructure = 4
-			industrial_complex = 2
+			infrastructure = 2
+			industrial_complex = 1
 			arms_factory = 1
+		}
+		victory_points = {
+			7158 4
+		}
+		victory_points = {
+			10507 2
 		}
 	}
 	provinces={
@@ -16,5 +22,5 @@ state={
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category=city
+	state_category = small_town
 }

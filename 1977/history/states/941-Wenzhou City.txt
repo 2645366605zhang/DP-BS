@@ -1,0 +1,35 @@
+
+state = {
+	id = 941
+	name = "温州市"
+	manpower = 0
+	
+	state_category = city
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			dockyard = 2
+			industrial_complex = 1
+			air_base = 1
+			1055 = {
+				naval_base = 2
+				coastal_bunker = 2
+			}
+		}
+		victory_points = { 
+			1055 8
+		}
+		victory_points = { 
+			1168 8
+		}
+	}
+
+	provinces = {
+		1055 1168 4013 4099 7086
+	}
+
+	local_supplies = 0.0 
+}

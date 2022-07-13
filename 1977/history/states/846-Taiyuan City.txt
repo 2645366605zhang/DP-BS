@@ -1,9 +1,24 @@
 state={
 	id=846
-	name="太原"
+	name="太原市"
 	history = {
 		owner = SRC
 		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+			fuel_silo = 1
+		}
+		victory_points = {
+			4469 6
+		}
+		victory_points = {
+			1438 2
+		}
+		victory_points = {
+			10367 2
+		}
 	}
 	provinces={
 		1027 1203 1438 1531 4074 4174 4469 10367 12078 12300 12344 
@@ -11,5 +26,5 @@ state={
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category=large_city
+	state_category=large_town
 }
