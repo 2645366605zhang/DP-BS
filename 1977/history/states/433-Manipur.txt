@@ -15,7 +15,8 @@ state={
 		victory_points = {
 			2054 4
 		}
-		owner = RAJ
+		owner = RIN
+		add_core_of = RIN
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

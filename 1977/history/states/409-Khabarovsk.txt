@@ -7,11 +7,11 @@ state={
 	}
 
 	history={
-		owner = SRC
+		owner = DSR
 		victory_points = {
-			12189 1 
+			12189 2
 		}
-		add_core_of = SRC
+		add_core_of = DSR
 	}
 
 	provinces={

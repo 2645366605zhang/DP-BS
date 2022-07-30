@@ -2,8 +2,8 @@ state={
 	id=836
 	name="孟家屯"
 	history = {
-		owner = SRC
-		add_core_of = SRC
+		owner = DSR
+		add_core_of = DSR
 		victory_points = {
 			7763 3 
 		}

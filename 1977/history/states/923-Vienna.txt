@@ -1,0 +1,28 @@
+state={
+	id = 923
+	name="维也纳"
+	manpower = 0
+	
+	state_category = large_city
+	
+	history={
+		owner = ASR
+		victory_points = {
+			11666 32
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 3
+			industrial_complex = 5
+			air_base = 6
+		}
+		add_core_of = ASR
+
+	}
+
+	provinces={
+		11666 
+	}
+
+	local_supplies=0.0 
+}

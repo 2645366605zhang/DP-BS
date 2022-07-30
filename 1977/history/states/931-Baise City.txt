@@ -1,0 +1,29 @@
+state={
+	id = 931
+	name="百色市"
+	manpower = 0
+	state_category = small_town
+	
+	resources = {
+		tungsten = 16
+	}
+	
+	history={
+		owner = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		victory_points = { 
+			10459 2
+		}
+		add_core_of = SRC
+	}
+
+	provinces={
+		1625 4085 4628 10459
+	}
+
+	local_supplies = 0.0 
+}

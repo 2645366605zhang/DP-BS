@@ -1,6 +1,6 @@
 state={
 	id=839
-	name="山东半岛"
+	name="烟台市-威海市"
 	history = {
 		owner = SRC
 		add_core_of = SRC
@@ -8,9 +8,20 @@ state={
 			infrastructure = 2
 			industrial_complex = 1
 			dockyard = 2
+			air_base = 2
 			4205 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+			4186 = {
 				naval_base = 2
 			}
+		}
+		victory_points = {
+			4205 2
+		}
+		victory_points = {
+			1200 4
 		}
 	}
 	provinces={

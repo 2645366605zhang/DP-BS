@@ -1,0 +1,20 @@
+﻿capital = 439
+
+set_stability = 0.5
+set_war_support = 0.25
+
+set_convoys = 50
+
+set_politics = {
+	ruling_party = democratic #英迪拉·甘地
+	last_election = "1971.3.24"
+	election_frequency = 72
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 38 #国大党
+	fascism = 36 #人民党
+	communism = 18
+	neutrality = 8
+}

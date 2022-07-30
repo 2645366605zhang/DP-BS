@@ -1,12 +1,10 @@
 state= {
 	id=593
-	name="STATE_593"
+	name="韶关市"
 	manpower = 12700000
-	state_category = large_town
+	state_category = small_town
 	resources={
 		tungsten = 12
-		steel= 22
-		chromium = 3
 	}
 
 	history= {
@@ -14,25 +12,14 @@ state= {
 		add_core_of = SRC
 		buildings = {
 			infrastructure = 3
-			industrial_complex = 2
-			dockyard = 2
-			9938 = {
-				naval_base = 2
-				coastal_bunker = 4
-			}
-			7108 = {
-				coastal_bunker = 2
-			}
+			industrial_complex = 1
 		}
 		victory_points = {
-			9938 8
-		}
-		victory_points = {
-			7108 6
+			9970 2
 		}
 	}
 	provinces={
-		1078 1120 1162 1202 4050 4165 4207 7067 7108 7141 7182 9938 9970 9978 9997 10080 12014 12095 
+		1120 9970 9997 10080 10121 11941 12014 12095 
 	}
 
 	local_supplies=1.0 

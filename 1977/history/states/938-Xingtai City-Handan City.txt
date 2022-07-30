@@ -1,0 +1,31 @@
+
+state = {
+	id = 938
+	name = "邢台市-邯郸市"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
+		}
+		victory_points = {
+			1188 3
+		}
+		victory_points = {
+			1169 4
+		}
+	}
+
+	provinces = {
+		1169 1188 4058 7092 12062
+	}
+
+	local_supplies = 0.0 
+}

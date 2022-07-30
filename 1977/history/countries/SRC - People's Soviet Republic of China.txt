@@ -26,3 +26,8 @@ set_popularities = {
 	communism = 55
 	neutrality = 10
 }
+
+set_autonomy = {
+	target = DSR
+	autonomy_state = autonomy_integrated_puppet #特别行政区
+}

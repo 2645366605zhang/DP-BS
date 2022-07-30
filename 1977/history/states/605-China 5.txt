@@ -1,6 +1,6 @@
 state={
 	id=605
-	name="四川"
+	name="四川省东部"
 	resources = {
 		steel = 12
 	}
@@ -9,8 +9,8 @@ state={
 		owner = SRC
 		add_core_of = SRC
 		buildings = {
-			infrastructure = 4
-			arms_factory = 4
+			infrastructure = 2
+			arms_factory = 3
 			industrial_complex = 2
 			air_base = 2
 		}

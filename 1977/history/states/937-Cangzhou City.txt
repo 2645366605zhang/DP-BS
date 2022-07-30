@@ -1,0 +1,30 @@
+
+state = {
+	id = 937
+	name = "沧州市"
+	manpower = 0
+	
+	state_category = town
+
+	history={
+		owner = SRC
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			4137 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			11996 6
+		}
+	}
+
+	provinces = {
+		4137 9969 10003 10119 11944 11980 11996
+	}
+
+	local_supplies = 0.0 
+}

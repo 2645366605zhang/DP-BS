@@ -3,14 +3,14 @@ state= {
 	name="南库页岛"
 	manpower = 295196
 	resources={
-		oil=3 # was: 4
+		oil = 7
 	}
 	
 	state_category = rural
 
 	history= {
-		owner = SRC
-		add_core_of = SRC
+		owner = DSR
+		add_core_of = DSR
 		add_claim_by = JAP
 		
 		buildings = {

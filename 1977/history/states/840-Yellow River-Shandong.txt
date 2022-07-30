@@ -6,7 +6,17 @@ state={
 		add_core_of = SRC
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 2
+			industrial_complex = 1
+			arms_factory = 2
+		}
+		victory_points = {
+			1084 2
+		}
+		victory_points = {
+			11933 4
+		}
+		victory_points = {
+			11962 2
 		}
 	}
 	provinces={
@@ -15,5 +25,5 @@ state={
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category=large_town
+	state_category=town
 }

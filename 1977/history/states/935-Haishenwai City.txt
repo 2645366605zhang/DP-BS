@@ -1,0 +1,35 @@
+
+state = {
+	id = 935
+	name = "海参崴市"
+	manpower = 641465
+	resources = {
+		chromium = 6
+	}
+	
+	state_category = large_town
+
+	history={
+		owner = SRC
+		victory_points = {
+			957 16
+		}
+		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			dockyard = 3
+			industrial_complex = 1
+			air_base = 4
+			957 = {
+				naval_base = 5
+				coastal_bunker = 4
+			}
+		}
+	}
+
+	provinces = {
+		957 3787 3977 6684 6838 6961 6989 9762 9895 9926 11750 11879
+	}
+
+	local_supplies = 0.0 
+}

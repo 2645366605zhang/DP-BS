@@ -1,0 +1,27 @@
+state={
+	id = 929
+	name="防城港市"
+	manpower = 0
+	state_category = small_town
+	
+	history={
+		owner = SRC
+		buildings = {
+			infrastructure = 3
+			dockyard = 2
+			10004 = {
+				naval_base = 1
+			}
+		}
+		victory_points = { 
+			10004 2
+		}
+		add_core_of = SRC
+	}
+
+	provinces={
+		4121 7093 10004
+	}
+
+	local_supplies = 0.0 
+}

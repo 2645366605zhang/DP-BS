@@ -9,6 +9,7 @@ state={
 	history={
 		owner = AMS
 		add_core_of = AMS
+		add_claim_by = JAP
 		buildings = {
 			infrastructure = 2
 		}

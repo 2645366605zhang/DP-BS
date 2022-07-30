@@ -1,0 +1,32 @@
+state={
+	id = 930
+	name="北海市-玉林市"
+	manpower = 0
+	state_category = town
+	
+	resources = {
+		tungsten = 12
+	}
+	
+	history={
+		owner = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+		}
+		victory_points = { 
+			1018 2
+		}
+		victory_points = { 
+			12023 4
+		}
+		add_core_of = SRC
+	}
+
+	provinces={
+		1018 4023 7044 7192 10105 11983 12023
+	}
+
+	local_supplies = 0.0 
+}

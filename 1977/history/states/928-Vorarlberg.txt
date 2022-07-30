@@ -1,0 +1,26 @@
+state={
+	id = 928
+	name="福拉尔贝格"
+	manpower = 0
+	state_category = small_town
+	
+	history={
+		owner = TYR
+		buildings = {
+			infrastructure = 2
+            industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			6680 5
+		}
+		add_core_of = TYR
+		add_core_of = ASR
+	}
+
+	provinces={
+		6680
+	}
+
+	local_supplies = 0.0 
+}

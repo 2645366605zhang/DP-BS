@@ -8,8 +8,17 @@ state={
 			7014 20
 		}
 		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			air_base = 1
 			7014 = {
 				naval_base = 5
+				coastal_bunker = 4
+				bunker = 4
+			}
+			12076 = {
 				coastal_bunker = 4
 				bunker = 4
 			}

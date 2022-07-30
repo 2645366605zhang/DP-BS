@@ -1,0 +1,38 @@
+state={
+	id = 933
+	name="广州市"
+	manpower = 0
+	state_category = large_city
+	
+	resources = {
+		steel = 20
+	}
+	
+	history={
+		owner = SRC
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 2
+			air_base = 3
+			1047 = {
+				naval_base = 6
+				coastal_bunker = 6
+			}
+		}
+		victory_points = {
+			1047 26
+		}
+		victory_points = {
+			7152 14
+		}
+		add_core_of = SRC
+	}
+
+	provinces={
+		1047 7152
+	}
+
+	local_supplies = 0.0 
+}

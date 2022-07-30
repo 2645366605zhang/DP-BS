@@ -1,9 +1,27 @@
 state={
 	id=851
-	name="临汾"
+	name="临汾市"
 	history = {
 		owner = SRC
 		add_core_of = SRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 3
+		}
+		victory_points = {
+			1034 4
+		}
+		victory_points = {
+			10421 2
+		}
+		victory_points = {
+			1180 2
+		}
+		victory_points = {
+			1575 2
+		}
 	}
 	provinces={
 		1034 1180 1519 1575 4538 4634 7571 10421
@@ -11,5 +29,5 @@ state={
 	manpower=0
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
-	state_category=city
+	state_category = large_town
 }

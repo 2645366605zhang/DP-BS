@@ -9,8 +9,8 @@ state={
 			infrastructure = 3
 			industrial_complex = 2
 		}
-		owner = RAJ
-		add_core_of = RAJ
+		owner = RIN
+		add_core_of = RIN
 	}
 	manpower=0
 	buildings_max_level_factor=0.600

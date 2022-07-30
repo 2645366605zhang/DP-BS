@@ -1,7 +1,7 @@
 
 state={
 	id=610
-	name="承德"
+	name="承德市"
 	manpower = 1975377
 	
 	state_category = large_town
@@ -11,11 +11,18 @@ state={
 		add_core_of = SRC
 		buildings = {
 			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
 			3900 = {
-				naval_base = 4
+				naval_base = 3
 			}
 		}
-
+		victory_points = {
+			11801 6
+		}
+		victory_points = {
+			3900 4
+		}
 	}
 
 	provinces={

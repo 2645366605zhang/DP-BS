@@ -11,7 +11,8 @@ state={
 	}
 
 	history={
-		owner = RAJ
+		owner = RIN
+		add_core_of = RIN
 		victory_points = {
 			9975 6
 		}

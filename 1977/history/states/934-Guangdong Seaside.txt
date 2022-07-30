@@ -1,0 +1,45 @@
+state={
+	id = 934
+	name="广东沿海地区"
+	manpower = 0
+	state_category = large_town
+	
+	resources = {
+		steel = 18
+	}
+	
+	history={
+		owner = SRC
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			dockyard = 3
+			7108 = {
+				coastal_bunker = 2
+			}
+			9938 = {
+				naval_base = 2
+				coastal_bunker = 4
+			}
+		}
+		victory_points = {
+			9938 10
+		}
+		victory_points = {
+			7108 8
+		}
+		victory_points = {
+			1078 4
+		}
+		victory_points = {
+			4050 2
+		}
+		add_core_of = SRC
+	}
+
+	provinces={
+		1078 1202 1162 4050 4165 4207 7067 7108 7141 7182 9938 9978
+	}
+
+	local_supplies = 0.0 
+}

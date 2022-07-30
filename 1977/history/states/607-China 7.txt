@@ -12,7 +12,34 @@ state={
 
 		}
 		victory_points = {
-			9958 1 
+			9958 6
+		}
+		victory_points = {
+			1004 4
+		}
+		victory_points = {
+			10364 4
+		}
+		victory_points = {
+			7656 2
+		}
+		victory_points = {
+			6932 2
+		}
+		victory_points = {
+			10098 2
+		}
+		victory_points = {
+			12012 2
+		}
+		victory_points = {
+			7540 2
+		}
+		victory_points = {
+			7568 2
+		}
+		victory_points = {
+			10446 2
 		}
 	}
 

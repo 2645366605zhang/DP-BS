@@ -5,11 +5,8 @@ state={
 		4513 7497 10471 12375
 	}
 	history={
-		buildings = {
-			infrastructure = 1
-		}
-		owner = RAJ
-		add_core_of = RAJ
+		owner = RIN
+		add_core_of = RIN
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
