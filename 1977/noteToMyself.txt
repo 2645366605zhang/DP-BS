@@ -1,1 +1,10 @@
 execute delall before testing
+
+Flag sizes:
+--------------
+LARGE  82*52px
+MED    41*26px
+SMALL  10*7px
+
+Requirements:
+32bpp, uncompressed, no color palette
