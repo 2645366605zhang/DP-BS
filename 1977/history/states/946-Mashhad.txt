@@ -1,0 +1,25 @@
+
+state={
+	id=946
+	name="马什哈德"
+	manpower = 800000
+	state_category = town
+
+	history={
+		owner = USR
+		add_core_of = USR
+		buildings = {
+			infrastructure = 2 #was: 7
+			industrial_complex = 1
+		}
+		victory_points = {
+			5029 2
+		}
+	}
+
+	provinces={
+		1521 2000 5029 10351
+	}
+
+	local_supplies=0.0 
+}

@@ -59,7 +59,7 @@
  canal:0 "运河地区"
  big_canal:0 "关键运河地区"
  mundi_caput:0 "国际大都市"
- ecumenopolis:0 "理想城的一部分"
+ ecumenopolis:0 "寰宇城"
  OCCUPATION_BREAKDOWN:0 "占领明细："
  OCCUPATION_BREAKDOWN_ENTRY:0 "\n$COUNTRY|Y$：$OCCUPATION|Y%0$"
  STATE_BUILDING_SLOT_TECH:0 "我们没有这个地区基础设施的情报"

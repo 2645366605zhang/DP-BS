@@ -1,0 +1,23 @@
+state = {
+	id=648
+	name="STATE_648"
+	state_category = tiny_island
+	manpower=82
+	history = {
+		owner = AMA
+		add_claim_by = JAP
+		add_core_of = GUM
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			13026 = {
+				naval_base = 1
+				coastal_bunker = 1
+			}
+		}
+	}
+	provinces = {
+		13026
+	}
+	local_supplies=0.0 
+}
