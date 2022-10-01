@@ -1,0 +1,28 @@
+
+state={
+	id=632
+	name="STATE_632"
+	manpower=96
+	state_category = tiny_island
+
+	history={
+		owner = AMA
+		add_core_of = GUM
+		buildings = {
+			infrastructure = 1
+			air_base = 1
+			13047 = {
+				naval_base = 2
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			13047 1 
+		}
+	}
+	provinces={
+		13047 
+	}
+
+	local_supplies=0.0 
+}

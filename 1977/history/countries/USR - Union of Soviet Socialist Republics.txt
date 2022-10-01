@@ -35,6 +35,8 @@ add_to_faction = FRY
 add_to_faction = DFD
 add_to_faction = ASR
 add_to_faction = FPA
+add_to_faction = PER
+
 
 #Only for testing purpose
 set_autonomy = {

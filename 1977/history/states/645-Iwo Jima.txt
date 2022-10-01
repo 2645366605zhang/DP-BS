@@ -1,0 +1,27 @@
+state = {
+	id=645
+	name = "STATE_645"
+	manpower = 900
+	state_category = small_island
+	history = {
+		owner = AMA
+		add_claim_by = JAP
+		buildings = {
+			infrastructure = 3
+			anti_air_building = 3
+			air_base = 2
+			rocket_site = 1
+			13025 = {
+				naval_base = 4
+				coastal_bunker = 6
+			}
+		}
+		victory_points = {
+			13025 2
+		}
+	}
+	provinces = {
+		13025
+	}
+	local_supplies=0.0 
+}

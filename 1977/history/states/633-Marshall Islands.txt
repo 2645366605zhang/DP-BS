@@ -1,0 +1,68 @@
+
+state={
+	id=633
+	name="STATE_633"
+	manpower=66666
+	
+	state_category = small_island
+
+	history={
+		owner = AMA
+		add_claim_by = JAP
+		add_core_of = FSM
+		buildings = {
+			infrastructure = 2
+			air_base = 3
+			13040 = {
+				coastal_bunker = 1
+			}
+			13041 = {
+				naval_base = 3
+				coastal_bunker = 3
+				bunker = 1
+			}
+			13042 = {
+				naval_base = 1
+				coastal_bunker = 2
+				bunker = 1
+			}
+			13043 = {
+				coastal_bunker = 2
+				bunker = 1
+			}
+			13044 = {
+				coastal_bunker = 1
+				bunker = 1
+			}
+			13046 = {
+				naval_base = 3
+				coastal_bunker = 4
+			}
+			1002 = {
+				naval_base = 2
+				coastal_bunker = 2
+			}
+			13039 = {
+				naval_base = 1
+				coastal_bunker = 2
+			}
+			13045 = {
+				naval_base = 2
+				coastal_bunker = 2
+			}
+		}
+		victory_points = {
+			13041 3 
+		}
+		victory_points = {
+			13046 1 
+		}
+
+	}
+
+	provinces={
+		1002 13039 13040 13041 13042 13043 13044 13045 13046 
+	}
+
+	local_supplies=0.0 
+}
