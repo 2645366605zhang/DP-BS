@@ -1,0 +1,9 @@
+strategic_region={
+	id=276
+	name="琉球"
+	provinces={
+		1123 7115 10124 11932 
+	}
+	weather={
+	}
+}

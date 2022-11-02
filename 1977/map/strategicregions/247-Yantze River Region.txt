@@ -1,8 +1,7 @@
 strategic_region={
-	id=229
-	name="琉球"
+	id=247
+	name="STRATEGICREGION_247"
 	provinces={
-		1123 7115 10124 11932 
 	}
 	weather={
 	}
