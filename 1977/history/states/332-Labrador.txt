@@ -1,13 +1,13 @@
 state={
 	id=332
-	name="拉布拉多"
+	name="纽芬兰与拉布拉多"
 	
-	state_category = rural
+	state_category = town
 
 	history={
 		owner = CAN
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 			12503 = {
 				naval_base = 1
 			}
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1785 4720 4787 12503 12600 13165 13180 
+		1426 1785 4720 4787 7683 7758 7788 7810 10534 12503 12505 12680 12698 13165 13180 
 	}
 	manpower=277239
 	buildings_max_level_factor=1.000
