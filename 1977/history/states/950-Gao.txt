@@ -1,6 +1,6 @@
 state={
-	id=950
-	name="加奥"
+	id = 950
+	name = "加奥"
 	manpower = 498718
 	state_category = wasteland
 

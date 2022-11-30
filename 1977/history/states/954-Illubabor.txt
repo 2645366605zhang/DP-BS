@@ -1,0 +1,34 @@
+state = {
+	id = 954 # Illubabor-Kaffa
+	name = "伊路巴博-卡法"
+	manpower = 600000
+	resources = {
+		rubber = 2
+	}
+	
+	state_category = pastoral
+
+	history = {
+		buildings = {
+			infrastructure = 1
+		}
+		# Gambeila
+		victory_points = { 
+			13244 2 
+		}
+		# Jiren
+		victory_points = { 
+			7912 1  
+		}
+		
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = GBA
+	}
+
+	provinces = {
+ 		7912 13244 13245
+ 	}
+
+	local_supplies = 0.0 
+}

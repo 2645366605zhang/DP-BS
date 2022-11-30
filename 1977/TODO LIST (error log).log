@@ -1,399 +1,136 @@
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 191 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 761 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 763 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 917 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1033 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1123 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1155 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1181 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1214 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1323 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1393 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1399 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1408 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1411 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1420 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1501 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1512 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1514 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1515 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1516 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1526 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1552 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1642 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1644 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1671 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1707 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1726 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1727 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1731 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1737 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1768 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1784 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1792 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1799 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1817 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1829 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1856 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1858 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1869 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1872 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1891 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1914 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1920 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1923 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1923 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1929 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1932 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1953 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1955 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1960 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1968 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1969 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 1973 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1977 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1984 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 1992 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2003 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2009 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2012 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2024 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2025 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2027 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 2029 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2040 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2044 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2057 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2072 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2088 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2090 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 2090 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2095 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2096 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2116 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2120 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2123 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2126 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2159 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2166 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2180 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2187 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2191 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2201 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2202 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2217 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2221 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 2229 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 3606 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 3736 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 3800 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 3962 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4128 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4343 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4385 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4413 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4428 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4505 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4515 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4520 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4576 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4646 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4648 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4678 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4695 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4730 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4735 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4737 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4753 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4771 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4797 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4815 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4817 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4870 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4877 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4889 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4918 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4924 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4938 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4941 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4954 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4968 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4972 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4974 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 4976 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4995 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 4997 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5006 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 5006 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5027 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5028 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5037 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 5037 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5041 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5058 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5060 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 5074 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5097 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5101 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5154 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5155 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5160 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5164 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5189 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5196 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5198 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5207 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5210 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 5239 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 5403 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 6020 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 6728 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 6779 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7115 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7161 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7185 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7259 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7506 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7525 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7532 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7538 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7595 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7605 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7677 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7685 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7716 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7753 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7761 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7781 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7782 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7820 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7837 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7838 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7853 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7869 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 7882 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7891 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7912 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7930 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7944 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7954 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7970 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7978 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7980 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 7996 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8000 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 8000 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8016 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8019 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8021 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8030 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 8030 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8034 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8054 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8062 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8073 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 8073 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8092 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8101 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8109 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8133 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8136 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8138 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8152 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8200 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8202 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8209 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8230 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 8247 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 9615 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 9947 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 9986 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10124 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10228 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10258 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10273 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10338 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10350 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10365 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10378 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10444 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10512 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10533 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10548 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10561 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10585 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10596 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10605 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10644 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10661 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10663 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10692 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10743 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10752 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10761 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10764 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10766 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10775 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10784 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10786 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10786 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10788 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10791 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10812 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10815 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10820 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10829 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10831 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10840 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10850 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10857 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10858 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10859 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10860 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10870 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 10870 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10877 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10892 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10901 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10902 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10908 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10915 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10923 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10937 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10941 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10949 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10957 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10958 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10963 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10966 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10969 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10972 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10976 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10978 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 10997 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 11011 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 11014 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 11016 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 11145 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 11932 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12101 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12231 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12259 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12272 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12352 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12354 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12367 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12391 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12421 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12455 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12493 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12508 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12514 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12519 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12525 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12540 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12542 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12571 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12574 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12578 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12639 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12647 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12672 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12682 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12702 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12714 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12725 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12749 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12751 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12757 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12768 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12768 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12783 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12795 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12800 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12812 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12821 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12838 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12856 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12862 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12883 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12883 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12887 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 12894 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12907 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12921 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12927 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12935 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12941 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12948 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12949 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12950 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12957 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12958 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12962 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12971 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12976 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12985 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12990 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 12993 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 13037 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 13079 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13217 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13236 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13237 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13238 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13240 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13241 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13242 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13243 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13244 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13245 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13246 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13247 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13248 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13249 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13252 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 13252 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13253 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13254 -  has no state.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13255 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 13255 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2577]: MAP_ERROR: The land province 13256 -  has no state.
-[22:58:36][gamestate.cpp:2584]: MAP_ERROR: The province 13256 -  has no strategic region assigned.
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "奥涅加"(#215) has provinces (#36, #197) belonging to different strategic areas: "" (#265), "北俄罗斯-卡累利阿" (#132)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "暹罗"(#289) has provinces (#1244, #1592) belonging to different strategic areas: "中南半岛西部" (#229), "中南半岛东部" (#142)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "克孜勒奥尔达"(#404) has provinces (#1243, #4578) belonging to different strategic areas: "中亚大草原" (#136), "" (#270)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "奥里萨"(#426) has provinces (#1579, #7574) belonging to different strategic areas: "印度次大陆南部" (#31), "" (#253)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "信德"(#443) has provinces (#1061, #1147) belonging to different strategic areas: "" (#254), "印度次大陆北部" (#153)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "魁北克"(#466) has provinces (#490, #7807) belonging to different strategic areas: "" (#233), "魁北克，拉布拉多与纽芬兰" (#220)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "锡林郭勒盟"(#611) has provinces (#4495, #6988) belonging to different strategic areas: "" (#244), "华北" (#143)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "南京"(#613) has provinces (#996, #4042) belonging to different strategic areas: "" (#247), "华东" (#164)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "石家庄市"(#614) has provinces (#1134, #1137, #10480) belonging to different strategic areas: "华北" (#143), "" (#244), "" (#245)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "河内"(#615) has provinces (#1073, #4656) belonging to different strategic areas: "华南" (#165), "" (#248)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "东北西伯利亚"(#644) has provinces (#1722, #1745) belonging to different strategic areas: "" (#260), "" (#259)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "松江"(#717) has provinces (#783, #6944) belonging to different strategic areas: "" (#243), "东北" (#155)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "大同市"(#842) has provinces (#7158, #10507) belonging to different strategic areas: "" (#244), "" (#245)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "恒河南岸"(#875) has provinces (#1510, #1569) belonging to different strategic areas: "" (#253), "印度次大陆北部" (#153)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "古鲁玛希萨尼"(#876) has provinces (#4513, #7497) belonging to different strategic areas: "印度次大陆北部" (#153), "" (#253)
-[22:58:36][gamestate.cpp:2481]: MAP_ERROR: State "防城港市"(#929) has provinces (#4121, #7093) belonging to different strategic areas: "" (#248), "华南" (#165)
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 7912 is invalid for state 271
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 4968 is invalid for state 292
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 1968 is invalid for state 295
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 2024 is invalid for state 295
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 1671 is invalid for state 472
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 4648 is invalid for state 521
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 2116 is invalid for state 521
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 10957 is invalid for state 541
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 5164 is invalid for state 544
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 2202 is invalid for state 544
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 10859 is invalid for state 549
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 2088 is invalid for state 551
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 10829 is invalid for state 556
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 10788 is invalid for state 556
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 8021 is invalid for state 558
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 1891 is invalid for state 558
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 12768 is invalid for state 678
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 1923 is invalid for state 679
-[22:58:54][strategicair.cpp:5008]: MAP_ERROR: (airports.txt) air base site province 3736 is invalid for state 683
-[22:58:54][strategicair.cpp:5029]: MAP_ERROR: (rocketsites.txt) rocket site province 3736 is invalid for state 683
-[22:58:56][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #1168 in state #596.  
+
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 7912 is invalid for state 271
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 4968 is invalid for state 292
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 1968 is invalid for state 295
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 2024 is invalid for state 295
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 12505 is invalid for state 332
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 12698 is invalid for state 332
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 1671 is invalid for state 472
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 4648 is invalid for state 521
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 2116 is invalid for state 521
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 10957 is invalid for state 541
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 5164 is invalid for state 544
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 2202 is invalid for state 544
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 10859 is invalid for state 549
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 2088 is invalid for state 551
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 10829 is invalid for state 556
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 10788 is invalid for state 556
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 8021 is invalid for state 558
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 1891 is invalid for state 558
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 12768 is invalid for state 678
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 1923 is invalid for state 679
+[23:00:47][strategicair.cpp:4995]: MAP_ERROR: (airports.txt) air base site province 3736 is invalid for state 683
+[23:00:47][strategicair.cpp:5016]: MAP_ERROR: (rocketsites.txt) rocket site province 3736 is invalid for state 683
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 950
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 950
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 951
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 951
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 952
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 952
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 953
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 953
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 954
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 954
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 955
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 955
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 956
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 956
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 957
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 957
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 958
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 958
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 959
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 959
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 960
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 960
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 961
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 961
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 962
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 962
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 963
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 963
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 964
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 964
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 965
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 965
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 966
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 966
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 967
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 967
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 968
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 968
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 969
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 969
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 970
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 970
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 971
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 971
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 972
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 972
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 973
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 973
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 974
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 974
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 975
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 975
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 976
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 976
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 977
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 977
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 978
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 978
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 979
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 979
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 980
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 980
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 981
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 981
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 982
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 982
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 983
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 983
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 984
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 984
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 985
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 985
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 986
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 986
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 987
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 987
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 988
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 988
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 989
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 989
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 990
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 990
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 991
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 991
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 992
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 992
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 993
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 993
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 994
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 994
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 995
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 995
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 996
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 996
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 997
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 997
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 998
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 998
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 999
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 999
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 1000
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 1000
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 1001
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 1001
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 1002
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 1002
+[23:00:47][strategicair.cpp:4984]: MAP_ERROR: (airports.txt) no air base site defined for state 1003
+[23:00:47][strategicair.cpp:5005]: MAP_ERROR: (rocketsites.txt) no rocket site defined for state 1003
+
+[23:00:48][statehistory.cpp:286]: State Error: Trying to set province building in state that doesn't own it. Province #1168 in state #596.
+
+[23:00:48][equipment_effects.cpp:836]: 'history/countries/DDR - East Germany.txt:245: create_equipment_variant': 'Deutschland Class' - Invalid name group 'GER_CA_HISTORICAL'.
+[23:00:48][equipment_effects.cpp:836]: 'history/countries/DDR - East Germany.txt:262: create_equipment_variant': 'Königsberg Class' - Invalid name group 'GER_CL_HISTORICAL'.
