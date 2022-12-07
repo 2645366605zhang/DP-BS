@@ -100,6 +100,8 @@ NMapMode = {
 	SUPPLY_HOVERED_PROVINCE_COLOR_INDEX = 4, -- Border color of hovered province. Refers to the colors in BORDER_COLOR_CUSTOM_HIGHLIGHTS.
 	PEACE_HOVERED_STATE_COLOR_INDEX = 3 , -- Border color of hovered state in Peace conference. Refers to the colors in BORDER_COLOR_CUSTOM_HIGHLIGHTS.
 	PEACE_CLAIMED_STATE_COLOR_INDEX = 2 , -- Border color of claimed states in Peace conference. Refers to the colors in BORDER_COLOR_CUSTOM_HIGHLIGHTS.
+	SELECTION_HOVERED_STATE_COLOR_INDEX_CONTROLLED = 5, -- Border color of hovered controlled states in various select mapmodes. Refers to the colors in BORDER_COLOR_CUSTOM_HIGHLIGHTS.
+	SELECTION_HOVERED_STATE_COLOR_INDEX_FOREIGN = 6,	-- Border color of hovered foreign states in various select mapmodes. Refers to the colors in BORDER_COLOR_CUSTOM_HIGHLIGHTS.
 },
 
 NMapIcons = {
@@ -788,6 +790,7 @@ NGraphics = {
 	COUNTRY_FLAG_SMALL_TEX_HEIGHT = 7,
 	COUNTRY_FLAG_TEX_MAX_SIZE = 1024, -- Tweak dependly on amount of countries. Must be power of 2. No more then 2048.
 	COUNTRY_FLAG_SMALL_TEX_MAX_SIZE = 256, -- Tweak dependly on amount of countries. Must be power of 2. No more then 2048.
+	COUNTRY_FLAG_MEDIUM_TEX_MAX_SIZE = 1024, -- Tweak dependly on amount of countries. Must be power of 2. No more then 2048.
 	COUNTRY_FLAG_STRIPE_TEX_MAX_WIDTH = 10,
 	COUNTRY_FLAG_STRIPE_TEX_MAX_HEIGHT = 4096,
 	COUNTRY_FLAG_LARGE_STRIPE_MAX_WIDTH = 41,

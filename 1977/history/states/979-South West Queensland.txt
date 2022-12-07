@@ -1,6 +1,6 @@
 state={
 	id=979
-	name="STATE_873"
+	name="西南昆士兰"
 	provinces={
 		2116 2221 5198 10941 12949 
 	}
