@@ -1,0 +1,18 @@
+state={
+	id=1007
+	name="锡尔河南岸"
+	manpower = 105000
+	state_category = pastoral
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = USR
+		add_core_of = USR
+	}
+	provinces={
+		4578 4636 7777 10353 10366
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

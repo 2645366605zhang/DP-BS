@@ -1,10 +1,10 @@
 
 state={
 	id=654
-	name="STATE_654" # Gorno-Altaysk
+	name="阿尔泰乌梁海" # Gorno-Altaysk
 	manpower = 153510
 	
-	state_category = wasteland
+	state_category = pastoral
 
 	history={
 		owner = USR
@@ -12,13 +12,10 @@ state={
 			infrastructure = 1
 		}
 		add_core_of = USR
-		victory_points = {
-			4800 1 #Oyrot-Tura/Gorno-Altaysk
-		}
 	}
 
 	provinces={
-		4781 4800 10531 10713 12509 
+		4781 10531 10713 12509 
 	}
 
 	local_supplies=2.0 

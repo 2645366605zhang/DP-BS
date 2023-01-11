@@ -1,0 +1,20 @@
+state={
+	id=1006
+	name="南塔什干"
+	manpower = 200000
+	state_category = pastoral
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		owner = USR
+		add_core_of = USR
+	}
+
+	provinces={
+		1919 4629 7682 11687
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

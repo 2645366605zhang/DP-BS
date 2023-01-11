@@ -1,0 +1,18 @@
+state={
+	id=1010
+	name="外准噶尔"
+	manpower = 330000
+	state_category = pastoral
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		owner = USR
+		add_core_of = USR
+	}
+	provinces={
+		1749 1818 1864 4674 10610 12427 12564
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

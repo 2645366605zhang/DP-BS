@@ -1,23 +1,22 @@
 state={
-	id=1004
-	name="克孜勒奥尔达"
-	manpower = 900000
+	id=1008
+	name="伏龙芝"
+	manpower = 350000
 	state_category = town
 	history={
 		victory_points = {
-			7597 1
+			12583 3
 		}
 		buildings = {
-			infrastructure = 2
+			infrastructure = 3
+			arms_factory = 1
 		}
 		owner = USR
 		add_core_of = USR
 	}
-
 	provinces={
-		7392 7556 7597 7600 7657 10452 10506 12329 12397 12340 12640 12658
+		7706 10603 12583
 	}
-	
 	buildings_max_level_factor = 1.000
 	local_supplies = 0.000
 }

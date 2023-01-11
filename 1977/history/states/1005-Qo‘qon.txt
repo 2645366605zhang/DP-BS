@@ -1,0 +1,23 @@
+state={
+	id=1005
+	name="浩罕"
+	manpower = 437910
+	state_category = pastoral
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			10488 2
+		}
+		owner = USR
+		add_core_of = USR
+	}
+
+	provinces={
+		10488 10530 10660
+	}
+	
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

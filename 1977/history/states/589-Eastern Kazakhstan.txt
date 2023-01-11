@@ -6,22 +6,21 @@ state={
 		owner = USR
 		add_core_of = USR
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 			industrial_complex = 1
-
 		}
 		add_core_of = SOV
 		victory_points = {
-			1668 1
+			1668 2
 		}
 	}
 
 	provinces={
-		1239 1668 4651 4764 7332 7405 7711 7784 7795 7856 10290 10550 10619 10680 12529 12662 13148 13149 13197 
+		1239 1668 4764 7332 7405 7784 10290 
 	}
-	manpower=535191
+	manpower=235191
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category = small_town
 
 	local_supplies=3.0 
 }

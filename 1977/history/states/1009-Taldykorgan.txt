@@ -1,0 +1,22 @@
+state={
+	id=1009
+	name="塔尔迪库尔干"
+	manpower = 392482
+	state_category = small_town
+	history={
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			7795 2
+		}
+		owner = USR
+		add_core_of = USR
+	}
+	provinces={
+		4651 4845 7795 7856 10547 10550 10619 10680 12529 12662 13148 13149 13197
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}
