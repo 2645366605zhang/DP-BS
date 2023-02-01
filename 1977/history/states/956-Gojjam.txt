@@ -15,9 +15,8 @@ state = {
 			13242 2 
 		}
 		
-		owner = ETH
-		add_core_of = ETH
-		add_core_of = BEG
+		owner = SUD
+		add_core_of = SUD
 	}
 
 	provinces = {

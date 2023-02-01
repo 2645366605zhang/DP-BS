@@ -3,7 +3,7 @@ state = {
 	name = "伊路巴博-卡法"
 	manpower = 600000
 	resources = {
-		rubber = 2
+		rubber = 5
 	}
 	
 	state_category = pastoral
@@ -18,12 +18,11 @@ state = {
 		}
 		# Jiren
 		victory_points = { 
-			7912 1  
+			7912 1 2
 		}
 		
-		owner = ETH
-		add_core_of = ETH
-		add_core_of = GBA
+		owner = SUD
+		add_core_of = SUD
 	}
 
 	provinces = {

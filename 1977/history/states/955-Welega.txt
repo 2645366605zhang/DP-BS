@@ -15,13 +15,11 @@ state = {
 			2009 2 
 		}
 		victory_points = { 
-			13243 1 
+			13243 2
 		}
 		
-		owner = ETH
-		add_core_of = ETH
-		add_core_of = BEG
-		add_core_of = ORO
+		owner = SUD
+		add_core_of = SUD
 	}
 
 	provinces = {

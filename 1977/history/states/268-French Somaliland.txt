@@ -1,0 +1,30 @@
+state={
+	id=268
+	name="STATE_268"
+	manpower = 150000
+
+
+	state_category = small_town
+
+	history={
+		owner = SOM
+		add_core_of = DJI
+		add_core_of = SOM
+		victory_points = {
+			8124 4
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			8124 = {
+				naval_base = 3
+			}
+		}
+
+	}
+	provinces={
+		4985 8124
+ 	}
+
+	local_supplies=0.0 
+}

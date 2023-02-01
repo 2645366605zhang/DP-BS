@@ -1,22 +1,21 @@
 state = {
 	id = 957 # Begemder
 	name = "贝格姆德"
-	manpower = 1100000
+	manpower = 1400000
 	resources = {
 	}
 	
-	state_category = pastoral
+	state_category = rural
 
 	history = {
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 		}
 		victory_points = { 
 			1984 2
 		}
-		owner = ETH
-		add_core_of = ETH
-		add_core_of = QEM
+		owner = SUD
+		add_core_of = SUD
 	}
 
 	provinces = {

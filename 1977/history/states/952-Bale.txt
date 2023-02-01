@@ -12,12 +12,10 @@ state = {
 			infrastructure = 1
 		}
 		victory_points = { 
-			10775 1
+			10775 2
 		}
-		owner = ETH
-		add_core_of = ETH
+		owner = SOM
 		add_core_of = SOM
-		add_core_of = ORO
 	}
 
 	provinces = {

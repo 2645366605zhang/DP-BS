@@ -5,21 +5,20 @@ state={
 
 	history={
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 		}
 		victory_points = {
-			5097 1 
+			5097 2
 		}
-		owner = ETH
-		add_core_of = ETH
-		add_core_of = AFA
+		owner = SUD
+		add_core_of = SUD
 	}
 
 	provinces={
 		5097 7944 
 	}
-	manpower=650000
+	manpower=700000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=rural
 	local_supplies=0.000
 }

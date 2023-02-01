@@ -1,28 +1,27 @@
 state = {
 	id = 951
 	name = "哈拉格"
-	manpower = 1500000
-	state_category = rural
+	manpower = 1300000
+	state_category = pastoral
 
 	history = {
-		owner = ETH
-		add_core_of = ETH
+		owner = SOM
 		add_core_of = SOM
-		add_core_of = HAR
 		
 		buildings = {
+			infrastructure = 2
 			industrial_complex = 1
-			air_base = 1
+			air_base = 2
 		}
 		
 		victory_points = { 
 			7980 2 
 		}
 		victory_points = { 
-			13249 3
+			13249 2
 		}
 		victory_points = { 
-			12812 1
+			12812 4
 		}
 	}
 

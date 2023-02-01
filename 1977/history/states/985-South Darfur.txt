@@ -2,11 +2,11 @@ state={
 	id=985
 	name="南达尔富尔"
 
-	manpower = 302020
-	state_category = wasteland
+	manpower = 402020
+	state_category = pastoral
 	
 	history = {
-		owner = SUD
+		owner = GBI
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 1

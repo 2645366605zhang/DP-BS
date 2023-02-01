@@ -1,19 +1,20 @@
 state={
 	id=983
 	name = "加扎勒河" # Bahr al Ghazal
-	state_category = pastoral
+	state_category = rural
 	history = {
-		owner = SUD
+		owner = GBI
 		add_core_of = SUD
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
+			air_base = 1
 		}
 	}
 
 	provinces = {
 		1953 7996 10764 10908 
 	}
-	manpower = 550000
+	manpower = 650000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }
