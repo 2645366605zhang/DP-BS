@@ -2,22 +2,28 @@ state={
 	id=843
 	name="威廉港"
 	history = {
-		owner = DFD
+		owner = WKB
+		add_core_of = WKB
 		add_core_of = DFD
-		add_core_of = BNB
+		add_claim_by = BNB
 		victory_points = {
 			241 6
 		}
 		buildings = {
+			infrastructure = 4
+			dockyard = 3
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 1
 			241 = {
-				naval_base = 8
+				naval_base = 7
 			}
 		}
 	}
 	provinces={
 		241
 	}
-	manpower=0
+	manpower = 840000
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 	state_category=city

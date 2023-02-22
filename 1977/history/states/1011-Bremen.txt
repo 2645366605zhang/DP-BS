@@ -1,0 +1,33 @@
+state={
+	id = 1011
+	name = "不莱梅"
+	manpower = 1200000
+	state_category = city
+	history={
+		buildings = {
+			infrastructure = 5
+			dockyard = 1
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 6
+			3326 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			3326 8
+		}
+		owner = WKB
+		add_core_of = WKB
+		add_core_of = DFD
+		add_claim_by = BNB
+	}
+	provinces={
+		374 3271 3326 3395 6349
+	}
+	resources={
+		oil = 10
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

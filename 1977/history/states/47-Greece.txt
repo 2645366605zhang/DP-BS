@@ -4,10 +4,10 @@ state={
 	name="STATE_47" # Thessaly
 	manpower=2312500
 	resources={
-		steel=3 # was: 4
-		chromium=12 # was: 22
-		aluminium=30 # was: 58
-		tungsten = 10 # was: 20
+		steel = 8
+		chromium = 12
+		aluminium = 32
+		tungsten = 8
 	}
 	
 	state_category = city
@@ -15,25 +15,25 @@ state={
 	history={
 		owner = FRY
 		victory_points = {
-			4109 20 
+			4109 24
 		}
 		victory_points = {
-			3973 3
+			3973 4
 		}
 		victory_points = {
-			863 1
+			863 2
 		}
 		victory_points = {
-			3864 3
+			3864 4
 		}
 		victory_points = {
-			976 1
+			976 2
 		}
 		victory_points = {
-			7127 3
+			7127 4
 		}
 		victory_points = {
-			3988 1
+			3988 2
 		}
 		buildings = {
 			infrastructure = 2

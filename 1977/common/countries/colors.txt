@@ -942,3 +942,12 @@ DSR = {
 	color_ui = rgb { 178 5 8 }
 }
 
+WKB = {
+	color = rgb { 153 0 0 }
+	color_ui = rgb { 153 0 0 }
+}
+
+UAF = {
+	color = rgb { 0 89 44 }
+	color_ui = rgb { 0 89 44 }
+}

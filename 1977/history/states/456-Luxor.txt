@@ -1,0 +1,29 @@
+state=
+{
+	id=456
+	name="埃及尼罗河流域"
+	manpower = 4000000
+	
+	state_category = town
+	
+	history = {
+		owner = EGY
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			12071 4
+		}
+		victory_points = {
+			11999 2
+		}
+
+		add_core_of = EGY
+
+	}
+	provinces={
+		1064 1151 4910 7156 10844 11999 12071 
+	}
+
+	local_supplies=0.0 
+}

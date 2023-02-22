@@ -2,7 +2,7 @@
 
 set_research_slots = 5
 
-set_convoys = 60
+set_convoys = 300
 
 recruit_character = USR_supreme_soviet
 
@@ -36,7 +36,7 @@ add_to_faction = DFD
 add_to_faction = ASR
 add_to_faction = FPA
 add_to_faction = PER
-
+add_to_faction = WKB
 
 #Only for testing purpose
 set_autonomy = {

@@ -1,0 +1,25 @@
+
+state={
+	id=552
+	name="STATE_552"
+	manpower = 90000
+	
+	state_category = pastoral
+
+	history={
+		owner = EGY
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			11974 2
+		}
+		add_core_of = EGY
+	}
+
+	provinces={
+		1028 1206 2064 7073 7144 7216 10097 10869 10907 11974 12044 12099 12733 12771 12816 
+	}
+	buildings_max_level_factor = 2.000
+	local_supplies=0.0 
+}

@@ -1,0 +1,26 @@
+state=
+{
+	id=457
+	name="东部沙漠"
+	manpower = 10000
+	
+	state_category = pastoral
+	
+	history = {
+		owner = EGY
+		buildings = {
+			infrastructure = 2
+		}
+
+		victory_points = {
+			12002 1
+		}
+
+		add_core_of = EGY
+	}
+	provinces={
+		4068 5069 12002 12889 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,27 @@
+state={
+	id = 1014
+	name = "尼罗河西岸"
+	manpower = 1600000
+	state_category = town
+	history={
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 3
+		}
+		victory_points = {
+			3996 6
+		}
+		victory_points = {
+			1068 4
+		}
+		owner = EGY
+		add_core_of = EGY
+	}
+	provinces={
+		1068 3996 4055 10031 992 7117 10127
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

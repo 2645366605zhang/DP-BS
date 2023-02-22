@@ -1,0 +1,27 @@
+
+state={
+	id=452
+	name="马特鲁"
+	manpower = 50000
+	
+	state_category = rural
+
+	history={
+		owner = EGY
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			10061 2 # Mersa Matruh
+		}
+
+		add_core_of = EGY
+	}
+
+	provinces={
+		1143 10061 11910 11967 12091 7148 
+	}
+
+
+	local_supplies=9.0 
+}
