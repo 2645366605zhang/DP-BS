@@ -1,0 +1,29 @@
+state={
+	id=656
+	name="STATE_656"
+	manpower = 80000
+	
+	state_category = small_town
+	
+	history={
+		add_core_of = KUW
+		add_core_of = UAF
+		owner = UAF
+		victory_points = {
+			8085 4
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			8085 = {
+				naval_base = 2
+			}
+		}
+
+	}
+	provinces={
+		8085
+	}
+
+	local_supplies=0.0 
+}

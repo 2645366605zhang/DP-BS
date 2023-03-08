@@ -11,7 +11,7 @@ state=
 
 	history = {
 		
-		owner = SUD
+		owner = SEA
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
@@ -24,6 +24,7 @@ state=
 		victory_points = { 
 			8036 2
 		}
+		add_core_of = SEA
 		add_core_of = SUD
 	}
 

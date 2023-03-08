@@ -3,7 +3,8 @@ state = {
 	name = "阿法尔"
 
 	history = {
-		owner = SUD
+		owner = SEA
+		add_core_of = SEA
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 2

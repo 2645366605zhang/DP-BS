@@ -1,7 +1,7 @@
 state=
 {
 	id=269
-	name="STATE_269"
+	name="北索马里兰"
 	manpower = 880000
 	
 	state_category = rural
@@ -13,7 +13,8 @@ state=
 		victory_points = { 
 			5068 2
 		}
-		owner = SOM
+		owner = SEA
+		add_core_of = SEA
 		add_core_of = SOM
 		buildings = {
 			infrastructure = 3

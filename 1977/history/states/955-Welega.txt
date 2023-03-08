@@ -18,7 +18,8 @@ state = {
 			13243 2
 		}
 		
-		owner = SUD
+		owner = SEA
+		add_core_of = SEA
 		add_core_of = SUD
 	}
 

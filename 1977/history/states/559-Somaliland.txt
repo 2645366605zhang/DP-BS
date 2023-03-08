@@ -1,7 +1,7 @@
 state=
 {
 	id = 559
-	name = "STATE_559"
+	name = "东索马里兰"
 	manpower = 1508895
 	resources = {
 		steel = 8
@@ -10,7 +10,8 @@ state=
 	state_category = small_town
 	
 	history={
-		owner = SOM
+		owner = SEA
+		add_core_of = SEA
 		add_core_of = SOM
 		victory_points = {
 			12991 3 

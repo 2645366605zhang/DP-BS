@@ -1,0 +1,21 @@
+state=
+{
+	id=767
+	name="北部-北达尔富尔" # North Darfur
+	manpower = 200000
+	
+	state_category = pastoral
+	
+	history= {
+		add_core_of = SUD
+		owner = GBI
+		buildings = {
+			infrastructure = 1	
+		}
+	}
+	provinces={
+		4138 4961 7925 7987 8103 10900 12796 12826 12836
+	}
+
+	local_supplies=0.0 
+}

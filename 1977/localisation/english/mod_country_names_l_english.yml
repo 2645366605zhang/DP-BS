@@ -78,7 +78,7 @@
  ROC_fascism_DEF:0 "中华民国国军管辖地"
  ROC_fascism_ADJ:0 "中华民国国军管辖地的"
  ROC_neutrality:0 "中华民国"
- ROC_neutrality_DEF:0 "中华民国"
+ ROC_neutrality_DEF:0 "中华民国"  
  ROC_neutrality_ADJ:0 "中华民国的"
  
  UIR:0 "琉球"
@@ -302,8 +302,8 @@
  VPR_neutrality_DEF:0 "华沙公国"
  VPR_neutrality_ADJ:0 "华沙公国"
  VPR_fascism:0 "波兰王国"
- VPR_fascism:0_DEF "波兰"
- VPR_fascism:0_ADJ "波兰王国"
+ VPR_fascism_DEF:0 "波兰"
+ VPR_fascism_ADJ:0 "波兰王国"
  
  BNB:0 "波恩政权"
  BNB_DEF:0 "波恩政权"
@@ -481,6 +481,22 @@
  UAF_neutrality_DEF:0 "阿拉伯帝国"
  UAF_neutrality_ADJ:0 "阿拉伯帝国"
  
+ SEA:0 "东非"
+ SEA_DEF:0 "东非"
+ SEA_ADJ:0 "东非"
+ SEA_communism:0 "东非苏维埃共和国"
+ SEA_communism_DEF:0 "东非苏维埃"
+ SEA_communism_ADJ:0 "东非苏维埃共和国"
+ SEA_democratic:0 "东非自由共和国"
+ SEA_democratic_DEF:0 "东非共和国"
+ SEA_democratic_ADJ:0 "东非自由共和国"
+ SEA_fascism:0 "阿比西尼亚帝国"
+ SEA_fascism_DEF:0 "阿比西尼亚"
+ SEA_fascism_ADJ:0 "阿比西尼亚帝国"
+ SEA_neutrality:0 "东非苏维埃共和国"
+ SEA_neutrality_DEF:0 "东非苏维埃"
+ SEA_neutrality_ADJ:0 "东非苏维埃共和国"
+
 #Cosmetic
  
  

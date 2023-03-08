@@ -5,7 +5,7 @@ state = {
 	state_category = town
 
 	history = {
-		owner = SUD
+		owner = GBI
 		add_core_of = SUD
 		victory_points = {
 			12725 5

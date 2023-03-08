@@ -1,0 +1,38 @@
+state={
+	id=676
+	name="STATE_676"
+	manpower = 1500000
+	
+	state_category = town
+	
+	resources={
+		oil = 12
+	}
+
+
+	history={
+		owner = UAF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			10106 6
+		}
+		victory_points = {
+			3916 4
+		}
+		victory_points = {
+			6826 2
+		}
+		add_core_of = UAF
+		add_core_of = IRQ
+		add_core_of = KUR
+	}
+	
+	provinces={
+		1600 1938 3916 5014 6826 8123 10106 10793 10804 10811 12372 
+	}
+
+	local_supplies=0.0 
+}

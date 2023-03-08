@@ -1,23 +1,22 @@
 state={
-	id=1000
-	name="加里萨"
-	manpower = 610560
+	id = 1016
+	name = "努比亚沙漠"
+	manpower = 30000
 	state_category = pastoral
-
 	history={
-		owner = SEA
 		buildings = {
 			infrastructure = 1
+			air_base = 1
 		}
-		add_core_of = SEA
-		add_core_of = KEN
-		add_core_of = SOM
+		victory_points = {
+			4963 1
+		}
+		owner = GBI
+		add_core_of = SUD
 	}
-
 	provinces={
-		8133 10761 10976 12927 
+		2046 4963 7989 8105 10745
 	}
-	
 	buildings_max_level_factor = 1.000
 	local_supplies = 0.000
 }

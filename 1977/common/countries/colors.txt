@@ -951,3 +951,8 @@ UAF = {
 	color = rgb { 0 89 44 }
 	color_ui = rgb { 0 89 44 }
 }
+
+SEA = {
+	color = rgb { 150 40 0 }
+	color_ui = rgb { 150 40 0 }
+}

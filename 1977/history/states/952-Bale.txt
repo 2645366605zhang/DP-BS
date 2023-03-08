@@ -14,7 +14,8 @@ state = {
 		victory_points = { 
 			10775 2
 		}
-		owner = SOM
+		owner = SEA
+		add_core_of = SEA 	
 		add_core_of = SOM
 	}
 

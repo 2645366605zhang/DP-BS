@@ -10,7 +10,8 @@ state=
 	state_category = town
 	
 	history={
-		owner = SUD
+		owner = SEA
+		add_core_of = SEA
 		add_core_of = SUD
 		victory_points = { #Massaua
 			12766 2
