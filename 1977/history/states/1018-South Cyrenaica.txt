@@ -1,0 +1,21 @@
+state={
+	id = 1018
+	name = "南昔兰尼加"
+	manpower = 3500
+	state_category = pastoral
+	history={
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			4191 1
+		}
+		owner = LBA
+		add_core_of = LBA
+	}
+	provinces={
+		1057 1140 4191 10104 10754
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

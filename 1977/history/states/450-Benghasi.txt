@@ -1,0 +1,30 @@
+
+state={
+	id=450
+	name="班加西"
+	manpower = 100000
+	
+	state_category = small_town
+
+	history={
+		owner = LBA
+		
+		victory_points = {
+			11954 6
+		}
+		buildings = {
+			infrastructure = 2
+			air_base = 2
+			11954 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1062 4120 10123 11954 12094
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,29 @@
+
+state={
+	id=448
+	name="塔拉布鲁斯城" #的黎波里，三城
+	manpower = 800000
+	
+	state_category = large_town
+
+	history={
+		owner = LBA
+		victory_points = {
+			1149 16
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 3
+			1149 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1149 1189 4194 7066 7209 9980 12039 
+	}
+
+	local_supplies=0.0 
+}

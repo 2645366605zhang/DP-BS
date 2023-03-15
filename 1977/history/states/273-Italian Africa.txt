@@ -1,0 +1,22 @@
+
+state={
+	id=273
+	name="费赞" # Libyan Desert
+	manpower = 40000
+	
+	state_category = pastoral
+
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1994 5004 10884 12022 12082 
+	}
+
+	local_supplies=0.0 
+}

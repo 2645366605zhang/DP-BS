@@ -1,0 +1,22 @@
+state={
+	id=662
+	name="东塔拉布鲁斯"
+	manpower = 15200
+	
+	state_category = rural
+	
+	
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = LBA
+	}
+	
+	provinces={
+		7136 7985 12866 13073
+	}
+
+	local_supplies=0.0 
+}

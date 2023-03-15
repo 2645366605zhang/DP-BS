@@ -1,0 +1,109 @@
+﻿##### 额外命名组 #####
+### 驱逐舰 ###
+PRC_QZ_EXTRA = {
+	name = "额外驱逐舰"
+	for_countries = { SRC }
+	type = ship
+	ship_types = { ship_hull_light destroyer }			
+	prefix = "PLAN "
+	fallback_name = "%d号驱逐舰"
+}
+
+### 轻巡洋舰 ###
+PRC_QXY_EXTRA = {
+	name = 额外轻巡洋舰
+	for_countries = { SRC }
+	type = ship
+	ship_types = { ship_hull_cruiser light_cruiser }
+	prefix = "PLAN "
+	fallback_name = "%d号轻巡洋舰"
+
+	unique = {											
+		"海浪" "海波" "海商" "海蛇" "海蜃" "海兽" "海砂" "海容"
+		"海汐" "海霞" "海雾" "海塘" "海涂" "海豚" "海湾" "海畔"
+		"海沤" "海岬" "海脊" "海飓" "海津" "海角" "海际" "海涵"
+		"海鹤" "海寰" "海内" "海纳" "海鸟" "海葵" "海灵" "海岭"
+		"海流" "海涯" "海燕" "海洋" "海翼" "海裔" "海沧" "海沟"
+		"海岛" "海渊" "海澜" "海宇" "海嵎" "海垠" "海港" "海泊"
+		"海琛" "海甸" "海滨" "海岸" "海韵" "海风" "海峰" "海丰"
+		"海锋" "海防" "海震" "海蜇" "海月" "海南" "海西" "海参崴"
+		"海棠果" "海东青" "海口" "海龙" "海龟" "海枯石烂" "海天云蒸" "海雨天风"
+		"海天一线" "海阔天空" "海浪滔天" "海晏河清" "海啸山崩" "海纳百川" "海誓山盟" "海内鼎沸"
+		"海岱清士" "海错江瑶" "海角天隅" "海沸波翻"
+	}
+}
+
+### 重巡洋舰 ###
+PRC_ZXY_EXTRA = {
+	name = 额外重巡洋舰
+	for_countries = { SRC }
+	type = ship
+	ship_types = { ship_hull_cruiser heavy_cruiser }
+	prefix = "PLAN "
+	fallback_name = "%d号重巡洋舰"
+
+	unique = {
+		"天市左垣" "天市右垣" "市楼" "车肆" "宗正" "宗人" "宗" "帛度"
+		"屠肆" "候" "帝座" "宦者" "列肆" "斗" "斛" "贯索"
+		"七公" "天纪" "女床"
+	}
+}
+
+
+### 战列舰 ###
+PRC_ZL_EXTRA = {
+	name = 额外战列舰
+	for_countries = { SRC }
+	type = ship
+	ship_types = { ship_hull_heavy battleship }
+	prefix = "PLAN "
+	fallback_name = "%d号战列舰"		
+
+	unique = {
+		"太微左垣" "太微右垣" "谒者" "三公" "九卿" "五诸侯" "内屏" "五帝座"
+		"幸臣" "太子" "从官" "郎将" "虎贲" "常陈" "郎位" "明堂"
+		"灵台" "少微" "长垣" "三台"
+	}
+}
+
+### 战列巡洋舰 ###
+PRC_ZLXY_EXTRA = {
+	name = 额外战列巡洋舰
+	for_countries = { SRC }
+	type = ship
+	ship_types = { ship_hull_heavy battle_cruiser }
+	prefix = "PLAN "
+	fallback_name = "%d号战列巡洋舰"
+
+	unique = {
+		"北极" "四辅" "天乙" "太乙" "紫微左垣" "紫微右垣" "阴德" "尚书"
+		"女史" "柱史" "御女" "天柱" "大理" "勾陈" "六甲" "天皇大帝"
+		"五帝内座" "华盖" "杠" "传舍" "内阶" "天厨" "八谷" "天棓"
+		"内厨" "文昌" "三师" "三公" "天床" "太尊" "天牢" "太阳守"
+		"势" "相" "玄戈" "天理" "北斗" "辅" "天枪"
+	}
+}
+
+### 航空母舰 ###
+PRC_HM_EXTRA = {
+	name = 额外航空母舰
+	for_countries = { SRC }
+	type = ship
+	ship_types = { ship_hull_carrier carrier }
+	prefix = "PLAN "
+	fallback_name = "%d号航空母舰"
+
+	unique = {
+		"辰" "太白" "荧惑" "岁" "镇"
+	}
+}
+
+### 潜水艇 ###
+PRC_QT_EXTRA = {
+	name = 额外潜水艇
+	for_countries = { SRC }
+	type = ship
+	ship_types = { ship_hull_submarine submarine }
+	prefix = "PLAN "
+	fallback_name = "%d号潜水艇"
+}

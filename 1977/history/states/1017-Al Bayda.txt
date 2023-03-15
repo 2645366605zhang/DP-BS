@@ -1,0 +1,21 @@
+state={
+	id = 1017
+	name = "贝达"
+	manpower = 50000
+	state_category = rural
+	history={
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			4063 2
+		}
+		owner = LBA
+		add_core_of = LBA
+	}
+	provinces={
+		1186 1204 4063 4151 7139 10049 12079
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

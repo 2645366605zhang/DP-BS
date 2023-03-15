@@ -1,0 +1,29 @@
+
+state={
+	id=451
+	name="北昔兰尼加"
+	manpower = 90000
+	
+	state_category = small_town
+
+	history={
+		owner = LBA
+		victory_points = {
+			1130 6
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 4
+			1130 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = LBA
+	}
+
+	provinces={
+		1060 1130 4060 4136 7082 7206 9992 10120 11951 12025 13078
+	}
+
+	local_supplies=4.0 
+}

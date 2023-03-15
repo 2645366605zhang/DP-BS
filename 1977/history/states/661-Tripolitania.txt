@@ -1,0 +1,21 @@
+state={
+	id=661
+	name="西塔拉布鲁斯" #的黎波里塔尼亚，三城
+	manpower = 20000
+	
+	state_category = pastoral
+	
+	history={
+		owner = LBA
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = LBA
+	}
+	
+	provinces={
+		1041 1118 1174 4051 4117 4176 4962 7154 7194 10037 10067 11940 12009 
+	}
+
+	local_supplies=0.0 
+}
