@@ -1,0 +1,22 @@
+state={
+	id = 1020
+	name = "泰塔温"
+	manpower = 70000
+	state_category = small_town
+	history={
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			12000 3
+		}
+		owner = TUN
+		add_core_of = TUN
+	}
+	provinces={
+		1105 4992 9983 12000
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

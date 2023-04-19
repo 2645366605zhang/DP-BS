@@ -1,0 +1,29 @@
+state={
+	id = 1021
+	name = "突尼斯湾"
+	manpower = 1300000
+	state_category = large_twon
+	history={
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 2
+			dockyard = 1
+			10091 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			11969 12
+		}
+		victory_points = {
+			10091 2
+		}
+		owner = TUN
+		add_core_of = TUN
+	}
+	provinces={
+		10091 11969
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

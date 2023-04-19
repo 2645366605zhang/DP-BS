@@ -1,0 +1,25 @@
+state={
+	id = 1019
+	name = "加夫萨-吉比利-托泽尔"
+	manpower = 100000
+	state_category = small_town
+	history={
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			11935 3
+		}
+		victory_points = {
+			3987 1
+		}
+		owner = TUN
+		add_core_of = TUN
+	}
+	provinces={
+		3987 10082 11935 13145 13179
+	}
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}
