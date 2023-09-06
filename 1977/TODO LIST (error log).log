@@ -1,3 +1,1070 @@
 
-[23:00:48][equipment_effects.cpp:836]: 'history/countries/DDR - East Germany.txt:245: create_equipment_variant': 'Deutschland Class' - Invalid name group 'GER_CA_HISTORICAL'.
-[23:00:48][equipment_effects.cpp:836]: 'history/countries/DDR - East Germany.txt:262: create_equipment_variant': 'Königsberg Class' - Invalid name group 'GER_CL_HISTORICAL'.
+[17:43:06][pdx_lua.cpp:575]: 
+LUA Error: incorrect lua value: UNLOCK_SPIRIT_USE_TRUNCATION_SELECT
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: DIVISION_MATCH_ROLE_BOOST_FACTOR
+[17:43:06][defines_ai.h:288]: Warning for define "NAI.DIVISION_MATCH_ROLE_BOOST_FACTOR":  Value 0.000 is too small; clamping to minimum value 1.000.
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: ADVISOR_SCORE_TRAIT_MODIFIER_FACTOR
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: ADVISOR_SCORE_CHEAPER_IS_BETTER_FACTOR
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: ADVISOR_SCORE_CHEAPER_IS_BETTER_MIN
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: EVAL_MODIFIER_NON_PERCENT_FACTOR
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: EVAL_MODIFIER_UNSPECIFIED_CATEGORY_FACTOR
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: EVAL_MODIFIER_MAX_COMMAND_POWER_FACTOR
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: MIN_POLITICAL_POWER_MONTHLY_GAIN_FOR_IMPROVE_RELATIONS
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: PEACE_SCORE_TRANSFERRED_TO_FACTION_LEADER
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: PEACE_SCORE_RESET_LOW_SCORE_THRESHOLD
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: PEACE_SCORE_RESET_LOW_SCORE_MINIMUM_FOR_RECEIVER
+[17:43:06][pdx_lua.cpp:527]: 
+LUA Error: incorrect lua value: COUNTRY_FLAG_MEDIUM_TEX_MAX_SIZE
+[17:43:06][pdx_lua.cpp:527]: 
+LUA Error: incorrect lua value: SELECTION_HOVERED_STATE_COLOR_INDEX_CONTROLLED
+[17:43:06][pdx_lua.cpp:527]: 
+LUA Error: incorrect lua value: SELECTION_HOVERED_STATE_COLOR_INDEX_FOREIGN
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: MANPOWER_LOSS_RATIO_PLANE_SHOT
+[17:43:06][pdx_lua.cpp:494]: 
+LUA Error: incorrect lua value: PEACE_ACTION_TRANSFER_NAVY_EXPERIENCE_RETAINED
+
+[17:43:13][pdx_entity.cpp:323]: Failed to find entity "ITA_mechanized_vehicle_1_entity" for attachment in vehicle
+
+
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_improved_light_tank_templates' in common/technologies/NSB_armor.txt line : 188
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_improved_light_tank_templates, near line: 188" in file: "common/technologies/NSB_armor.txt" near line: 189
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_improved_light_tank_templates' in common/technologies/NSB_armor.txt line : 308
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_improved_light_tank_templates, near line: 308" in file: "common/technologies/NSB_armor.txt" near line: 309
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_improved_medium_tank_templates' in common/technologies/NSB_armor.txt line : 615
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_improved_medium_tank_templates, near line: 615" in file: "common/technologies/NSB_armor.txt" near line: 616
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_advanced_medium_tank_templates' in common/technologies/NSB_armor.txt line : 694
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_advanced_medium_tank_templates, near line: 694" in file: "common/technologies/NSB_armor.txt" near line: 695
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_improved_heavy_tank_templates' in common/technologies/NSB_armor.txt line : 891
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_improved_heavy_tank_templates, near line: 891" in file: "common/technologies/NSB_armor.txt" near line: 892
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_advanced_heavy_tank_templates' in common/technologies/NSB_armor.txt line : 953
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_advanced_heavy_tank_templates, near line: 953" in file: "common/technologies/NSB_armor.txt" near line: 954
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_il_duce_sh_tank_template_and_production' in common/technologies/NSB_armor.txt line : 1015
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_il_duce_sh_tank_template_and_production, near line: 1015" in file: "common/technologies/NSB_armor.txt" near line: 1016
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_modern_musculus_sh_tank_template_and_production' in common/technologies/NSB_armor.txt line : 1021
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_modern_musculus_sh_tank_template_and_production, near line: 1021" in file: "common/technologies/NSB_armor.txt" near line: 1022
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_hand_of_god_sh_tank_template_and_production' in common/technologies/NSB_armor.txt line : 1027
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_hand_of_god_sh_tank_template_and_production, near line: 1027" in file: "common/technologies/NSB_armor.txt" near line: 1028
+[17:43:14][effect.cpp:425]: Invalid effect 'ITA_add_basic_light_flamethrower_template' in common/technologies/support.txt line : 167
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: ITA_add_basic_light_flamethrower_template, near line: 167" in file: "common/technologies/support.txt" near line: 168
+[17:43:14][autonomousstate.cpp:93]: There is no localization for the autonomous state name: economic_puppet
+[17:43:14][effect.cpp:425]: Invalid effect 'GER_heinrich_himmler' in common/decisions/SS.txt line : 672
+[17:43:14][effect.cpp:320]: Error: "Unknown effect-type: GER_heinrich_himmler, near line: 672" in file: "common/decisions/SS.txt" near line: 682
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: home_of_the_free: ideas, near line: 44
+Invalid idea: great_depression: ideas, near line: 45" in file: "common/bookmarks/the_gathering_storm.txt" near line: 47
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: USA_war_plan_black: focuses, near line: 49
+Invalid focus: USA_limited_intervention: focuses, near line: 50
+Invalid focus: USA_reestablish_the_gold_standard: focuses, near line: 51" in file: "common/bookmarks/the_gathering_storm.txt" near line: 52
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: GER_anschluss: focuses, near line: 94
+Invalid focus: GER_danzig_or_war: focuses, near line: 95
+Invalid focus: GER_revive_the_kaiserreich: focuses, near line: 96" in file: "common/bookmarks/the_gathering_storm.txt" near line: 97
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: GER_anschluss: focuses, near line: 109
+Invalid focus: GER_danzig_or_war: focuses, near line: 110
+Invalid focus: GER_ussr_war_goal: focuses, near line: 111" in file: "common/bookmarks/the_gathering_storm.txt" near line: 112
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: vittorio_emanuele: ideas, near line: 119
+Invalid idea: ITA_iri_fake_ns: ideas, near line: 120
+Invalid idea: ITA_re_fake_ns: ideas, near line: 121" in file: "common/bookmarks/the_gathering_storm.txt" near line: 122
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: ITA_comandante_diavolo: focuses, near line: 124
+Invalid focus: ITA_il_sol_dell_avvenire: focuses, near line: 125
+Invalid focus: ITA_a_colonial_empire: focuses, near line: 126" in file: "common/bookmarks/the_gathering_storm.txt" near line: 127
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: vittorio_emanuele: ideas, near line: 134
+Invalid idea: ITA_iri_fake_ns: ideas, near line: 135
+Invalid idea: ITA_re_fake_ns: ideas, near line: 136" in file: "common/bookmarks/the_gathering_storm.txt" near line: 137
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: ITA_comandante_diavolo: focuses, near line: 139
+Invalid focus: ITA_to_live_as_a_lion: focuses, near line: 140
+Invalid focus: ITA_a_colonial_empire: focuses, near line: 141" in file: "common/bookmarks/the_gathering_storm.txt" near line: 142
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: anti_german_military: ideas, near line: 312
+Invalid idea: YUG_idea_croatian_opposition: ideas, near line: 313
+Invalid idea: YUG_idea_serbian_general_staff: ideas, near line: 314" in file: "common/bookmarks/the_gathering_storm.txt" near line: 315
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: YUG_end_the_regency: focuses, near line: 317
+Invalid focus: YUG_abolish_the_monarchy: focuses, near line: 318
+Invalid focus: YUG_dissolve_serbia: focuses, near line: 319" in file: "common/bookmarks/the_gathering_storm.txt" near line: 320
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: GRE_debt_to_the_ifc: ideas, near line: 523
+Invalid idea: GRE_schachtplan: ideas, near line: 524
+Invalid idea: GRE_political_instability_dummy: ideas, near line: 525" in file: "common/bookmarks/the_gathering_storm.txt" near line: 526
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: GRE_metaxism_focus: focuses, near line: 528
+Invalid focus: GRE_resurrecting_the_megali_idea: focuses, near line: 529
+Invalid focus: GRE_stage_an_incident_in_the_bosporus: focuses, near line: 530" in file: "common/bookmarks/the_gathering_storm.txt" near line: 531
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: TUR_sectarian_woes: ideas, near line: 539
+Invalid idea: TUR_disorganised_armed_forces: ideas, near line: 540
+Invalid idea: TUR_debt_council: ideas, near line: 541" in file: "common/bookmarks/the_gathering_storm.txt" near line: 542
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: TUR_ratify_the_six_arrows: focuses, near line: 544
+Invalid focus: TUR_reaffirm_the_balkan_pact: focuses, near line: 545
+Invalid focus: TUR_pivot_to_the_past: focuses, near line: 546" in file: "common/bookmarks/the_gathering_storm.txt" near line: 547
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: ETH_conservative_high_command_idea: ideas, near line: 615
+Invalid idea: ETH_the_heroes_of_adwa_idea: ideas, near line: 616
+Invalid idea: ETH_on_our_own_idea: ideas, near line: 617" in file: "common/bookmarks/the_gathering_storm.txt" near line: 618
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: ETH_rally_around_the_emperor: focuses, near line: 620
+Invalid focus: ETH_reach_out_to_the_italians: focuses, near line: 621
+Invalid focus: ETH_military_communism: focuses, near line: 622" in file: "common/bookmarks/the_gathering_storm.txt" near line: 623
+[17:43:15][persistent.cpp:48]: Error: "Invalid idea: SWI_swiss_neutrality: ideas, near line: 630
+Invalid idea: SWI_foreign_fascist_propaganda: ideas, near line: 631" in file: "common/bookmarks/the_gathering_storm.txt" near line: 632
+[17:43:15][persistent.cpp:48]: Error: "Invalid focus: SWI_national_redoubt: focuses, near line: 634
+Invalid focus: SWI_take_a_stance: focuses, near line: 635
+Invalid focus: SWI_the_new_eidgenossenschaft: focuses, near line: 636" in file: "common/bookmarks/the_gathering_storm.txt" near line: 637
+[17:43:15][countrytag.cpp:112]: AFA - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/AFA - Afar.txt
+[17:43:15][countrytag.cpp:112]: AOI - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/AOI - Italian East Africa.txt
+[17:43:15][countrytag.cpp:112]: BEG - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/BEG - Benishangul-Gumuz.txt
+[17:43:15][countrytag.cpp:112]: CHU - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/CHU - Chuvashia.txt
+[17:43:15][countrytag.cpp:112]: GBA - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/GBA - Gambela.txt
+[17:43:15][countrytag.cpp:112]: HAR - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/HAR - Harar.txt
+[17:43:15][countrytag.cpp:112]: KHA - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/KHA - Khakassia.txt
+[17:43:15][countrytag.cpp:112]: KHI - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/KHI - Khiva.txt
+[17:43:15][countrytag.cpp:112]: KOS - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/KOS - Kosovo.txt
+[17:43:15][countrytag.cpp:112]: LBV - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/LBV - Lombardy Venetia.txt
+[17:43:15][countrytag.cpp:112]: MEL - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/MEL - Mari El.txt
+[17:43:15][countrytag.cpp:112]: ORO - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/ORO - Oromo.txt
+[17:43:15][countrytag.cpp:112]: PAP - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/PAP - Papal States.txt
+[17:43:15][countrytag.cpp:112]: QEM - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/QEM - Qemant.txt
+[17:43:15][countrytag.cpp:112]: RIF - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/RIF - Rif.txt
+[17:43:15][countrytag.cpp:112]: SID - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/SID - Sidamo.txt
+[17:43:15][countrytag.cpp:112]: SPM - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/SPM - Sardinia Piedmont.txt
+[17:43:15][countrytag.cpp:112]: TIG - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/TIG - Tigray.txt
+[17:43:15][countrytag.cpp:112]: TOS - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/TOS - Tuscany.txt
+[17:43:15][countrytag.cpp:112]: TTS - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/TTS - The Two Sicilies.txt
+[17:43:15][countrytag.cpp:112]: UDM - is not in the tag list
+[17:43:15][history.cpp:257]: Unknown history file in country database - history/countries/UDM - Udmurtia.txt
+[17:43:15][history.cpp:265]: YUG - is missing a history file.
+[17:43:15][history.cpp:265]: TUR - is missing a history file.
+[17:43:15][history.cpp:265]: GRE - is missing a history file.
+[17:43:15][persistent.cpp:48]: Error: "Error reading division template (SS Motorisierte Division) for country ---.
+The division_names_group refers to the unknown tag: GER_SS_01, near line: 111" in file: "common/scripted_effects/SS_scripted_effects.txt" near line: 111
+[17:43:15][persistent.cpp:48]: Error: "Error reading division template (SS Panzergrenadier Division) for country ---.
+The division_names_group refers to the unknown tag: GER_SS_01, near line: 138" in file: "common/scripted_effects/SS_scripted_effects.txt" near line: 138
+[17:43:15][persistent.cpp:48]: Error: "Error reading division template (SS Panzergrenadier Division (n.A.)) for country ---.
+The division_names_group refers to the unknown tag: GER_SS_01, near line: 166" in file: "common/scripted_effects/SS_scripted_effects.txt" near line: 166
+[17:43:15][persistent.cpp:48]: Error: "Error reading division template (SS Panzer Division) for country ---.
+The division_names_group refers to the unknown tag: GER_SS_01, near line: 194" in file: "common/scripted_effects/SS_scripted_effects.txt" near line: 194
+[17:43:15][persistent.cpp:48]: Error: "Error reading division template (SS Panzer Division (n.A.)) for country ---.
+The division_names_group refers to the unknown tag: GER_SS_01, near line: 223" in file: "common/scripted_effects/SS_scripted_effects.txt" near line: 223
+[17:43:15][persistent.cpp:48]: Error: "Error reading division template (SS Panzer Division (vollgep.)) for country ---.
+The division_names_group refers to the unknown tag: GER_SS_01, near line: 251" in file: "common/scripted_effects/SS_scripted_effects.txt" near line: 251
+[17:43:15][persistent.cpp:48]: Error: "Error reading division template (SS Waffen-Grenadier-Division) for country ---.
+The division_names_group refers to the unknown tag: GER_SS_01, near line: 279" in file: "common/scripted_effects/SS_scripted_effects.txt" near line: 279
+[17:43:15][trigger.cpp:641]: Invalid trigger 'SWI_empty_councilor_seat' in common/scripted_effects/SWI_scripted_effects.txt line : 2057
+[17:43:15][trigger.cpp:494]: Error: "Unknown trigger-type: SWI_empty_councilor_seat, near line: 2057" in file: "common/scripted_effects/SWI_scripted_effects.txt" near line: 2060
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_minimal_power_loyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_minimal_power_neutral
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_minimal_power_disloyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_decreased_power_loyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_decreased_power_neutral
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_decreased_power_disloyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_limited_power_loyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_limited_power_neutral
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_limited_power_disloyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_extended_power_loyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_extended_power_neutral
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_extended_power_disloyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_powerful_loyal
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_powerful_neutral
+[17:43:15][lexer.cpp:213]: Tried to get dynamic token that does not exist: TUR_kemalist_army_officers_powerful_disloyal
+[17:43:15][trigger.cpp:641]: Invalid trigger 'TUR_mustafa_kemal_ataturk' in common/scripted_effects/TUR_scripted_effects.txt line : 1029
+[17:43:15][trigger.cpp:494]: Error: "Unknown trigger-type: TUR_mustafa_kemal_ataturk, near line: 1029" in file: "common/scripted_effects/TUR_scripted_effects.txt" near line: 1030
+[17:43:15][effect.cpp:425]: Invalid effect 'TUR_mustafa_kemal_ataturk' in common/scripted_effects/TUR_scripted_effects.txt line : 1031
+[17:43:15][effect.cpp:320]: Error: "Unknown effect-type: TUR_mustafa_kemal_ataturk, near line: 1031" in file: "common/scripted_effects/TUR_scripted_effects.txt" near line: 1032
+[17:43:15][effect.cpp:425]: Invalid effect 'bst_move_up_section_position_15' in common/scripted_guis/bst.txt line : 603
+[17:43:15][effect.cpp:320]: Error: "Unknown effect-type: bst_move_up_section_position_15, near line: 603" in file: "common/scripted_guis/bst.txt" near line: 604
+[17:43:15][effect.cpp:425]: Invalid effect 'bst_move_down_section_position_15' in common/scripted_guis/bst.txt line : 606
+[17:43:15][effect.cpp:320]: Error: "Unknown effect-type: bst_move_down_section_position_15, near line: 606" in file: "common/scripted_guis/bst.txt" near line: 607
+[17:43:15][idea.cpp:729]: Invalid trait for idea : Cockatoo_doe cockatoo_trait
+[17:43:15][idea.cpp:729]: Invalid trait for idea : evans_deakin_co evans_deakin_trait
+[17:43:16][trigger.cpp:641]: Invalid trigger 'KOS' in common/achievements.txt line : 3218
+[17:43:16][trigger.cpp:494]: Error: "Unknown trigger-type: KOS, near line: 3218" in file: "common/achievements.txt" near line: 3219
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_wilhelm_ii' in events/MTG_Netherlands.txt line : 2929
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: GER_wilhelm_ii, near line: 2929" in file: "events/MTG_Netherlands.txt" near line: 2932
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_wilhelm_ii' in events/MTG_Netherlands.txt line : 2933
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: GER_wilhelm_ii, near line: 2933" in file: "events/MTG_Netherlands.txt" near line: 2945
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_wilhelm_iii' in events/MTG_Netherlands.txt line : 2951
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: GER_wilhelm_iii, near line: 2951" in file: "events/MTG_Netherlands.txt" near line: 2954
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_wilhelm_iii' in events/MTG_Netherlands.txt line : 2955
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: GER_wilhelm_iii, near line: 2955" in file: "events/MTG_Netherlands.txt" near line: 2967
+[17:43:16][effect.cpp:425]: Invalid effect 'USA_douglas_macarthur' in events/WTT_China.txt line : 1491
+[17:43:16][persistent.cpp:48]: Error: "Unknown effect-type: USA_douglas_macarthur, near line: 1491" in file: "events/WTT_China.txt" near line: 1494
+[17:43:16][effect.cpp:425]: Invalid effect 'USA_dwight_d_eisenhower' in events/WTT_China.txt line : 1510
+[17:43:16][persistent.cpp:48]: Error: "Unknown effect-type: USA_dwight_d_eisenhower, near line: 1510" in file: "events/WTT_China.txt" near line: 1513
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_heinrich_himmler' in events/ss_recruitment_event.txt line : 1542
+[17:43:16][persistent.cpp:48]: Error: "Unknown effect-type: GER_heinrich_himmler, near line: 1542" in file: "events/ss_recruitment_event.txt" near line: 1551
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_hermann_goring' in events/ss_recruitment_event.txt line : 1655
+[17:43:16][persistent.cpp:48]: Error: "Unknown effect-type: GER_hermann_goring, near line: 1655" in file: "events/ss_recruitment_event.txt" near line: 1664
+[17:43:16][persistent.cpp:48]: Error: "Malformed token: usa.6, near line: 5
+Malformed token: usa.7, near line: 6
+Malformed token: usa.8, near line: 7
+Malformed token: usa.9, near line: 8
+Malformed token: usa.10, near line: 9
+Malformed token: usa.11, near line: 10
+Malformed token: usa.12, near line: 11" in file: "common/on_actions/00_on_actions.txt" near line: 12
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_peace_out_eth_on_startup_effect' in common/on_actions/04_mtg_on_actions.txt line : 821
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_peace_out_eth_on_startup_effect, near line: 821" in file: "common/on_actions/04_mtg_on_actions.txt" near line: 821
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_peace_out_eth_on_startup_effect' in common/on_actions/04_mtg_on_actions.txt line : 1692
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_peace_out_eth_on_startup_effect, near line: 1692" in file: "common/on_actions/04_mtg_on_actions.txt" near line: 1693
+[17:43:16][effect.cpp:425]: Invalid effect 'TTS' in common/on_actions/04_mtg_on_actions.txt line : 1764
+[17:43:16][effect.cpp:425]: Invalid effect 'TTS' in common/on_actions/04_mtg_on_actions.txt line : 1767
+[17:43:16][trigger.cpp:494]: Error: "Unknown effect-type: TTS, near line: 1764
+Unknown effect-type: TTS, near line: 1767" in file: "common/on_actions/04_mtg_on_actions.txt" near line: 1789
+[17:43:16][effect.cpp:425]: Invalid effect 'TTS' in common/on_actions/04_mtg_on_actions.txt line : 1792
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: TTS, near line: 1792" in file: "common/on_actions/04_mtg_on_actions.txt" near line: 1793
+[17:43:16][effect.cpp:425]: Invalid effect 'TTS' in common/on_actions/04_mtg_on_actions.txt line : 1810
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: TTS, near line: 1810" in file: "common/on_actions/04_mtg_on_actions.txt" near line: 1816
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_hans_von_luck' in common/on_actions/06_bftb_on_actions.txt line : 40
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: GER_hans_von_luck, near line: 40" in file: "common/on_actions/06_bftb_on_actions.txt" near line: 41
+[17:43:16][effect.cpp:425]: Invalid effect 'GER_wilhelm_ritter_von_thoma' in common/on_actions/06_bftb_on_actions.txt line : 56
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: GER_wilhelm_ritter_von_thoma, near line: 56" in file: "common/on_actions/06_bftb_on_actions.txt" near line: 57
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_ferdinando_umberto_filippo_adalberto' in common/on_actions/06_bftb_on_actions.txt line : 70
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_ferdinando_umberto_filippo_adalberto, near line: 70" in file: "common/on_actions/06_bftb_on_actions.txt" near line: 71
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_end_the_italo_ethiopian_war' in common/on_actions/08_bba_on_actions.txt line : 341
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_end_the_italo_ethiopian_war, near line: 341" in file: "common/on_actions/08_bba_on_actions.txt" near line: 342
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_end_the_italo_ethiopian_war' in common/on_actions/08_bba_on_actions.txt line : 545
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_end_the_italo_ethiopian_war, near line: 545" in file: "common/on_actions/08_bba_on_actions.txt" near line: 546
+[17:43:16][effect.cpp:425]: Invalid effect 'AOI' in common/on_actions/08_bba_on_actions.txt line : 684
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: AOI, near line: 684" in file: "common/on_actions/08_bba_on_actions.txt" near line: 687
+[17:43:16][effect.cpp:425]: Invalid effect 'ETH_escalate_the_war_effect' in common/on_actions/08_bba_on_actions.txt line : 728
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ETH_escalate_the_war_effect, near line: 728" in file: "common/on_actions/08_bba_on_actions.txt" near line: 729
+[17:43:16][effect.cpp:425]: Invalid effect 'ETH_escalate_the_war_effect' in common/on_actions/08_bba_on_actions.txt line : 743
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ETH_escalate_the_war_effect, near line: 743" in file: "common/on_actions/08_bba_on_actions.txt" near line: 744
+[17:43:16][effect.cpp:425]: Invalid effect 'ETH_transfer_promised_states' in common/on_actions/08_bba_on_actions.txt line : 1052
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ETH_transfer_promised_states, near line: 1052" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1053
+[17:43:16][effect.cpp:425]: Invalid effect 'AOI' in common/on_actions/08_bba_on_actions.txt line : 1064
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: AOI, near line: 1064" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1067
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_bop_medium_decrease_effect' in common/on_actions/08_bba_on_actions.txt line : 1268
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_bop_increase_lost_core_modifier' in common/on_actions/08_bba_on_actions.txt line : 1269
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_bop_medium_decrease_effect, near line: 1268
+Unknown effect-type: ITA_bop_increase_lost_core_modifier, near line: 1269" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1270
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_bop_very_low_decrease_effect' in common/on_actions/08_bba_on_actions.txt line : 1290
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_bop_very_low_decrease_effect, near line: 1290" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1292
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_bop_medium_increase_effect' in common/on_actions/08_bba_on_actions.txt line : 1327
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_bop_decrease_lost_core_modifier' in common/on_actions/08_bba_on_actions.txt line : 1328
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_bop_medium_increase_effect, near line: 1327
+Unknown effect-type: ITA_bop_decrease_lost_core_modifier, near line: 1328" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1330
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_bop_very_low_increase_effect' in common/on_actions/08_bba_on_actions.txt line : 1333
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_bop_very_low_increase_effect, near line: 1333" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1334
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_change_name_of_state_or_vp' in common/on_actions/08_bba_on_actions.txt line : 1453
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_change_name_of_state_or_vp, near line: 1453" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1454
+[17:43:16][effect.cpp:425]: Invalid effect 'ITA_replace_stuff_based_on_ideology_effect' in common/on_actions/08_bba_on_actions.txt line : 1694
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ITA_replace_stuff_based_on_ideology_effect, near line: 1694" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1695
+[17:43:16][effect.cpp:425]: Invalid effect 'ETH_transfer_promised_states' in common/on_actions/08_bba_on_actions.txt line : 1793
+[17:43:16][effect.cpp:320]: Error: "Unknown effect-type: ETH_transfer_promised_states, near line: 1793" in file: "common/on_actions/08_bba_on_actions.txt" near line: 1794
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_italian_tankettes (common/technologies/NSB_armor.txt:186: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:186: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_italian_tankettes (common/technologies/NSB_armor.txt:306: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:306: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_end_fiat_ansaldo_duopoly (common/technologies/NSB_armor.txt:611: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:611: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_modernize_ansaldo_facilities (common/technologies/NSB_armor.txt:612: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:612: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_ferrea_mole_ferreo_cuore (common/technologies/NSB_armor.txt:692: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:692: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_end_fiat_ansaldo_duopoly (common/technologies/NSB_armor.txt:887: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:887: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_modernize_ansaldo_facilities (common/technologies/NSB_armor.txt:888: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:888: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_ferrea_mole_ferreo_cuore (common/technologies/NSB_armor.txt:951: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:951: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_capo_supremo (common/technologies/NSB_armor.txt:1013: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:1013: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_modern_musculus (common/technologies/NSB_armor.txt:1019: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:1019: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_a_time_for_war (common/technologies/NSB_armor.txt:1025: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/NSB_armor.txt:1025: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_italian_tankettes (common/technologies/support.txt:165: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/technologies/support.txt:165: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_export_saboteurs (common/operations/00_operations.txt:1320: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/operations/00_operations.txt:1320: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_export_saboteurs (common/operations/00_operations.txt:1369: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/operations/00_operations.txt:1369: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:36: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:36: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:69: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:69: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:110: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:110: has_completed_focus
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_2
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:123: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_3
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:124: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_4
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:125: has_active_mission
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:134: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:134: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:191: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:191: has_completed_focus
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_1
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:204: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_3
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:205: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_4
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:206: has_active_mission
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:228: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:228: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:274: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:274: has_completed_focus
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_1
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:287: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_2
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:288: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_4
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:289: has_active_mission
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:310: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:310: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:372: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:372: has_completed_focus
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_1
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:385: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_2
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:386: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = TUR_etatism_crisis_3
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:387: has_active_mission
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_limited_intervention (common/ideas/_economic.txt:396: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_economic.txt:396: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_professionalize_militias (common/ideas/_manpower.txt:758: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:758: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_join_the_allies (common/ideas/_manpower.txt:759: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:759: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_join_france (common/ideas/_manpower.txt:760: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:760: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_jump_into_action (common/ideas/_manpower.txt:761: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:761: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_professionalize_militias (common/ideas/_manpower.txt:784: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:784: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_join_the_allies (common/ideas/_manpower.txt:785: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:785: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_join_france (common/ideas/_manpower.txt:786: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:786: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_jump_into_action (common/ideas/_manpower.txt:787: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ideas/_manpower.txt:787: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_suspend_the_presecution (common/country_leader/00_traits.txt:2641: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/country_leader/00_traits.txt:2641: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_america_first (common/country_leader/00_traits.txt:2667: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/country_leader/00_traits.txt:2667: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_medal_for_extreme_bravery (common/unit_medals/00_default.txt:1119: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_medals/00_default.txt:1119: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_comandante_diavolo (common/unit_leader/00_traits.txt:689: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_leader/00_traits.txt:689: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_proclaim_the_italian_empire (common/unit_leader/00_traits.txt:695: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_leader/00_traits.txt:695: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_strengthen_ascari_corps (common/unit_leader/00_traits.txt:752: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_leader/00_traits.txt:752: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_novus_ordo (common/unit_leader/00_traits.txt:758: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_leader/00_traits.txt:758: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_strengthen_the_blackshirts (common/unit_leader/00_traits.txt:822: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_leader/00_traits.txt:822: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_divino_duce (common/unit_leader/00_traits.txt:831: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_leader/00_traits.txt:831: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_a_greater_purpose (common/unit_leader/00_traits.txt:832: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/unit_leader/00_traits.txt:832: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_buero_ha (common/intelligence_agencies/00_intelligence_agencies.txt:303: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/intelligence_agencies/00_intelligence_agencies.txt:303: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_buero_ha (common/intelligence_agencies/00_intelligence_agencies.txt:311: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/intelligence_agencies/00_intelligence_agencies.txt:311: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_federal_police (common/intelligence_agencies/00_intelligence_agencies.txt:322: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/intelligence_agencies/00_intelligence_agencies.txt:322: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_federal_police (common/intelligence_agencies/00_intelligence_agencies.txt:328: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/intelligence_agencies/00_intelligence_agencies.txt:328: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/decisions/HOL.txt:1320: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/HOL.txt:1320: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/decisions/HOL.txt:1559: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/HOL.txt:1559: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_mol_rib_pact (common/decisions/JAP.txt:2092: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/JAP.txt:2092: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_reestablish_free_elections (common/decisions/political_decisions.txt:1855: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/political_decisions.txt:1855: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_convene_the_grand_council (common/decisions/political_decisions.txt:1871: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/political_decisions.txt:1871: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_monarchia_d_italia (common/decisions/political_decisions.txt:1880: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/political_decisions.txt:1880: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_privatize_the_anadolu_agency (common/decisions/political_decisions.txt:2259: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/political_decisions.txt:2259: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_privatize_the_anadolu_agency (common/decisions/political_decisions.txt:2380: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/political_decisions.txt:2380: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_request_communist_support (common/decisions/stability_war_support.txt:694: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/stability_war_support.txt:694: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_request_communist_support (common/decisions/stability_war_support.txt:745: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/stability_war_support.txt:745: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_request_communist_support (common/decisions/stability_war_support.txt:755: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/decisions/stability_war_support.txt:755: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_reestablish_free_elections (common/national_focus/france.txt:6385: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/france.txt:6385: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_reestablish_free_elections (common/national_focus/france.txt:6590: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/france.txt:6590: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_central_european_alliance (common/national_focus/france.txt:6625: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/france.txt:6625: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_mol_rib_pact (common/national_focus/japan.txt:3394: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/japan.txt:3394: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/national_focus/lithuania.txt:236: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/lithuania.txt:236: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/national_focus/lithuania.txt:244: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/lithuania.txt:244: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/national_focus/netherlands.txt:3373: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/netherlands.txt:3373: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_revive_the_kaiserreich (common/national_focus/netherlands.txt:5664: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/netherlands.txt:5664: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_revive_the_kaiserreich (common/national_focus/netherlands.txt:5692: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/netherlands.txt:5692: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_revive_the_kaiserreich (common/national_focus/netherlands.txt:5703: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/netherlands.txt:5703: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_revive_the_kaiserreich (common/national_focus/netherlands.txt:5777: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/netherlands.txt:5777: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_anschluss (common/national_focus/poland.txt:4868: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/poland.txt:4868: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/national_focus/poland.txt:4869: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/poland.txt:4869: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_rhineland (common/national_focus/uk.txt:739: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/uk.txt:739: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_rhineland (common/national_focus/uk.txt:756: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/uk.txt:756: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_defy_the_duce (common/national_focus/uk.txt:9575: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/national_focus/uk.txt:9575: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_anti-italian_propaganda (common/continuous_focus/generic.txt:23: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/continuous_focus/generic.txt:23: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3962]: Invalid trait: imperator_absentis common/continuous_focus/generic.txt:26: has_country_leader_with_trait
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/continuous_focus/generic.txt:26: has_country_leader_with_trait
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_the_patriots (common/continuous_focus/generic.txt:65: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/continuous_focus/generic.txt:65: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3962]: Invalid trait: imperator_absentis common/continuous_focus/generic.txt:68: has_country_leader_with_trait
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/continuous_focus/generic.txt:68: has_country_leader_with_trait
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = SWI_armed_neutrality (common/continuous_focus/generic.txt:109: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/continuous_focus/generic.txt:109: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_proclaim_the_italian_empire (common/peace_conference/cost_modifiers/ITA_peace.txt:12: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/peace_conference/cost_modifiers/ITA_peace.txt:12: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_il_sol_dell_avvenire (common/peace_conference/cost_modifiers/ITA_peace.txt:44: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/peace_conference/cost_modifiers/ITA_peace.txt:44: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_horror_and_fear (common/peace_conference/ai_peace/GRE.txt:21: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/peace_conference/ai_peace/GRE.txt:21: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_horror_and_fear (common/peace_conference/ai_peace/GRE.txt:38: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/peace_conference/ai_peace/GRE.txt:38: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_end_of_czechoslovakia (common/ai_strategy/ENG.txt:408: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/ENG.txt:408: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_end_of_czechoslovakia (common/ai_strategy/ENG.txt:440: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/ENG.txt:440: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:48: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:48: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:110: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:110: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:170: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:170: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:230: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:230: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:276: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:276: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:338: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:338: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:398: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:398: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_bedrock_of_balkan_financial_stability (common/ai_strategy/GRE.txt:457: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:457: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_open_foreign_subsidized_factories (common/ai_strategy/GRE.txt:542: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/GRE.txt:542: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/ai_strategy/HUN.txt:107: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/HUN.txt:107: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/ai_strategy/HUN.txt:140: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/HUN.txt:140: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_second_vienna_award (common/ai_strategy/POL.txt:19: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/POL.txt:19: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_soviet_ally (common/ai_strategy/SOV.txt:361: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/SOV.txt:361: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_expatriate_the_communists (common/ai_strategy/SPR.txt:18: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/SPR.txt:18: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_expatriate_the_communists (common/ai_strategy/SPR.txt:41: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/SPR.txt:41: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_the_batumi_accord (common/ai_strategy/TUR.txt:20: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy/TUR.txt:20: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_suspend_the_presecution (music/mtg_songs.txt:33: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: music/mtg_songs.txt:33: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_democratic_socialism (music/mtg_songs.txt:44: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: music/mtg_songs.txt:44: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_america_first (music/mtg_songs.txt:61: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: music/mtg_songs.txt:61: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_honor_the_confederacy (music/mtg_songs.txt:71: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: music/mtg_songs.txt:71: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_anschluss (common/ai_templates/generic.txt:632: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_templates/generic.txt:632: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_anschluss (common/ai_templates/templates_GER.txt:671: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_templates/templates_GER.txt:671: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_disband_the_blackshirts (common/ai_templates/templates_ITA.txt:1180: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_templates/templates_ITA.txt:1180: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_two_ocean_navy_act (common/ai_equipment/USA_naval.txt:1090: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_equipment/USA_naval.txt:1090: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_cooperate_with_the_mafia (common/dynamic_modifiers/bba_dynamic_modifiers.txt:1308: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/dynamic_modifiers/bba_dynamic_modifiers.txt:1308: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_cooperate_with_the_mafia (common/dynamic_modifiers/bba_dynamic_modifiers.txt:1326: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/dynamic_modifiers/bba_dynamic_modifiers.txt:1326: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_send_lindbergh_to_germany (common/scripted_localisation/00_scripted_localisation.txt:638: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_localisation/00_scripted_localisation.txt:638: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_realign_ourselves_with_the_central_powers (common/scripted_localisation/bftb_scripted_localisation.txt:67: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_localisation/bftb_scripted_localisation.txt:67: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_realign_ourselves_with_the_central_powers (common/scripted_localisation/bftb_scripted_localisation.txt:75: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_localisation/bftb_scripted_localisation.txt:75: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_realign_ourselves_with_the_central_powers (common/scripted_localisation/bftb_scripted_localisation.txt:87: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_localisation/bftb_scripted_localisation.txt:87: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_realign_ourselves_with_the_central_powers (common/scripted_localisation/bftb_scripted_localisation.txt:95: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_localisation/bftb_scripted_localisation.txt:95: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_realign_ourselves_with_the_central_powers (common/scripted_localisation/bftb_scripted_localisation.txt:107: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_localisation/bftb_scripted_localisation.txt:107: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GRE_realign_ourselves_with_the_central_powers (common/scripted_localisation/bftb_scripted_localisation.txt:115: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_localisation/bftb_scripted_localisation.txt:115: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_ecole_militaire_haile_selassie_1er (common/scripted_triggers/ETH_scripted_triggers.txt:23: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ETH_scripted_triggers.txt:23: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_asmera_naval_college (common/scripted_triggers/ETH_scripted_triggers.txt:38: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ETH_scripted_triggers.txt:38: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_debre_zeyit_air_force_training_center (common/scripted_triggers/ETH_scripted_triggers.txt:52: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ETH_scripted_triggers.txt:52: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_the_ethiopian_air_force (common/scripted_triggers/ETH_scripted_triggers.txt:65: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ETH_scripted_triggers.txt:65: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_international_mediation (common/scripted_triggers/ETH_scripted_triggers.txt:118: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ETH_scripted_triggers.txt:118: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_neutrality_act (common/scripted_triggers/FRA_scripted_triggers.txt:282: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/FRA_scripted_triggers.txt:282: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = USA_lend_lease_act (common/scripted_triggers/FRA_scripted_triggers.txt:283: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/FRA_scripted_triggers.txt:283: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_plan_z (common/scripted_triggers/GER_scripted_triggers.txt:146: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/GER_scripted_triggers.txt:146: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_rebuild_the_high_seas_fleet (common/scripted_triggers/GER_scripted_triggers.txt:147: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/GER_scripted_triggers.txt:147: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_boost_the_grand_council_of_fascism (common/scripted_triggers/ITA_scripted_triggers.txt:35: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:35: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_to_live_as_a_lion (common/scripted_triggers/ITA_scripted_triggers.txt:39: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:39: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_disband_the_blackshirts (common/scripted_triggers/ITA_scripted_triggers.txt:177: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:177: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_defy_the_duce (common/scripted_triggers/ITA_scripted_triggers.txt:193: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:193: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_disband_the_blackshirts (common/scripted_triggers/ITA_scripted_triggers.txt:194: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:194: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_crush_opposition (common/scripted_triggers/ITA_scripted_triggers.txt:195: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:195: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_utilize_the_blackshirts (common/scripted_triggers/ITA_scripted_triggers.txt:211: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:211: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_unite_the_opposition (common/scripted_triggers/ITA_scripted_triggers.txt:228: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:228: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_defy_the_duce (common/scripted_triggers/ITA_scripted_triggers.txt:229: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:229: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_the_italian_liberation_war (common/scripted_triggers/ITA_scripted_triggers.txt:237: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:237: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_the_italian_republic (common/scripted_triggers/ITA_scripted_triggers.txt:401: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:401: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_capo_supremo (common/scripted_triggers/ITA_scripted_triggers.txt:403: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:403: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_christian_democracy (common/scripted_triggers/ITA_scripted_triggers.txt:519: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:519: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_democratic_king (common/scripted_triggers/ITA_scripted_triggers.txt:520: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:520: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_christian_democracy (common/scripted_triggers/ITA_scripted_triggers.txt:541: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:541: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_democratic_king (common/scripted_triggers/ITA_scripted_triggers.txt:542: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:542: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_defy_the_duce (common/scripted_triggers/ITA_scripted_triggers.txt:657: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/ITA_scripted_triggers.txt:657: has_completed_focus
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = SWI_recently_finished_president_initiative_mission
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/SWI_scripted_triggers.txt:225: has_active_mission
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_the_montreux_convention (common/scripted_triggers/TUR_scripted_triggers.txt:664: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/TUR_scripted_triggers.txt:664: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_the_montreux_convention (common/scripted_triggers/TUR_scripted_triggers.txt:698: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/TUR_scripted_triggers.txt:698: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_reunite_the_kingdom (common/scripted_triggers/diplomacy_scripted_triggers.txt:187: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/diplomacy_scripted_triggers.txt:187: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_seek_papal_support (common/scripted_triggers/diplomacy_scripted_triggers.txt:421: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/diplomacy_scripted_triggers.txt:421: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_support_spain (common/scripted_triggers/diplomacy_scripted_triggers.txt:1152: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/diplomacy_scripted_triggers.txt:1152: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_support_spain (common/scripted_triggers/diplomacy_scripted_triggers.txt:1184: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/diplomacy_scripted_triggers.txt:1184: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_support_spain (common/scripted_triggers/diplomacy_scripted_triggers.txt:1500: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_triggers/diplomacy_scripted_triggers.txt:1500: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_ussr_war_goal (common/scripted_effects/SOV_scripted_effects.txt:8064: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/SOV_scripted_effects.txt:8064: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_anti_comitern_pact (common/scripted_effects/SOV_scripted_effects.txt:8288: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/SOV_scripted_effects.txt:8288: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_anti_soviet_pact (common/scripted_effects/SOV_scripted_effects.txt:8293: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/SOV_scripted_effects.txt:8293: has_completed_focus
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = SWI_country_angry_mission
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/SWI_scripted_effects.txt:838: has_active_mission
+[17:43:16][triggerimplementation.cpp:12334]: Invalid decision in has_active_timed_decision trigger: has_active_mission = SWI_recently_finished_president_initiative_mission
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/SWI_scripted_effects.txt:1893: has_active_mission
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_dissolve_serbia (common/scripted_effects/YUG_scripted_effects.txt:32: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/YUG_scripted_effects.txt:32: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_dissolve_serbia (common/scripted_effects/YUG_scripted_effects.txt:48: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/YUG_scripted_effects.txt:48: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_divide_bosnia (common/scripted_effects/YUG_scripted_effects.txt:56: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/scripted_effects/YUG_scripted_effects.txt:56: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_china_friend (common/ai_strategy_plans/CHI_alternate_strategy_plan.txt:123: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/CHI_alternate_strategy_plan.txt:123: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/ai_strategy_plans/ENG_historical_strategy_plan.txt:29: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/ENG_historical_strategy_plan.txt:29: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:9: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:9: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_reestablish_free_elections (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:17: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:17: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_expatriate_the_communists (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:18: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:18: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_focus_on_the_true_enemy (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:19: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:19: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_focus_on_the_true_enemy (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:91: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:91: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_expatriate_the_communists (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:173: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:173: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_expatriate_the_communists (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:246: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:246: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_reestablish_free_elections (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:327: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:327: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_reestablish_free_elections (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:372: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:372: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:462: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_alternate_strategy_plan.txt:462: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/ai_strategy_plans/FRA_historical_strategy_plan.txt:26: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_historical_strategy_plan.txt:26: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (common/ai_strategy_plans/FRA_historical_strategy_plan.txt:29: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/ai_strategy_plans/FRA_historical_strategy_plan.txt:29: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_a_common_destiny_for_all_of_turkey (common/occupation_laws/occupation_laws.txt:482: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:482: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_permit_regional_elections (common/occupation_laws/occupation_laws.txt:483: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:483: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_albanian_fascist_militia (common/occupation_laws/occupation_laws.txt:512: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:512: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_ministry_of_italian_africa (common/occupation_laws/occupation_laws.txt:516: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:516: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_regional_development (common/occupation_laws/occupation_laws.txt:561: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:561: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_albanian_fascist_militia (common/occupation_laws/occupation_laws.txt:566: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:566: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_polizia_dell_africa_italiana (common/occupation_laws/occupation_laws.txt:613: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:613: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_albanian_fascist_militia (common/occupation_laws/occupation_laws.txt:617: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/occupation_laws/occupation_laws.txt:617: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_our_place_in_the_sun (common/achievements.txt:1684: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/achievements.txt:1684: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_return_of_the_sultan (common/achievements.txt:2847: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/achievements.txt:2847: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_the_king_of_kings (common/achievements.txt:4018: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/achievements.txt:4018: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_the_african_union (common/achievements.txt:4041: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/achievements.txt:4041: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_il_sol_dell_avvenire (common/achievements.txt:4252: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/achievements.txt:4252: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (events/DOD_Hungary.txt:2072: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Hungary.txt:2072: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_anschluss (events/DOD_Hungary.txt:3260: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Hungary.txt:3260: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_mol_rib_pact (events/DOD_Hungary.txt:4607: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Hungary.txt:4607: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_balkan_ambition (events/DOD_Romania.txt:903: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Romania.txt:903: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_towards_independence (events/DOD_Yugoslavia.txt:187: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Yugoslavia.txt:187: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_revive_the_kaiserreich (events/DOD_Yugoslavia.txt:4963: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Yugoslavia.txt:4963: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_the_monarchy_compromise (events/DOD_Yugoslavia.txt:4964: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Yugoslavia.txt:4964: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_revive_the_kaiserreich (events/DOD_Yugoslavia.txt:4972: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Yugoslavia.txt:4972: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_the_monarchy_compromise (events/DOD_Yugoslavia.txt:4973: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/DOD_Yugoslavia.txt:4973: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_pool_technical_know_how (events/Generic.txt:628: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/Generic.txt:628: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_pool_technical_know_how (events/Generic.txt:785: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/Generic.txt:785: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_rhineland (events/Poland.txt:1580: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/Poland.txt:1580: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_oppose_hitler (events/Poland.txt:1779: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: events/Poland.txt:1779: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = GER_ussr_war_goal (common/on_actions/03_wtt_on_actions.txt:266: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/03_wtt_on_actions.txt:266: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_invite_german_officers_to_izmir (common/on_actions/06_bftb_on_actions.txt:31: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:31: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_integrate_german_officers_into_the_army (common/on_actions/06_bftb_on_actions.txt:32: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:32: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_invite_german_officers_to_izmir (common/on_actions/06_bftb_on_actions.txt:48: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:48: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_integrate_german_officers_into_the_army (common/on_actions/06_bftb_on_actions.txt:49: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:49: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = TUR_the_italo_turkish_naval_academy (common/on_actions/06_bftb_on_actions.txt:63: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:63: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_recognize_the_soviet_union (common/on_actions/06_bftb_on_actions.txt:1372: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:1372: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_recognize_the_soviet_union (common/on_actions/06_bftb_on_actions.txt:1390: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:1390: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_recognize_the_soviet_union (common/on_actions/06_bftb_on_actions.txt:1408: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:1408: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_recognize_the_soviet_union (common/on_actions/06_bftb_on_actions.txt:1426: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:1426: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_recognize_the_soviet_union (common/on_actions/06_bftb_on_actions.txt:1444: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:1444: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = YUG_recognize_the_soviet_union (common/on_actions/06_bftb_on_actions.txt:1462: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/06_bftb_on_actions.txt:1462: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_declare_for_italy (common/on_actions/08_bba_on_actions.txt:199: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:199: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_monarchia_d_italia (common/on_actions/08_bba_on_actions.txt:216: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:216: has_completed_focus
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:222: has_power_balance
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_italo_balbo_focus (common/on_actions/08_bba_on_actions.txt:259: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:259: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_dino_grandi_focus (common/on_actions/08_bba_on_actions.txt:281: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:281: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_declare_for_italy (common/on_actions/08_bba_on_actions.txt:336: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:336: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_sway_the_warlords (common/on_actions/08_bba_on_actions.txt:584: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:584: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_guarantee_austrian_independence (common/on_actions/08_bba_on_actions.txt:1205: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1205: has_completed_focus
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1242: has_power_balance
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1243: is_power_balance_side_active
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1285: power_balance_value
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1302: has_power_balance
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1303: is_power_balance_side_active
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_cooperatives_for_intensive_exploitation (common/on_actions/08_bba_on_actions.txt:1386: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1386: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_cooperate_with_the_mafia (common/on_actions/08_bba_on_actions.txt:1409: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1409: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_rally_around_the_emperor (common/on_actions/08_bba_on_actions.txt:1511: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1511: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_the_italian_confederation (common/on_actions/08_bba_on_actions.txt:1610: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1610: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_planned_economy (common/on_actions/08_bba_on_actions.txt:1616: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1616: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_the_italian_confederation (common/on_actions/08_bba_on_actions.txt:1652: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1652: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ITA_planned_economy (common/on_actions/08_bba_on_actions.txt:1658: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1658: has_completed_focus
+[17:43:16][triggerimplementation.cpp:3305]: Invalid focus scripted in trigger. has_completed_focus = ETH_expand_the_officer_corps (common/on_actions/08_bba_on_actions.txt:1751: has_completed_focus)
+[17:43:16][trigger.cpp:114]: Trigger failed to validate: common/on_actions/08_bba_on_actions.txt:1751: has_completed_focus
+[17:43:16][effectimplementation.cpp:2702]: common/decisions/_exiled_governments_decisions.txt:350: add_timed_idea: Invalid idea: ETH_purge_ideology_boost_idea. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:14009]: Invalid Decision ID for activate decision effect form_baltic_federation
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip USA_support_the_anti_fascist_war
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip form_nordic_league
+[17:43:16][effectimplementation.cpp:14009]: Invalid Decision ID for activate decision effect form_commonwealth
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip NZL_demand_islands
+[17:43:16][effectimplementation.cpp:14009]: Invalid Decision ID for activate decision effect form_commonwealth
+[17:43:16][effectimplementation.cpp:14009]: Invalid Decision ID for activate decision effect form_commonwealth
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission SWI_building_up_military_readiness_mission
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/GRE_scripted_effects.txt:46: swap_ideas: Invalid idea: GRE_debt_to_the_ifc_2. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/GRE_scripted_effects.txt:46: swap_ideas: Invalid idea: GRE_debt_to_the_ifc_3. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/GRE_scripted_effects.txt:56: swap_ideas: Invalid idea: GRE_debt_to_the_ifc. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/GRE_scripted_effects.txt:56: swap_ideas: Invalid idea: GRE_debt_to_the_ifc_2. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:25: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:25: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:34: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:34: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:43: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:43: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:52: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:52: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:78: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:78: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:87: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:87: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:96: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:96: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:105: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:105: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:131: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:131: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:140: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:140: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:149: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:149: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:161: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:161: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_passive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:170: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:170: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_defensive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:179: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_war. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/SWI_scripted_effects.txt:179: swap_ideas: Invalid idea: SWI_spirit_of_helvetia_aggressive_peace. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:14638]: Invalid Decision ID for add_days_mission_timeout SWI_country_angry_mission
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission SWI_recently_finished_president_initiative_mission
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission SWI_recently_finished_president_initiative_mission
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_defense_fund_drive
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_swiss_democratic_tradition_campaign
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_rally_workers
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_spouse_fascism
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_appease_fascists
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_focus_on_swiss_unity
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_isolate_switzerland
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_militarization_drive
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_expand_covert_operations
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_expand_arms_industry
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_anti_fascist_drive
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_support_humanitarian_efforts
+[17:43:16][effectimplementation.cpp:13845]: Invalid Decision ID for unlock_decision_tooltip SWI_diplomatic_mission
+[17:43:16][effectimplementation.cpp:5317]: common/scripted_effects/SWI_scripted_effects.txt:2721: add_country_leader_role: Invalid country leader trait SWI_intelligence_officer
+[17:43:16][effectimplementation.cpp:5317]: common/scripted_effects/SWI_scripted_effects.txt:2739: add_country_leader_role: Invalid country leader trait SWI_militaristic_nationalist
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:153: swap_ideas: Invalid idea: TUR_sectarian_woes. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:153: swap_ideas: Invalid idea: TUR_sectarian_woes_1. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:565: swap_ideas: Invalid idea: TUR_kemalist_army_officers_minimal_power_disloyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:576: swap_ideas: Invalid idea: TUR_kemalist_army_officers_minimal_power_neutral. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:587: swap_ideas: Invalid idea: TUR_kemalist_army_officers_minimal_power_loyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:601: swap_ideas: Invalid idea: TUR_kemalist_army_officers_decreased_power_disloyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:615: swap_ideas: Invalid idea: TUR_kemalist_army_officers_decreased_power_neutral. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:629: swap_ideas: Invalid idea: TUR_kemalist_army_officers_decreased_power_loyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:643: swap_ideas: Invalid idea: TUR_kemalist_army_officers_limited_power_disloyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:657: swap_ideas: Invalid idea: TUR_kemalist_army_officers_limited_power_neutral. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:671: swap_ideas: Invalid idea: TUR_kemalist_army_officers_extended_power_loyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:685: swap_ideas: Invalid idea: TUR_kemalist_army_officers_extended_power_disloyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:699: swap_ideas: Invalid idea: TUR_kemalist_army_officers_extended_power_neutral. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:713: swap_ideas: Invalid idea: TUR_kemalist_army_officers_extended_power_loyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:724: swap_ideas: Invalid idea: TUR_kemalist_army_officers_powerful_disloyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:735: swap_ideas: Invalid idea: TUR_kemalist_army_officers_powerful_neutral. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/TUR_scripted_effects.txt:746: swap_ideas: Invalid idea: TUR_kemalist_army_officers_powerful_loyal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:16: swap_ideas: Invalid idea: great_depression_2. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:16: swap_ideas: Invalid idea: great_depression. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:23: swap_ideas: Invalid idea: great_depression_3. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:23: swap_ideas: Invalid idea: great_depression_2. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:41: swap_ideas: Invalid idea: great_depression_2. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:41: swap_ideas: Invalid idea: great_depression_3. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:49: swap_ideas: Invalid idea: great_depression. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/scripted_effects/USA_scripted_effects.txt:49: swap_ideas: Invalid idea: great_depression_2. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:334: add_timed_idea: Invalid idea: YUG_air_payment. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:352: add_timed_idea: Invalid idea: YUG_air_payment. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:366: add_timed_idea: Invalid idea: YUG_air_payment. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:367: add_timed_idea: Invalid idea: YUG_fighter_production_diverted. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:381: add_timed_idea: Invalid idea: YUG_air_payment. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:382: add_timed_idea: Invalid idea: YUG_bomber_production_diverted. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:4679: add_timed_idea: Invalid idea: agitated_peasants. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:4698: add_timed_idea: Invalid idea: pan_slavic_propaganda. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2702]: events/DOD_Yugoslavia.txt:4721: add_timed_idea: Invalid idea: armed_communist_militants. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:293]: Unable to find focus tree with ID: german_focus
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission MTG_treaty_reduction_mission
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission MTG_treaty_reduction_signatory_mission
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission MTG_escalator_clause_invocation_mission
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission MTG_treaty_reduction_mission
+[17:43:16][effectimplementation.cpp:293]: Unable to find focus tree with ID: yugoslavian_focus
+[17:43:16][effectimplementation.cpp:14141]: Invalid Decision ID for activate_mission GER_barbarossa_mission
+[17:43:16][effectimplementation.cpp:293]: Unable to find focus tree with ID: german_focus
+[17:43:16][effectimplementation.cpp:293]: Unable to find focus tree with ID: italian_focus
+[17:43:16][effectimplementation.cpp:293]: Unable to find focus tree with ID: usa_focus
+[17:43:16][power_balance_effects.cpp:40]: common/on_actions/08_bba_on_actions.txt:226: set_power_balance: Unable to find power balance with ID: ITA_power_balance
+[17:43:16][power_balance_effects.cpp:40]: common/on_actions/08_bba_on_actions.txt:262: set_power_balance: Unable to find power balance with ID: ITA_power_balance
+[17:43:16][power_balance_effects.cpp:40]: common/on_actions/08_bba_on_actions.txt:284: set_power_balance: Unable to find power balance with ID: ITA_power_balance
+[17:43:16][power_balance_effects.cpp:40]: common/on_actions/08_bba_on_actions.txt:303: set_power_balance: Unable to find power balance with ID: ITA_power_balance
+[17:43:16][effectimplementation.cpp:2702]: common/on_actions/08_bba_on_actions.txt:1214: add_timed_idea: Invalid idea: ITA_alpine_defense. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/on_actions/08_bba_on_actions.txt:1624: swap_ideas: Invalid idea: ITA_italian_confederation_member. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/on_actions/08_bba_on_actions.txt:1624: swap_ideas: Invalid idea: ITA_italian_confederation_member_improved. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/on_actions/08_bba_on_actions.txt:1666: swap_ideas: Invalid idea: ITA_italian_confederation_member. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:16][effectimplementation.cpp:2153]: common/on_actions/08_bba_on_actions.txt:1666: swap_ideas: Invalid idea: ITA_italian_confederation_member_improved. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+
+
+[17:43:20][statehistory.cpp:247]: State Error: Trying to set invalid state building "shipyard" to state #1022.
+
+[17:43:20][country.cpp:6716]: Attempting to set captial state #447 for 联合王国, they dont own it!
+[17:43:20][effectbase.cpp:727]: *Tried to trigger non-existant event: NSB_soviet_paranoia_system_events.01
+[17:43:20][country.cpp:6716]: Attempting to set captial state #16 for 法国, they dont own it!
+[17:43:20][country.cpp:6716]: Attempting to set captial state #7 for 荷兰, they dont own it!
+[17:43:20][effectimplementation.cpp:1868]: history/countries/SER - Serbia.txt:7: add_ideas: Invalid idea: anti_german_military. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:20][country.cpp:6716]: Attempting to set captial state #907 for 阿拉伯埃及共和国, they dont own it!
+[17:43:20][equipment_effects.cpp:735]: 'history/countries/DDR - East Germany.txt:245: create_equipment_variant': 'Deutschland Class' - Invalid name group 'GER_CA_HISTORICAL'.
+[17:43:20][equipment_effects.cpp:735]: 'history/countries/DDR - East Germany.txt:262: create_equipment_variant': 'Königsberg Class' - Invalid name group 'GER_CL_HISTORICAL'.
+[17:43:20][country.cpp:6716]: Attempting to set captial state #540 for 安哥拉共和国, they dont own it!
+[17:43:20][country.cpp:6716]: Attempting to set captial state #544 for 莫桑比克共和国, they dont own it!
+[17:43:20][country.cpp:6716]: Attempting to set captial state #295 for 东刚果共和国, they dont own it!
+[17:43:21][country.cpp:6716]: Attempting to set captial state #558 for 尼日利亚共和国, they dont own it!
+[17:43:21][country.cpp:6716]: Attempting to set captial state #556 for 马里共和国, they dont own it!
+[17:43:21][effectimplementation.cpp:1868]: history/countries/CSA - CSA.txt:208: add_ideas: Invalid idea: home_of_the_free. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:21][effectimplementation.cpp:1868]: history/countries/USB - USB.txt:202: add_ideas: Invalid idea: home_of_the_free. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:21][country.cpp:6716]: Attempting to set captial state #446 for 阿拉伯联合邦, they dont own it!
+
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/AFA - Afar.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/AOI - Italian East Africa.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/BEG - Benishangul-Gumuz.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/CHU - Chuvashia.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/GBA - Gambela.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/HAR - Harar.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/KHA - Khakassia.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/KHI - Khiva.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/KOS - Kosovo.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/LBV - Lombardy Venetia.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/MEL - Mari El.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/ORO - Oromo.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/PAP - Papal States.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/QEM - Qemant.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/RIF - Rif.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/SID - Sidamo.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/SPM - Sardinia Piedmont.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/TIG - Tigray.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/TOS - Tuscany.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/TTS - The Two Sicilies.txt
+[17:43:40][history.cpp:257]: Unknown history file in country database - history/countries/UDM - Udmurtia.txt
+[17:43:40][history.cpp:265]: YUG - is missing a history file.
+[17:43:40][history.cpp:265]: TUR - is missing a history file.
+[17:43:40][history.cpp:265]: GRE - is missing a history file.
+[17:43:40][statehistory.cpp:247]: State Error: Trying to set invalid state building "shipyard" to state #1022.
+[17:43:40][country.cpp:6716]: Attempting to set captial state #447 for 联合王国, they dont own it!
+[17:43:40][effectbase.cpp:727]: *Tried to trigger non-existant event: NSB_soviet_paranoia_system_events.01
+[17:43:40][country.cpp:6716]: Attempting to set captial state #16 for 法国, they dont own it!
+[17:43:40][country.cpp:6716]: Attempting to set captial state #7 for 荷兰, they dont own it!
+[17:43:40][effectimplementation.cpp:1868]: history/countries/SER - Serbia.txt:7: add_ideas: Invalid idea: anti_german_military. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][country.cpp:6716]: Attempting to set captial state #907 for 阿拉伯埃及共和国, they dont own it!
+[17:43:40][equipment_effects.cpp:735]: 'history/countries/DDR - East Germany.txt:245: create_equipment_variant': 'Deutschland Class' - Invalid name group 'GER_CA_HISTORICAL'.
+[17:43:40][equipment_effects.cpp:735]: 'history/countries/DDR - East Germany.txt:262: create_equipment_variant': 'Königsberg Class' - Invalid name group 'GER_CL_HISTORICAL'.
+[17:43:40][country.cpp:6716]: Attempting to set captial state #540 for 安哥拉, they dont own it!
+[17:43:40][country.cpp:6716]: Attempting to set captial state #544 for 莫桑比克, they dont own it!
+[17:43:40][country.cpp:6716]: Attempting to set captial state #295 for 扎伊尔, they dont own it!
+[17:43:40][country.cpp:6716]: Attempting to set captial state #558 for 尼日利亚, they dont own it!
+[17:43:40][country.cpp:6716]: Attempting to set captial state #556 for 马里, they dont own it!
+[17:43:40][effectimplementation.cpp:1868]: history/countries/CSA - CSA.txt:208: add_ideas: Invalid idea: home_of_the_free. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/USB - USB.txt:202: add_ideas: Invalid idea: home_of_the_free. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][country.cpp:6716]: Attempting to set captial state #446 for 阿拉伯联合邦, they dont own it!
+[17:43:40][effectbase.cpp:727]: *Tried to trigger non-existant event: britain.13
+[17:43:40][equipmentvariant.cpp:903]: Country "USA" does not have any equipment variant for type "small_plane_airframe_0" (selecting latest version) created by "USA".
+[17:43:40][effectbase.cpp:727]: *Tried to trigger non-existant event: bftb_news.11
+[17:43:40][equipment_effects.cpp:735]: 'common/national_focus/new_zealand.txt:475: create_equipment_variant': 'Bristol Blenheim' - Modular type 'medium_plane_airframe_1' appears to not have been unlocked for NZL as no chassis variant exists. Unlocked the tech before creating any variants to avoid bugs.
+[17:43:40][equipment_effects.cpp:735]: 'history/countries/DDR - East Germany.txt:367: create_equipment_variant': 'Zerstörer 1936 Class' - Invalid name group 'GER_DD_HISTORICAL'.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/CSA - CSA.txt:102: add_ideas: Invalid idea: army_ordnance_department. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/CSA - CSA.txt:102: add_ideas: Invalid idea: general_electric. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/CSA - CSA.txt:102: add_ideas: Invalid idea: USA_prepare_intervention. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/CSA - CSA.txt:102: add_ideas: Invalid idea: new_deal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/USB - USB.txt:86: add_ideas: Invalid idea: army_ordnance_department. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/USB - USB.txt:86: add_ideas: Invalid idea: general_electric. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/USB - USB.txt:86: add_ideas: Invalid idea: USA_prepare_intervention. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:40][effectimplementation.cpp:1868]: history/countries/USB - USB.txt:86: add_ideas: Invalid idea: new_deal. If you wanted to reference a variable, you need to explicitly prefix it with var: or temp_var:.
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "medium_plane_airframe_0" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SWE_1939_air_bba.txt. Could not set pool equipment 'version_name' in 斯韦阿兰
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SWE_1939_air_bba.txt. Could not set pool equipment 'version_name' in 斯韦阿兰
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SWE_1939_air_bba.txt. Could not set pool equipment 'version_name' in 斯韦阿兰
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "small_plane_naval_bomber_airframe_1" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SWE_1939_air_bba.txt. Could not set pool equipment 'version_name' in 西约特兰
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/FRA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 北部-加莱海峡
+[17:43:44][persistent.cpp:48]: Error: "FRA has no carrier air base with name 'Béarn'. Is the OOB file containing the carrier loaded after this file?: {, near line: 59" in file: "history/units/FRA_1939_air_bba.txt" near line: 65
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/BEL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 佛兰德斯
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/BEL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 佛兰德斯
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/BEL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 佛兰德斯
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/HOL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 苏拉威西
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/HOL_1939_air_bba.txt. Could not set pool equipment 'amount' in 苏拉威西
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/HOL_1939_air_bba.txt. Could not set pool equipment 'amount' in 苏拉威西
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 马德里
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 马德里
+[17:43:44][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "ITA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 塞维利亚
+[17:43:44][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ITA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 塞维利亚
+[17:43:44][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "ITA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 塞维利亚
+[17:43:44][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "small_plane_cas_airframe_1" version 0 created by "ITA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 塞维利亚
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 格拉纳达
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 格拉纳达
+[17:43:44][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "ITA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/SPA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 西属非洲
+[17:43:44][country.cpp:6733]: TUR has NO capital defined.
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/NOR_1939_air_bba.txt. Could not set pool equipment 'version_name' in 东挪威
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/DEN_1939_air_bba.txt. Could not set pool equipment 'version_name' in 西兰
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "cv_small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/DEN_1939_air_bba.txt. Could not set pool equipment 'version_name' in 日德兰
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "medium_plane_airframe_0" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/POR_1939_air_bba.txt. Could not set pool equipment 'version_name' in 里斯本
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/POR_1939_air_bba.txt. Could not set pool equipment 'version_name' in 里斯本
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/AFG_1939_air_bba.txt. Could not set pool equipment 'version_name' in 北坎大哈-喀布尔
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/ARG_1939_air_bba.txt. Could not set pool equipment 'version_name' in 潘帕斯
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "cv_small_plane_cas_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/ARG_1939_air_bba.txt. Could not set pool equipment 'version_name' in 潘帕斯
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "cv_small_plane_cas_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/ARG_1939_air_bba.txt. Could not set pool equipment 'version_name' in 潘帕斯
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "medium_plane_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/ARG_1939_air_bba.txt. Could not set pool equipment 'version_name' in 潘帕斯
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/AST_1939_air_bba.txt. Could not set pool equipment 'version_name' in 新南威尔士
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/AST_1939_air_bba.txt. Could not set pool equipment 'version_name' in 新南威尔士
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_naval_bomber_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/AST_1939_air_bba.txt. Could not set pool equipment 'version_name' in 新南威尔士
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/BOL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 拉巴斯
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "cv_small_plane_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/BRA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 里约热内卢
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "cv_small_plane_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/BRA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 里约热内卢
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "cv_small_plane_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/BRA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 里约热内卢
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/CAN_1939_air_bba.txt. Could not set pool equipment 'version_name' in 南安大略
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/CAN_1939_air_bba.txt. Could not set pool equipment 'version_name' in 不列颠哥伦比亚
+[17:43:44][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "cv_small_plane_naval_bomber_airframe_0" version 0 created by "ENG".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/CAN_1939_air_bba.txt. Could not set pool equipment 'version_name' in 不列颠哥伦比亚
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/CHL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 圣地亚哥
+[17:43:44][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "small_plane_cas_airframe_1" version 0 created by "ITA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/CHL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 圣地亚哥
+[17:43:44][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "medium_plane_airframe_0" version 0 created by "GER".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/CHL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 圣地亚哥
+[17:43:44][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "USA".
+[17:43:44][strategicair.cpp:3751]: Error scripting OOB history/units/COL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 昆迪纳马卡
+[17:43:45][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "infantry_equipment_1" version 0 created by "USA".
+[17:43:45][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "ENG".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/MEX_1936_air_bba.txt. Could not set pool equipment 'version_name' in 墨西哥城
+[17:43:45][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/MEX_1936_air_bba.txt. Could not set pool equipment 'version_name' in 墨西哥城
+[17:43:45][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_naval_bomber_airframe_0" version 0 created by "ENG".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/NZL_1939_air_bba.txt. Could not set pool equipment 'version_name' in 北岛
+[17:43:45][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "USA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/PHI_1936_air_bba.txt. Could not set pool equipment 'version_name' in 马尼拉
+[17:43:45][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ITA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/PRU_1939_air_bba.txt. Could not set pool equipment 'version_name' in 利马
+[17:43:45][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "ENG".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/PRU_1939_air_bba.txt. Could not set pool equipment 'version_name' in 利马
+[17:43:45][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "ITA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/PRU_1939_air_bba.txt. Could not set pool equipment 'version_name' in 利马
+[17:43:45][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ENG".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SAF_1939_air_bba.txt. Could not set pool equipment 'version_name' in 德兰士瓦
+[17:43:45][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "ENG".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SAF_1939_air_bba.txt. Could not set pool equipment 'version_name' in 德兰士瓦
+[17:43:45][equipmentpool.cpp:1314]: Country "ENG" does not have any equipment variant for type "small_plane_naval_bomber_airframe_0" version 0 created by "ENG".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SAF_1939_air_bba.txt. Could not set pool equipment 'version_name' in 德兰士瓦
+[17:43:45][equipmentpool.cpp:1314]: Country "GER" does not have any equipment variant for type "medium_plane_airframe_0" version 0 created by "GER".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SAF_1939_air_bba.txt. Could not set pool equipment 'amount' in 德兰士瓦
+[17:43:45][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_airframe_1" version 0 created by "USA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SIA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 暹罗
+[17:43:45][equipmentpool.cpp:1314]: Country "JAP" does not have any equipment variant for type "small_plane_cas_airframe_1" version 0 created by "JAP".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SIA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 暹罗
+[17:43:45][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "small_plane_cas_airframe_0" version 0 created by "USA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SIA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 暹罗
+[17:43:45][equipmentpool.cpp:1314]: Country "USA" does not have any equipment variant for type "medium_plane_airframe_1" version 0 created by "USA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/SIA_1939_air_bba.txt. Could not set pool equipment 'version_name' in 暹罗
+[17:43:45][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ITA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/VEN_1939_air_bba.txt. Could not set pool equipment 'version_name' in 米兰达
+[17:43:45][equipmentpool.cpp:1314]: Country "ITA" does not have any equipment variant for type "small_plane_airframe_0" version 0 created by "ITA".
+[17:43:45][strategicair.cpp:3751]: Error scripting OOB history/units/PAR_1939_air_bba.txt. Could not set pool equipment 'version_name' in 巴拉圭

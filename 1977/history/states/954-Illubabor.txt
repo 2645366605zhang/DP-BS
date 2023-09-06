@@ -18,7 +18,7 @@ state = {
 		}
 		# Jiren
 		victory_points = { 
-			7912 1 2
+			7912 2
 		}
 		
 		owner = SEA
