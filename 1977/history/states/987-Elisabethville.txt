@@ -2,16 +2,21 @@ state = {
 	id = 987
 	name = "伊丽莎白维尔" #卢本巴希
 	manpower = 708190
-	state_category = pastoral
+	state_category = rural
 
 	resources={
-		tungsten=2.000
+		tungsten = 2
+		steel = 7
 	}
 
 	history = {
 		owner = COG
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			191 1 
 		}
 		add_core_of = COG
 	}

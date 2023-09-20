@@ -1,0 +1,26 @@
+﻿capital = 6
+
+set_research_slots = 3
+set_stability = 0.8
+set_war_support = 0.3 #we see what you are doing there Adolf
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+}
+
+set_politics = {
+	ruling_party = democratic
+	last_election = "1932.11.27"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 83
+	fascism = 11
+	communism = 6
+}
+
+set_convoys = 80
+set_stability = 0.75

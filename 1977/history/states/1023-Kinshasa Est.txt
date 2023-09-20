@@ -1,0 +1,27 @@
+
+state = {
+	id = 1023
+	name = "东利奥波德维尔" # 东金沙萨
+	manpower = 650000
+	state_category = pastoral
+
+	history = {
+		owner = COG
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = COG
+	}
+
+	resources = {
+		rubber = 2
+	}
+
+	provinces={
+		4128 10025 12896 12945 
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=2.000
+}

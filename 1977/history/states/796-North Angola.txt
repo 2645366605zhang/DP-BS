@@ -1,0 +1,35 @@
+state = {
+	id = 796
+	name = "南利奥波德维尔" # 南金萨沙 # Sud Kinshasa
+	history = {
+		owner = COG
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+			air_base = 1
+			2115 = {
+				naval_base = 2
+			}
+			10968 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			2115 2
+		}
+		victory_points = {
+			10968 2 # 基通贝 # Kitombe
+		}
+		add_core_of = ANG
+		add_core_of = COG
+	}
+	provinces = {
+		2115 10968 12925
+	}
+	manpower = 200000
+	buildings_max_level_factor = 1.000
+	state_category = small_town
+
+	local_supplies=0.0 
+}
