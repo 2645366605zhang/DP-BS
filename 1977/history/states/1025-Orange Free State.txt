@@ -1,0 +1,28 @@
+
+state={
+	id = 1025
+	name = "奥兰治自由邦"
+	manpower = 1000000
+	state_category = town
+
+	resources={
+		steel = 5
+		chromium = 20
+	}
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		add_core_of = SAF
+	}
+
+	provinces = {
+		5231 12064 12648
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+
+state={
+	id = 1026
+	name = "北开普"
+	manpower = 180000
+	state_category = small_town
+
+	resources={
+		steel = 1
+	}
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = BOT
+	}
+
+	provinces = {
+		1509 10668
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

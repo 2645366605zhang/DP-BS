@@ -1,0 +1,30 @@
+
+state={
+	id = 542
+	name = "贝专纳兰" # 博茨瓦纳
+	manpower = 300000
+	
+	state_category = rural
+	
+	resources={
+		chromium = 80
+	}
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BOT
+		victory_points = {
+			8214 2
+		}
+
+	}
+
+	provinces={
+		8214 10525 12940 12963 
+	}
+
+	local_supplies=2.0 
+}

@@ -1,0 +1,36 @@
+
+state={
+	id=681
+	name="西开普" # West Cape
+	manpower = 1900000
+
+	state_category = large_town
+
+	resources={
+		steel = 12
+	}
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 3
+			arms_factory = 1
+			air_base = 4
+			dockyard = 1
+			12589 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			12589 14
+		}
+		add_core_of = SAF
+	}
+
+	provinces={
+		4528 10415 10442 12589 12692 
+	}
+
+	local_supplies=0.0 
+}

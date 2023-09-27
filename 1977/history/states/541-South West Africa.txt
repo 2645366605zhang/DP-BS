@@ -1,0 +1,28 @@
+
+state = {
+	id = 541
+	name="卡拉斯沿海地区"
+	manpower = 420000
+	state_category = rural
+
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			4879 2
+		}
+		add_core_of = SAF
+		add_core_of = NMB
+	}
+
+	provinces = {
+		2207 2229 4879 5154 10963
+	}
+	
+	buildings_max_level_factor=1.000
+	
+	local_supplies=0.000
+}

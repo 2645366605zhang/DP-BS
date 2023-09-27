@@ -1,7 +1,8 @@
+
 state={
-	id=992
-	name="库内内"
-	manpower = 69300
+	id = 1024
+	name = "东奥卡万戈"
+	manpower = 20000
 	state_category = pastoral
 
 	history={
@@ -11,10 +12,10 @@ state={
 		}
 		add_core_of = NMB
 	}
-	provinces={
-		10978 12921 
+
+	provinces = {
+		1580 13217 
 	}
-	
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

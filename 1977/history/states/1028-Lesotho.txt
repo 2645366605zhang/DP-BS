@@ -1,20 +1,20 @@
+
 state={
-	id=992
-	name="库内内"
-	manpower = 69300
+	id = 1028
+	name = "巴苏陀兰" # 莱索托
+	manpower = 100000
 	state_category = pastoral
 
-	history={
+	history = {
 		owner = SAF
 		buildings = {
-			infrastructure = 2
+			infrastructure = 1
 		}
-		add_core_of = NMB
 	}
-	provinces={
-		10978 12921 
+
+	provinces = {
+		4556
 	}
-	
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
 }

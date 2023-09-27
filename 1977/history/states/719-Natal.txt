@@ -1,0 +1,26 @@
+state = {
+	id = 719
+	name = "东开普"
+	manpower = 1000000
+	resources = {
+		chromium = 30
+	}
+	
+	state_category = town
+
+	history = {
+		owner = SAF
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = SAF
+	}
+
+	provinces={
+		1833 4584 7576 
+	}
+
+	local_supplies=0.0 
+}
