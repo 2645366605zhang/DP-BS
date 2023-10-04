@@ -1,5 +1,5 @@
 
-###
+### 
 
 SRC = "countries/People's Soviet Republic of China.txt"
 AMS = "countries/Aynu-Mosir Soviet.txt"
@@ -32,3 +32,5 @@ DSR = "countries/Dongbei Special Administrative Region.txt"
 WKB = "countries/Wehrkreis Bremen.txt"
 UAF = "countries/United Arab Federation.txt"
 SEA = "countries/Soviet Republic of East Africa.txt"
+ETN = "countries/Kingdom of Eswatini.txt"
+LST = "countries/Kingdom of Lesotho.txt"

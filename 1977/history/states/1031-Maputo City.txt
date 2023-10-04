@@ -1,0 +1,32 @@
+
+state={
+	id = 1031
+	name = "洛伦索·马克斯" # 马普托
+	manpower = 900000
+	state_category = town
+	resources = {
+		steel = 2
+	}
+
+	history = {
+		owner = SAF
+		add_core_of = MZB
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			8245 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			8245 4
+		}
+	}
+
+	provinces = {
+		8245
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

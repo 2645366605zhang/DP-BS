@@ -497,6 +497,38 @@
  SEA_neutrality_DEF:0 "东非苏维埃"
  SEA_neutrality_ADJ:0 "东非苏维埃共和国"
 
+ LST:0 "斯瓦提尼"
+ LST_DEF:0 "斯瓦提尼"
+ LST_ADJ:0 "斯瓦提尼"
+ LST_communism:0 "斯瓦提尼独立苏维埃"
+ LST_communism_DEF:0 "斯瓦提尼苏维埃"
+ LST_communism_ADJ:0 "斯瓦提尼独立苏维埃"
+ LST_democratic:0 "斯瓦提尼共和国"
+ LST_democratic_DEF:0 "斯瓦提尼共和国"
+ LST_democratic_ADJ:0 "斯瓦提尼共和国"
+ LST_fascism:0 "斯瓦提尼帝国"
+ LST_fascism_DEF:0 "斯瓦提尼帝国"
+ LST_fascism_ADJ:0 "斯瓦提尼帝国"
+ LST_neutrality:0 "斯瓦提尼王国"
+ LST_neutrality_DEF:0 "斯瓦提尼王国"
+ LST_neutrality_ADJ:0 "斯瓦提尼王国"
+
+ ETN:0 "莱索托"
+ ETN_DEF:0 "莱索托"
+ ETN_ADJ:0 "莱索托"
+ ETN_communism:0 "莱索托公社"
+ ETN_communism_DEF:0 "莱索托公社"
+ ETN_communism_ADJ:0 "莱索托公社"
+ ETN_democratic:0 "莱索托解放共和国"
+ ETN_democratic_DEF:0 "莱索托解放共和国"
+ ETN_democratic_ADJ:0 "莱索托解放共和国"
+ ETN_fascism:0 "南非帝国"
+ ETN_fascism_DEF:0 "莱索托帝国"
+ ETN_fascism_ADJ:0 "南非帝国"
+ ETN_neutrality:0 "莱索托王国"
+ ETN_neutrality_DEF:0 "莱索托王国"
+ ETN_neutrality_ADJ:0 "莱索托王国"
+
 #Cosmetic
  
  
