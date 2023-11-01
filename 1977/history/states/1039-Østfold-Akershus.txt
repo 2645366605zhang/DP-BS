@@ -1,0 +1,26 @@
+state = {
+	id = 1039
+	name = "东福尔-阿克什胡斯"
+	manpower = 90000
+	state_category = large_town
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 2
+			11151 = {
+				naval_base = 2
+				coastal_bunker = 2
+			}
+		}
+		victory_points = {
+			11151 6
+		}
+	}
+	provinces = {
+		11078 11151 11184 3007 3171
+	}
+	local_supplies = 0.000
+}

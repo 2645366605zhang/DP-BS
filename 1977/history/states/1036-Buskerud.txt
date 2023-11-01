@@ -1,0 +1,23 @@
+state = {
+	id = 1036
+	name = "布斯克吕"
+	manpower = 180000
+	state_category = small_town
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 1
+		}
+	}
+
+	provinces = {
+		9204 6080 9103 11037 9157 144 27
+	}
+
+	local_supplies = 0.000
+}

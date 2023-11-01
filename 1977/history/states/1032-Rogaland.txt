@@ -1,0 +1,33 @@
+
+state={
+	id = 1032
+	name = "罗加兰"
+	manpower = 120000
+	state_category = small_town
+	resources = {
+		steel = 1
+	}
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 2
+			53 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			8245 4
+		}
+	}
+
+	provinces = {
+		53 137 3192 6176
+	}
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

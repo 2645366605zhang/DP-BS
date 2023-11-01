@@ -1,0 +1,27 @@
+state = {
+	id = 1038
+	name = "海德马克"
+	manpower = 300000
+	state_category = small_town
+	resources = {
+		steel = 8
+	}
+	history = {
+		victory_points = {
+			3136 4
+		}
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+	
+	provinces = {
+		3021 6160 179 3136 6042 10 133 11113 111 3105
+	}
+
+	local_supplies = 0.000
+}

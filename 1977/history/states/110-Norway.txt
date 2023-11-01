@@ -1,0 +1,38 @@
+
+state = {
+	id = 110
+	name = "奥斯陆"
+	manpower = 950000
+	
+	state_category = city
+	
+	resources = {
+
+	}
+
+	history = {
+		victory_points = {
+			6115 20
+		}
+		owner = NOR
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 4
+			dockyard = 2
+			air_base = 4
+			6115 = {
+				naval_base = 6
+				bunker = 2
+				coastal_bunker = 4
+			}
+		}
+		add_core_of = NOR
+	}
+
+	provinces={
+		6115
+	}
+
+	local_supplies=0.0 
+}

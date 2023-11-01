@@ -1,0 +1,23 @@
+state = {
+	id = 1037
+	name = "奥普兰"
+	manpower = 260000
+	state_category = rural
+	resources = {
+		aluminium = 6
+	}
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 2
+            industrial_complex = 1
+		}
+	}
+	
+	provinces = {
+		6114 6136 9032 9135 9227 11028 11135 11206
+	}
+
+	local_supplies = 0.000
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 1035
+	name = "西福尔"
+	manpower = 25000
+	state_category = small_town
+
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		14 9174
+	}
+
+	local_supplies = 0.000
+}
