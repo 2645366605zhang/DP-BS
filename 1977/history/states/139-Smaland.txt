@@ -1,0 +1,34 @@
+
+state = {
+	id = 139
+	name = "STATE_139"
+	manpower = 630366
+	state_category = large_town
+	resources = {
+		steel = 7
+	}
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			9329 2
+		}
+		victory_points = {
+			299 2
+		}
+		victory_points = {
+			211 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}	
+	}
+
+	provinces = {
+		211 242 299 329 363 3229 6148 9251 9329 9406 9410 11231 11280  
+	}
+	local_supplies = 5
+}

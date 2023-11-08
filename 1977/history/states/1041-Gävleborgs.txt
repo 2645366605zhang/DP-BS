@@ -1,0 +1,22 @@
+state = {
+	id = 1041
+	name = "耶夫勒堡"
+	manpower = 300000
+	state_category = small_town
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			industrial_complex = 1
+		}
+		victory_points = {
+			11091 2
+		}
+	}
+	provinces = {
+		9117 3045 11091 11147 11040 125 11209
+	}
+	local_supplies = 0.000
+}

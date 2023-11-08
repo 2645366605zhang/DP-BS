@@ -1,0 +1,30 @@
+
+state = {
+	id = 38
+	name = "西诺尔兰" # Västernorrlands
+	manpower = 450000
+	state_category = town
+	
+
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			130 2
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			air_base = 3
+			130 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces = {
+		130 205 6063 6067 9035 9088 9141 9151 11120 11123 11129 11185 
+	}
+	
+	local_supplies=0.000
+}

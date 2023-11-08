@@ -1,13 +1,11 @@
-state=
-{
-	id=145
-	name="STATE_145"
+state = {
+	id = 145
+	name = "STATE_145" #ÅLAND
 	manpower = 27400
 	
 	state_category = small_island
 	
-	history=
-	{
+	history = {
 		owner = BTF
 		buildings = {
 			infrastructure = 3 #was: 5
@@ -15,10 +13,13 @@ state=
 				naval_base = 1
 			}
 		}
-		add_core_of = BTF
+		victory_points = { #Mariehman
+			9228 1
+		}
+		add_core_of = BTF # Potentially FPA
 	}
 	
-	provinces=	{
+	provinces = {
 		9228
 	}
 

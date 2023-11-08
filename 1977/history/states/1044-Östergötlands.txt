@@ -1,0 +1,20 @@
+state = {
+	id = 1044
+	name = "东约特兰"
+	manpower = 390000
+	state_category = large_town
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 2
+			dockyard = 1
+		}
+	}
+	provinces = {
+		13095 6311 9308 11380 9393 6397 11289 11390 13264 11311 13265
+	}
+	local_supplies = 0.000
+}

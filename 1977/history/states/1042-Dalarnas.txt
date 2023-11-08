@@ -1,0 +1,21 @@
+state = {
+	id = 1042
+	name = "科帕尔贝里" # Kopparberg
+	manpower = 320000
+	state_category = town
+	resources = {
+		steel = 27
+	}
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+		}
+	}
+	provinces = {
+		9193 3148 49 9051 6023 11053 9148 202 6123 3005 6147 9173 13099 156 9182 6093 156 9068 77 3070 114 11197
+	}
+	local_supplies = 0.000
+}

@@ -1,0 +1,34 @@
+state = {
+	id = 1040
+	name = "西拉普兰"
+	manpower = 225000
+	state_category = small_town
+	resources={
+		steel = 4
+		tungsten = 10
+	}
+	history = {
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			192 = {
+				naval_base = 3
+			}
+			11050 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			192 4
+		}
+		victory_points = {
+			11050 2
+		}
+	}
+	provinces = {
+		6187 9208 3126 6111 3088 3048 173 6214 9126 38 3132 11157 3034 192 3145 91 6130 11050 44 6071 11090
+	}
+	local_supplies = 0.000
+}

@@ -2,38 +2,26 @@
 state={
 	id=144
 	name="北拉普兰"
-	manpower = 355251
+	manpower = 100000
 	
-	state_category = rural
+	state_category = pastoral
 	
 	resources={
-		steel = 12
-		tungsten = 20
+		steel = 8
+		tungsten = 12
 	}
 
 	history={
 		owner = NOR
 		buildings = {
 			infrastructure = 2
-			air_base = 1
-			192 = {
-				naval_base = 3
-			}
-			11050 = {
-				naval_base = 2
-			}
-		}
-		victory_points = {
-			192 1
-		}
-		victory_points = {
-			11050 1
+			air_base = 2
 		}
 		add_core_of = NOR
 	}
 
 	provinces={
-		22 38 44 76 91 128 173 192 2995 3016 3034 3040 3048 3058 3082 3088 3126 3132 3145 6015 6071 6079 6107 6111 6130 6187 6214 9042 9064 9089 9126 9128 9191 9208 11050 11077 11090 11104 11130 11157 11169 
+		22 76 128 2995 3016 3040 3058 3082 6015 6079 9042 9064 9089 9128 9191 11077 11104 11130 11169 6107
 	}
 
 	local_supplies=0.0 
