@@ -1,0 +1,19 @@
+state = {
+	id = 1049
+	name = "大贝尔特海峡群岛"
+	manpower = 250000
+	state_category = town
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 1
+		}
+	}
+	provinces = {
+		13261 13260 3374 3325 13259 13258
+	}
+	local_supplies = 0.000
+}

@@ -1,0 +1,33 @@
+
+state = {
+	id = 141
+	name = "STATE_141" # Svealand
+	manpower = 620000
+	state_category = large_town
+	
+	resources = {
+		steel = 12
+	}
+
+	history = {
+		owner = SWE
+
+		victory_points = {
+			9149 3 # Uppsala
+		}
+
+		buildings = {
+			infrastructure = 4 #was: 7
+			arms_factory = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = SWE
+	}
+
+	provinces = {
+		35 3106 3182 6084 6127 6164 6188 9109 9149 9185 9209 11044 11082 11163 11188 13097 13098 
+	}
+
+	local_supplies = 0.0 
+}

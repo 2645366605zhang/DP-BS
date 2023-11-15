@@ -1,0 +1,41 @@
+state = {
+	id = 1048
+	name = "斯德哥尔摩"
+	manpower = 1050000
+	state_category = large_city
+	resources = {
+		steel = 10
+		aluminium = 4
+	}
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 2
+			dockyard = 2
+			air_base = 4
+			6050 = {
+				naval_base = 4
+				coastal_bunker = 2
+			}
+			161 = {
+				coastal_bunker = 1
+			}
+			6209 = {
+				coastal_bunker = 1
+			}
+			11278 = {
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			6050 24
+		}
+	}
+	provinces = {
+		11278 6209 6050 161
+	}
+	local_supplies = 0.000
+}

@@ -1,0 +1,24 @@
+state = {
+	id = 1045
+	name = "韦姆兰"
+	manpower = 500000
+	state_category = large_town
+	resources={
+		steel = 10
+	}
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+		}
+		victory_points = {
+			11114 2
+		}
+	}
+	provinces = {
+		3128 6195 9138 11114 6028 147 9218 3141 9054
+	}
+	local_supplies = 0.000
+}

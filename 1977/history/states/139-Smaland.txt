@@ -1,9 +1,9 @@
 
 state = {
 	id = 139
-	name = "STATE_139"
-	manpower = 630366
-	state_category = large_town
+	name = "延雪平-克鲁努贝里"
+	manpower = 450000
+	state_category = town
 	resources = {
 		steel = 7
 	}
@@ -14,21 +14,15 @@ state = {
 		victory_points = {
 			9329 2
 		}
-		victory_points = {
-			299 2
-		}
-		victory_points = {
-			211 5
-		}
 		buildings = {
-			infrastructure = 3
-			industrial_complex = 2
+			infrastructure = 2
+			industrial_complex = 1
 			arms_factory = 1
 		}	
 	}
 
 	provinces = {
-		211 242 299 329 363 3229 6148 9251 9329 9406 9410 11231 11280  
+		242 9251 9329 9406 9410 11231 11280  
 	}
 	local_supplies = 5
 }

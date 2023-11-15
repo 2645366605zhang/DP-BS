@@ -1,0 +1,27 @@
+state = {
+	id = 1047
+	name = "哥德堡和布胡斯"
+	manpower = 720000
+	state_category = large_town
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		victory_points = {
+			383 16
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			383 = {
+				naval_base = 4
+				coastal_bunker = 2
+			}
+		}
+	}
+	provinces = {
+		171 6310 383
+	}
+	local_supplies = 0.000
+}

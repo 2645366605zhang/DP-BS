@@ -1,0 +1,23 @@
+state = {
+	id = 1050
+	name = "北日德兰"
+	manpower = 800000
+	state_category = town
+	resources={
+		aluminium = 2
+	}
+	history = {
+		owner = DEN
+		add_core_of = DEN
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+		}
+	}
+	provinces = {
+		13262 3206 6235 316 394
+	}
+	local_supplies = 0.000
+}
