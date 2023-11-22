@@ -1,0 +1,21 @@
+state = {
+	id = 1051
+	name = "奥克尼" # Arcaibh
+	manpower = 10500
+	state_category = tiny_island
+	history = {
+		owner = GBI
+		add_core_of = GBI
+		#add_core_of = SCO
+		buildings = {
+			infrastructure = 1
+			11064 = {
+				naval_base = 6
+			}
+		}
+	}
+	provinces = {
+		11064
+	}
+	local_supplies = 0.000
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 1053
+	name = "赫布里底" # Inse Ghall
+	manpower = 27800
+	state_category = small_island
+	history = {
+		owner = GBI
+		add_core_of = GBI
+		add_core_of = SCO
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			6062 3 #Skye/Stornoway
+		}
+	}
+	provinces = {
+		13269 6062 11266 3373
+	}
+	local_supplies = 0.000
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 1052
+	name = "设得兰" # Sealtainn
+	manpower = 12000
+	state_category = small_island
+	history = {
+		owner = GBI
+		add_core_of = GBI
+		#add_core_of = SCO
+		buildings = {
+			infrastructure = 1
+			6196 = {
+				naval_base = 4
+			}
+		}
+	}
+	provinces = {
+		6196
+	}
+	local_supplies = 0.000
+}

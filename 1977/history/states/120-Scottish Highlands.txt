@@ -15,13 +15,10 @@ state= {
 		add_core_of = SCO
 		owner = GBI
 		victory_points = {
-			6062 1 #Skye/Stornoway
+			284 3
 		}
 		victory_points = {
-			284 1 #Oban
-		}
-		victory_points = {
-			9075 1 #Inverness
+			9075 3
 		}
 		victory_points = { 11064 1 }
 		buildings = {
@@ -29,19 +26,14 @@ state= {
 			anti_air_building = 2
 			industrial_complex = 1
 			air_base = 1
-			11064 = {
-				naval_base = 8	
-			}
-			6196 = {
-				naval_base = 1	
-			}
 		}
 		add_core_of = GBI
+		#add_core_of = SCO
 	}
 
-	provinces=
-	{
-131 284 3159 3178 3373 6046 6062 6104 6196 6205 9075 9090 11064 11161 11266 	}
+	provinces = {
+		131 284 3159 3178 6046 6104 6205 9075 9090 11161 13270
+	}
 
 	local_supplies=0.0 
 }
