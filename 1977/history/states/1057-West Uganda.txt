@@ -1,0 +1,25 @@
+state = {
+	id = 1057
+	name = "西乌干达"
+
+	state_category = rural
+	resources = {
+		steel = 1
+	}
+	history = {
+		owner = UGA
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = UGA
+	}
+
+	provinces = {
+		7133
+	}
+	manpower = 29000
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

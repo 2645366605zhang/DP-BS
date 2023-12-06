@@ -1,0 +1,29 @@
+state = {
+	id = 1056
+	name = "南乌干达"
+
+	state_category = rural
+	resources = {
+		steel = 2
+		rubber = 6
+	}
+	history = {
+		owner = UGA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = UGA
+		victory_points = {
+			12989 4
+		}
+	}
+
+	provinces = {
+		3854 7088 12989 13177
+	}
+	manpower = 1890000
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

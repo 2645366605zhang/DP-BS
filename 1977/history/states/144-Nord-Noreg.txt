@@ -1,14 +1,13 @@
 
 state={
-	id=144
-	name="北拉普兰"
+	id = 144
+	name="西北拉普兰"
 	manpower = 100000
 	
 	state_category = pastoral
 	
 	resources={
-		steel = 8
-		tungsten = 12
+		tungsten = 2
 	}
 
 	history={
@@ -18,10 +17,11 @@ state={
 			air_base = 2
 		}
 		add_core_of = NOR
+		add_claim_by = FPA
 	}
 
 	provinces={
-		22 76 128 2995 3016 3040 3058 3082 6015 6079 9042 9064 9089 9191 11077 11104 11130 6107
+		9089 6015 11104 9042 9064
 	}
 
 	local_supplies=0.0 

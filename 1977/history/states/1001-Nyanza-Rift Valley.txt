@@ -1,6 +1,6 @@
 state={
 	id=1001
-	name="团结湖-东非大裂谷" #维多利亚湖-东非大裂谷
+	name="维多利亚湖-东非大裂谷" #团结湖-东非大裂谷
 	manpower = 678400
 	state_category = pastoral
 

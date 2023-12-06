@@ -1,0 +1,27 @@
+
+state = {
+	id = 1055
+	name="北拉普兰"
+	manpower = 20000
+	
+	state_category = pastoral
+	
+	resources = {
+		steel = 8
+		tungsten = 10
+	}
+
+	history = {
+		owner = NOR
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NOR
+	}
+
+	provinces = {
+		22 76 128 2995 3016 3040 3058 3082 6079 9191 11077 11130 6107
+	}
+
+	local_supplies=0.0 
+}
