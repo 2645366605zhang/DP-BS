@@ -18,9 +18,6 @@ state= {
 			infrastructure = 4
 			industrial_complex = 3
 			air_base = 2
-			394 = {
-				naval_base = 1
-			}
 			6364 = {
 				naval_base = 2
 			}

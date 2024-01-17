@@ -1,14 +1,14 @@
 
 state={
 	id=142
-	name="STATE_142"
-	manpower = 484520
+	name="西挪威"
+	manpower = 500000
 	
 	state_category = town
 	
 	resources={
-		chromium=1 # was: 2
-		aluminium=10 # was: 22
+		chromium = 2
+		aluminium = 18
 	}
 
 	history={
@@ -16,18 +16,18 @@ state={
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
-			air_base = 1
+			air_base = 2
 			122 = {
-				naval_base = 3
+				naval_base = 4
 				coastal_bunker = 2
 			}
 		}
 		
 		victory_points = {
-			53 3
+			53 6
 		}
 		victory_points = {
-			122 5
+			122 10
 		}
 		add_core_of = NOR
 	}

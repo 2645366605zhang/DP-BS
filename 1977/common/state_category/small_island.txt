@@ -1,6 +1,6 @@
 state_categories={
-	large_island = {
-		local_building_slots = 2
+	small_island = {
+		local_building_slots = 1
 	
 		color = { 200 160 0 }
 	}

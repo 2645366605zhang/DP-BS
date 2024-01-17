@@ -1,7 +1,7 @@
 
 state = {
 	id = 1055
-	name="北拉普兰"
+	name="西北拉普兰"
 	manpower = 20000
 	
 	state_category = pastoral
