@@ -1,0 +1,25 @@
+state={
+	id=1062
+	name="布兰太尔"
+
+	history={
+		owner = MZB
+		add_core_of = MLW
+		add_core_of = MZB
+		victory_points = {
+			12908 3
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		12908
+	}
+	manpower = 750000
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	local_supplies=0.0 
+}

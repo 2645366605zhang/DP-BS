@@ -1,0 +1,22 @@
+state = {
+	id = 1061
+	name = "莱什韦·马利斯克斯"
+
+	state_category = pastoral
+
+	history = {
+		owner = GBI
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = ZAM
+		add_core_of = COG
+	}
+
+	provinces = {
+		13273
+	}
+	manpower = 514
+	buildings_max_level_factor = 1.000
+	local_supplies=0.0 
+}

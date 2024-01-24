@@ -1,0 +1,23 @@
+state={
+	id=1064
+	name="南坦桑尼亚"
+
+	history={
+		owner = MZB
+		add_core_of = MZB
+		add_core_of = TZN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		2255 10972 10845 12967 8201 8182 12944
+	}
+	manpower = 1100000
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	local_supplies=0.0 
+}

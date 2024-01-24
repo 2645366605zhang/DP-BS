@@ -1,0 +1,24 @@
+state={
+	id=770
+	name="北马拉维"
+
+	history={
+		owner = GBI
+		add_core_of = MLW
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			12986 2
+		}
+	}
+
+	provinces={
+		12986 13209 
+	}
+	manpower = 1000000
+	buildings_max_level_factor = 1.000
+	state_category = rural
+
+	local_supplies=0.0 
+}
