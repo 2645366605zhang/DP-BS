@@ -1,0 +1,23 @@
+state={
+	id=539
+	name="加蓬"
+
+	history={
+		owner = RCG
+		add_core_of = GAB
+		add_core_of = RCG
+		add_claim_by = COG
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces={
+		8207 10948 13210 
+	}
+	manpower=409752
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=1.0 
+}

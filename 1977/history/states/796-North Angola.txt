@@ -1,6 +1,6 @@
 state = {
 	id = 796
-	name = "南利奥波德维尔" # 南金萨沙 # Sud Kinshasa
+	name = "南利奥波德维尔" # 南金萨沙 # Sud Kinshasa # 北安哥拉 #
 	history = {
 		owner = COG
 		buildings = {

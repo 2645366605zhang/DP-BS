@@ -1,18 +1,17 @@
 state={
 	id=545
 	
-	state_category = pastoral
+	state_category = rural
 	
 	name="STATE_545"
 
 	history={
-		owner = ENG
+		owner = GBI
 		buildings = {
 			infrastructure = 2
-
 		}
 		victory_points = {
-			10929 1 
+			10929 2
 		}
 		add_core_of = ZIM
 	}
@@ -22,6 +21,5 @@ state={
 	}
 	manpower=1171336
 	buildings_max_level_factor=1.000
-
 	local_supplies=3.0 
 }

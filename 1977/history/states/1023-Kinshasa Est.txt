@@ -8,10 +8,11 @@ state = {
 	history = {
 		owner = COG
 		buildings = {
-			infrastructure = 1
+			infrastructure = w
 			industrial_complex = 1
 		}
 		add_core_of = COG
+		add_claim_by = ANG
 	}
 
 	resources = {

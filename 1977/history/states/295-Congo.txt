@@ -17,6 +17,7 @@ state={
 			5117 4
 		}
 		add_core_of = COG
+		add_claim_by = ANG
 	}
 
 	provinces={

@@ -529,7 +529,7 @@
  ETN_neutrality_DEF:0 "莱索托王国"
  ETN_neutrality_ADJ:0 "莱索托王国"
 
-#Cosmetic
+#Cosmeticind
  
  
  
@@ -537,37 +537,93 @@
 
 #Overlord
 
+ ROC_SRC_subject:0 "台湾特别行政区"
+ ROC_SRC_subject_DEF:0 "台湾特别行政区"
+ ROC_SRC_subject_ADJ:0 "台湾特别行政区"
+
+ ROC_SRC_neutrality_subject:0 "台湾省"
+ ROC_SRC_neutrality_subject_DEF:0 "台湾省"
+ ROC_SRC_neutrality_subject_ADJ:0 "台湾省"
+
  VIN_SRC_subject:0 "广南自治区"
  VIN_SRC_subject_DEF:0 "广南自治区"
  VIN_SRC_subject_ADJ:0 "广南自治区"
+
+ VIN_SRC_neutrality_subject:0 "广南省"
+ VIN_SRC_neutrality_subject_DEF:0 "广南省"
+ VIN_SRC_neutrality_subject_ADJ:0 "广南省"
  
  JAP_SRC_subject:0 "日本自治区"
  JAP_SRC_subject_DEF:0 "日本自治区"
  JAP_SRC_subject_ADJ:0 "日本自治区"
+
+ JAP_SRC_neutrality_subject:0 "东瀛省"
+ JAP_SRC_neutrality_subject_DEF:0 "东瀛省"
+ JAP_SRC_neutrality_subject_ADJ:0 "东瀛省"
  
  MON_SRC_subject:0 "蒙古自治区"
  MON_SRC_subject_DEF:0 "蒙古自治区"
  MON_SRC_subject_ADJ:0 "蒙古自治区"
+
+ MON_SRC_neutrality_subject:0 "漠北省"
+ MON_SRC_neutrality_subject_DEF:0 "漠北省"
+ MON_SRC_neutrality_subject_ADJ:0 "漠北省"
+
+ PRJ_SRC_subject:0 "朝鲜自治区"
+ PRJ_SRC_subject_DEF:0 "朝鲜自治区"
+ PRJ_SRC_subject_ADJ:0 "朝鲜自治区"
+
+ PRJ_SRC_neutrality_subject:0 "朝鲜省"
+ PRJ_SRC_neutrality_subject_DEF:0 "朝鲜省"
+ PRJ_SRC_neutrality_subject_ADJ:0 "朝鲜省"
  
  AMS_SRC_subject:0 "阿伊努族自治区"
  AMS_SRC_subject_DEF:0 "阿伊努族自治区"
  AMS_SRC_subject_ADJ:0 "阿伊努族自治区"
+
+ AMS_SRC_neutrality_subject:0 "虾夷省"
+ AMS_SRC_neutrality_subject_DEF:0 "虾夷省"
+ AMS_SRC_neutrality_subject_ADJ:0 "虾夷省"
  
  BRM_SRC_subject:0 "缅甸自治区"
  BRM_SRC_subject_DEF:0 "缅甸自治区"
  BRM_SRC_subject_ADJ:0 "缅甸自治区"
+
+ BRM_SRC_neutrality_subject:0 "缅甸省"
+ BRM_SRC_neutrality_subject_DEF:0 "缅甸省"
+ BRM_SRC_neutrality_subject_ADJ:0 "缅甸省"
  
  BAN_SRC_subject:0 "孟加拉多民族自治区"
  BAN_SRC_subject_DEF:0 "孟加拉多民族自治区"
  BAN_SRC_subject_ADJ:0 "孟加拉多民族自治区"
+
+ BAN_SRC_neutrality_subject:0 "磐起省"
+ BAN_SRC_neutrality_subject_DEF:0 "磐起省"
+ BAN_SRC_neutrality_subject_ADJ:0 "磐起省"
  
  AIS_SRC_subject:0 "阿萨姆特别行政区"
  AIS_SRC_subject_DEF:0 "阿萨姆特别行政区"
  AIS_SRC_subject_ADJ:0 "阿萨姆特别行政区"
+
+ AIS_SRC_neutrality_subject:0 "藏南省"
+ AIS_SRC_neutrality_subject_DEF:0 "藏南省"
+ AIS_SRC_neutrality_subject_ADJ:0 "藏南省"
+
+ UIR_SRC_subject:0 "琉球自治区"
+ UIR_SRC_subject_DEF:0 "琉球自治区"
+ UIR_SRC_subject_ADJ:0 "琉球自治区"
+
+ UIR_SRC_neutrality_subject:0 "琉球省"
+ UIR_SRC_neutrality_subject_DEF:0 "琉球省"
+ UIR_SRC_neutrality_subject_ADJ:0 "琉球省"
  
  DSR_SRC_communism_subject:0 "东北特别行政区"
  DSR_SRC_communism_subject_DEF:0 "东北特别行政区"
  DSR_SRC_communism_subject_ADJ:0 "东北特别行政区"
+
+ DSR_SRC_neutrality_subject:0 "少海省"
+ DSR_SRC_neutrality_subject_DEF:0 "少海省"
+ DSR_SRC_neutrality_subject_ADJ:0 "少海省"
  
  SRC_USR_communism_subject:0 "中华苏维埃社会主义共和国"
  SRC_USR_communism_subject_DEF:0 "中华苏维埃社会主义共和国"
