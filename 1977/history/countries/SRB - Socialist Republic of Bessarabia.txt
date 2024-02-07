@@ -4,18 +4,33 @@ set_research_slots = 2
 
 set_convoys = 60
 
+# Only for testing purpose
+USR = {
+	if = {
+		limit = {
+			has_dlc = "Together for Victory"
+		}
+		set_autonomy = {
+			target = SRB
+			autonomy_state = economic_puppet
+		}
+	}
+	else = {
+		puppet = SRB
+	}
+}
+
 set_politics = {
 	ruling_party = communism
 	last_election = "1975.9.19"
 	election_frequency = 60
 	elections_allowed = yes
 }
+
 set_popularities = {
 	democratic = 0
 	fascism = 0
 	communism = 95
 	neutrality = 5
 }
-
-
 

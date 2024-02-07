@@ -1,16 +1,16 @@
 
 state={
-	id=6
-	name="STATE_6" # Flanders
+	id = 6
+	name = "佛兰德" # Flanders
 	manpower = 4747700
-	resources={
-		steel=25 # was: 48
+	resources = {
+		steel = 30
 	}
 	
 	state_category = metropolis
 
 	history={
-		owner = BEL
+		owner = KBG
 		victory_points = { 516 30 }
 		victory_points = { 6598 30 }
 		victory_points = { 6560 5 }
@@ -31,7 +31,7 @@ state={
 		
 		add_extra_state_shared_building_slots = 2
 		
-		add_core_of = BEL
+		add_core_of = KBG
 	}
 
 	provinces={

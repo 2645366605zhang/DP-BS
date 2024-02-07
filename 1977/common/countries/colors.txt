@@ -966,3 +966,13 @@ LST = {
 	color = rgb { 0 154 68 }
 	color_ui = rgb { 0 154 68 }
 }
+
+RUD = {
+	color = rgb { 220 195 10 }
+	color_ui = rgb { 220 195 10 }
+}
+
+KBG = {
+	color = rgb { 220 195 10 }
+	color_ui = rgb { 220 195 10 }
+}

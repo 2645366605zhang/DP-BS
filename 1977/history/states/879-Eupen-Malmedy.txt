@@ -12,8 +12,8 @@ state={
 			infrastructure = 3
 			arms_factory = 1
 		}
-		owner = BEL
-		add_core_of = BEL
+		owner = KBG
+		add_core_of = KBG
 	}
 	manpower=0
 	buildings_max_level_factor=0.500

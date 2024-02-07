@@ -1,0 +1,32 @@
+capital = 768
+
+set_research_slots = 1
+
+KBG = {
+	if = {
+		limit = {
+			has_dlc = "Together for Victory"
+		}
+		set_autonomy = {
+			target = RUD
+			Autonomous_state = resource_colony
+		}
+	}
+	else = {
+		puppet = RUD
+	}
+}
+
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	democratic = 0
+	fascism = 18
+	communism = 22
+	neutrality = 60
+}

@@ -23,4 +23,3 @@ set_popularities = {
 }
 
 set_convoys = 80
-set_stability = 0.75

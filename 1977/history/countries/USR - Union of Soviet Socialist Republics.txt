@@ -37,9 +37,3 @@ add_to_faction = ASR
 add_to_faction = FPA
 add_to_faction = PER
 add_to_faction = WKB
-
-#Only for testing purpose
-set_autonomy = {
-	target = SRB
-	autonomy_state = economic_puppet
-}

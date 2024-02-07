@@ -47,7 +47,7 @@ autonomy_state = {
 		always = yes
 	}
 
-	#ROOT is puppet - FROM is potential OVERLORD
+	# ROOT is puppet - FROM is potential OVERLORD
 #	use_for_peace_conference_weight = {
 #		base = 0
 #		modifier = {
