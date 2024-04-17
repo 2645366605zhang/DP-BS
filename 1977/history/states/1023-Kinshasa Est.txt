@@ -8,7 +8,7 @@ state = {
 	history = {
 		owner = COG
 		buildings = {
-			infrastructure = w
+			infrastructure = 2
 			industrial_complex = 1
 		}
 		add_core_of = COG
